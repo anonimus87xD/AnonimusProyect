@@ -805,14 +805,14 @@
       },
       {
         "name": "SPACE",
-        "ico": "https://imagenes.gatotv.com/logos/canales/claros/space.png",
+        "ico": "https://ztv.com.ar/Img2/space.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxCDU7kH5TPslPphnKv9YAFyhuOpV0OKg41mO/OgZh7c6uGWJblJK0oWIZOvJzOvBY=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGXjTWk/PV/Y7BwoHjdcN77hOF4jkJums1BaKmyqRNyyC"
       },
       {
         "name": "TNT",
-        "ico": "https://imagenes.gatotv.com/logos/canales/claros/tnt_latinoamerica-mediano.png",
+        "ico": "https://ztv.com.ar/Img2/tnt.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzyUPOEi8pcpBD355dqUwIYfVAy8jtJVs8rhlede+ZPnwFeUuyrg03hlgnm1DXI90VN6Qrf5hY4RlUUVyM6qXCd",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGbaxLqvi5U3ned/jNBPtMytXw6Lrov4f7zuUgCqF1+Zq"
@@ -1145,13 +1145,6 @@
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wruY/XgG4lpcR7t1dH6KTQHr"
       },
       {
-        "name": "CORAZON TV",
-        "ico": "https://panelssh.com.ar/Img/corazontv.png",
-        "uri": "8ViO+sgNrcv2qbGv0D2f6GGy2hAdjZ2E9UKgVFqg67eC+5FfZP2OJo0MMotwfc+JORz4SLJArx644r3nBhLaeA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGTs0TlFwPOKT6QnJJhJt1f7UgzM6MymZvh8KpTaLa3n1"
-      },
-      {
         "name": "BRAVO TV",
         "ico": "https://panelssh.com.ar/Img/newbravotv.png",
         "uri": "VMCmuga0JuMTQJdIKOL6rd05xWX6xIAkcw3TVXrVO7FynqpGJZUFHKEImWSpKoSDcXL+Yi9zpZK5DNfigph+8J2FCi/lJsGS3YrXcoWRo2s=",
@@ -1222,13 +1215,6 @@
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGRdp7Duxu5MGZ/p9EQfAhf0fW6bSinXyJanGvaRdihyw"
       },
       {
-        "name": "TRU TV",
-        "ico": "https://panelssh.com.ar/Img/trutv.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxwZe8CH6cn2oMOxrT/cLlf6t55tECv4UiObkKz0p30PZbMckBMkwlm84mKHuqL4HE=",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGTDQ2ENBIWwXxsGLSNCuWgmelY2SdgInhO1HJR9jUc68"
-      },
-      {
         "name": "KZO ENTERTAINMENT",
         "ico": "https://panelssh.com.ar/Img/kzo.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyuqk32Snb0A5dcBD5EI8dswAXKEi+erRNN4iK/Q0hfUjKSUVivGB2B09ftdLR284o=",
@@ -1269,13 +1255,6 @@
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgw9zhE0FVldadfQHznyC3GKewFtBX8L4ujgwyGPBNnwaLlbOja9lBTrn7tByaJwvBbh/R/EUenrQiM0eemkKLpM",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYjk7ZzpQHXx67outQvL+G4MJVQ0gG3savqwWXBCxsiY"
-      },
-      {
-        "name": "TELEMAX",
-        "ico": "https://panelssh.com.ar/Img/telemax.png",
-        "uri": "oLPhTYQVNDTGKarhGiqn3ceDbkSfoeK/4ZXURcvngsa8NqN5FeKlKP8UGajllZP6A6/K8llNvKRy4z5VCsBzmuscRGIKCtEhnsUozgPXmgM=",
-        "drm_scheme": "",
-        "drm_license_url": ""
       },
       {
         "name": "WOBI",
