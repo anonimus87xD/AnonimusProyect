@@ -407,17 +407,17 @@
     "name": "DEPORTIVOS",
     "mode": false,
     "lista": [
-      {
-        "name": "ESPN PREMIUM AR",
-        "ico": "https://panelssh.com.ar/Img/espnpremium.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzsg0DId7Zfj3BpOtT8UpvGwolvet6kTkywZydKzStquj13umxYSXyXwDfry5BZ5IG4wP3AON/614LRK3ijtkZfy8+HsrFitC0HzZx0eR0mKw==",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGZz6zJacEAe8zeRxBLWQqS+QB5Rdt/urdzPp4/ZjvUwO"
-      },
+  {
+    "name": "ESPN PREMIUM AR",
+    "ico": "https://panelssh.com.ar/Img/espnpremium.png",
+    "uri": "VMCmuga0JuMTQJdIKOL6rd05xWX6xIAkcw3TVXrVO7EQwzZKtsMYbgBlXrXi0UdSE2qil7Djm8e2Z6cASMNNXYlkXfwSR1a1f/LnSJrUwH+Nms0BAd7hGM93vfmN/22YKJNzXF8YYBT8Pc7i6WGX1w==",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGZz6zJacEAe8zeRxBLWQqS+QB5Rdt/urdzPp4/ZjvUwO"
+  },
   {
     "name": "OPC 2 ESPN PREMIUM AR",
     "ico": "https://panelssh.com.ar/Img/espnpremium.png",
-    "uri": "6ZvLEwVir4RDu/hYm2LB+iiaNXsPp4P2G0RWBd27EKFKHJL/aQf/UVIMdFzq9RhBbJN6JyLy0NCM/yfL3GFpPJj8l+i3OAIDU569v0Jx1Djt58ZGQeGlS/n/am/761XlQx8hHOlsKsU05d4WscOfxA==",
+    "uri": "VMCmuga0JuMTQJdIKOL6rd05xWX6xIAkcw3TVXrVO7EQwzZKtsMYbgBlXrXi0UdSE2qil7Djm8e2Z6cASMNNXYlkXfwSR1a1f/LnSJrUwH+Nms0BAd7hGM93vfmN/22YKJNzXF8YYBT8Pc7i6WGX1w==",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGZz6zJacEAe8zeRxBLWQqS+QB5Rdt/urdzPp4/ZjvUwO"
   },
