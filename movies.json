@@ -1,36 +1,92 @@
 [
     {
-        "name": "PELICULAS ESTRENOS",
+        "name": "PELICULAS ESTRENOS 2024",
         "mode": false,
         "lista": [
   {
-    "name": "Plan Familiar",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j1hE9OUwDvYnZRCoOHWl3uURRI5.jpg",
-    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr15kLdwnfevQWvumIpYQbtGbYTA6vOAjsIQ6Wl6jodwqZA==",
+    "name": "Suncoast (2024)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/02/nmPLUp5lVMiGomkN3db1WPeNrz3-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8ZLmT9XDQQEpKsG29K1+onKPw/J8sCUtl/FdUtKOEuig==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
- {
-    "name": "Juego de Roles (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bnG0VwIw9oBFVn58Z9cixVLsn93.jpg",
-    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr17cGKBGAgV2WqgHwN7ZGMuFXcuoM6NisYL8AE3UNtVCEA==",
+  {
+    "name": "Ascenso (2024)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/02/Ascenso11-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/mLBt1IaXuwgr/XtA4SQzeh77b+BVInR4oBFrbeYG+tw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El aprendiz del tigre (2024)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/02/iiid1xMhoAcW83VJ9LdAqf4Vtbr-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8CnDkjHc8N38szqX2gayJC7UTWBDBY8u0oOPuAZyBwr0w6FyduJMJ6+x68dY8qV4k=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Bosco (2024)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/02/nZMkfWufAMwAU9SfCCiWqlgIkaN-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/09cE9Q5vGd255P1oG8qtmDkuLJ0++ugwQvGN9KWdswA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Orión y la oscuridad (2024)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/02/uHiXFLMlnl5jBjtfOliapN16yBD-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9JsFTU94MEn0njevj4za02OkHd0tqNOBjfn1nqACwhtfAmRgWbBDco0SXCpL4Py6Q=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Cazadores en tierra inhóspita (2024)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/jPGbcbMlzGUECukPhkEMVt1Kvs5-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/QK5bvTNHGPbfM4Opjoqj+uGQC9IZ+z/9OsDFdc7kAk6MzsDRVem7qYZV8r6//Bzw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los menospreciados (2024)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/3wu1W6bvNGPm2AvVDP7dkGYF8pd-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/8+a0E9K+XdaMAddEMVpHHHuO6yA8U7BOCNXcIXhMz0XGsQW75GnBhMQnCmcKkJk8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Aguas siniestras (2024)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/gSkfBGdxdialBMM7P02V4hcI6Ij-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9IuYVx3q41ZzwfCSG1R9utYQ4wA84QWhyFPa+ecI1Eaw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Monsters: El infierno del dragón (2024)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/2ciwOfaGH2TFYWbftG7amTPVuX0-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9SOnZ+t6SBqVebws+tiSCYUTGeBS+kbq/1CgRkw/6iLLJ/UPMv0tvd/KFtYZyrjrG5bnFz8erzfuRRzGib3I0X",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Cocina (2024)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/yu4UgSvIxvcfZpCWJnH549nnIpw-202x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9GjCRyJeKewI/ZS5P6e5Y/+BXteztXJxhEAYHqBlR6nQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "60 Minutos (2024)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/xrb6lzCC8Ge12Xb7TdjXI3AvSlZ-202x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8BR6azRwK5lVaPuRhVKb7rF1sGRlaojFw+nyO4Iv/3KVsds+LL8vvnhnp9jKowrug=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Lift: Un robo de primera clase (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/veUHao6XPxcb5MeRDdhokevxiz5.jpg",
-    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr165U2n/iAbzibYjDlDnnaXw",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/46sp1Z9b2PPTgCMyA87g9aTLUXi-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8uRDkuhowoEqiL1Eltp1bsW+4fktNnlUBs3q4Yy0c0XQ==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },        
-  {
-    "name": "Elijo Creer",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eLbDSu14EZ2VldIgDDGrt5pJkoL.jpg",
-    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr15jmaUdTI9GHdrnrX8ndG2JVQT3buzLRb5ZQpmkvYiI9Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },            
+  },
   {
     "name": "Napoleon (2024)",
     "ico": "https://hackstore.rs/wp-content/uploads/2024/01/Napoleon-200x300.jpg",
@@ -58,133 +114,328 @@
     "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/mF1u3qreRjrvWTyP2DJ/Gb0wUUQS6UMAVuTaGfBQYxQ4Hf1ygL74llxMZ7xElUos=",
     "drm_scheme": "",
     "drm_license_url": ""
+          }
+        ]
+    },
+    {
+        "name": "PELICULAS ESTRENOS 2023",
+        "mode": false,
+        "lista": [
+  {
+    "name": "American Fiction (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/02/American-Fiction-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+RXSGUQ3Z00uP+V6l1bRsY902ghOWLU1URvAju8SHFKl2YGexWEcHQNfrILYu6TQo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
   },
   {
-    "name": "Liga de la Justicia: Crisis en Tierras Infinitas, Parte 1 (2024)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kr36D6FiF8mNrsPz4fL6OUAvrrJ.jpg",
-    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr14I0cJeDZyLTh8FW0MMQ6insqI3xKSoFZVjcc4zsqNF1A==",
+    "name": "Manodrome (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/02/w5hACqUlPbpHiGLYbtoQHF0SNWe-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+V3g3HRNh5z/PXA6we1EvK8TPDsi0t+YrkL2cUQH4gUg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La Maldición del Queen Mary (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/02/1BccI1roRYZCXbMjIwLtyq0XKzz-210x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+bvwkW/r+Ge22CV1nW8gTJXckOaNJG15n7CUkk66zg2LOC9SZvWRlZqnqOnEMgI2bPCSYLudDXodHo2guLt1IV",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Noche de paz (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/u5rCDIvbAMlBr3fMt57tDfkrV1o-201x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/pdWRd7XJjFLKnlOlnckkLjWLh8kPp34MW1ZzFA/xThnPp8Iu962alJ1jFs/HpqK4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "¡Patos! (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/x2y9b57WxrbPATlyeOr7BesmUem-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9orlkcxvVn9rE1rkNsuvYpga+mckrIpZ6DEqnJ3r7SrQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Wish: El poder de los deseos (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/bmStWmjibcUSz9dzbW1Yxoykxaj-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9y+3EsH8m09em6FATp9Ruq16mGieOSaMc/5qkvyrw4Sw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Aquaman y el reino perdido (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/d9Hv3b37ZErby79f4iqTZ8doaTp.jpg",
-    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr14HM5L6aKcL5C9mmJB/axboHWIKe8zCdf8VNg0EvXMIRA==",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/d9Hv3b37ZErby79f4iqTZ8doaTp-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/bU7ekF5j5wqxTBJ5MmJA1ALyBKfNftGb7rGXn5hnAtlq/9KmFZehmOh3sksh1DJ+sVbzRO5sOHSYTrB/JuY9F",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Wonka (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x6p5jZw7YwqBadiKBDzmXs03Emz.jpg",
-    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr14kcVB/HneWRxEJFZ6RjKT2",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/Wonka-223x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8Ww0B72zooQaEfynW6OA9p/L7kwV6AhBrFZ+HUAQGLag==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Migración. Un viaje patas arriba (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/x2y9b57WxrbPATlyeOr7BesmUem.jpg",
-    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr16/yaiQDDziYunie757S0AO3Ke2uPKBjfHvNS/50eOjjg==",
+    "name": "Camino a Belén (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/nBNm7WgAYeGLSrQz1PoNB94CS1Q-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8Ug45YWBtDcoF6u63bXz5mPqMipYjV4nD/u11tJZx+ipmXMw1G68Yqz6dZS2v7yUE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Gol gana (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/Gol-gana-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8QcNrElDy076N9/jOHCyLh5mGgvVtLsuhaVq5DnQvtiAR7Q8zzDBigpBphGbEqUj8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Remando como un solo hombre (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/gITUKDCvOZSvfN34dAKVlhU0Zf6-225x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/QCKW2jjGJIKVVEpGEADOKypVoKVNn/LnrrrPg+91eHL2X7uj1q1Uh2czapAeI0Jo=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El color púrpura (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/El-color-purpura-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9YacBWMhHcHpXbyoJIjmzCU2GYVdBv5jkndLyjY9i/0lGwm/HxOJo/9OSJzyIJSDE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "The Marvels (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/The-Marvels-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH98QWvW5pmrwzhKzjI86qVw+5+NalU73dMFGiJFT0/emw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Elijo Creer: El Camino del Campeón (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/tAX05FIcjnllogMa2r0FmamNhpU-210x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+R/F9BpMRDlK2SlzBEJg4muYWd2wFV+B1UZMCCkzki+Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "Muchachos, la película de la gente (2023)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4lb7Lpwzu908fbph9enKN0axiYy.jpg",
-    "uri": "X0z9KSCQKlDSxPtiN6s6RbBXSVWEeDq5gkOhYF3O6mcnIAJgsUffG0E38ETMoN10",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+rERZ5BKvsSg8VgVdl0AutviIwuAcRjQhbtHDqx0xNcg==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },            
- {
+  },
+  {
+    "name": "Muchachos 1080P (2023)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4lb7Lpwzu908fbph9enKN0axiYy.jpg",
+    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr15rmWxtFwEoC15kRkHszXI9ZiM544Ftg+NqXh8RVxxgvEhBsiUToi1UsevqLMU/nGamavEK3Z0UVuwQ/t3berwF",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "South Park (No Apto Para Menores) (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2OWYKGC3XmWOhcw66WkgUV0IV3g.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5WmrLmwf1stj4EhgOdYZ99dYNgnXglYQStXKbvb0a0kQ=",
-    "drm_scheme": "",
-    "drm_license_url": ""
- },           
- {
-    "name": "Chicken Run: Amanecer de los nuggets (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xPQeZUdUIsjbbXVjm69owPdSqTG.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5b5iAm5xPuMp73qHbyPG/Ztn+icNph7l4fpD0oGpEtRY=",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/2OWYKGC3XmWOhcw66WkgUV0IV3g-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+DJhtHL2R1WMLbw0oQLnH4keonFg2Dqyi9KkLUhVLqNnfZ0LaV4uk8TZUSL9WE4kuaryUPDODBNwHcJEL2NtdT61Jg2srUx2M2b5sFBwqx1g==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Su unico Hijo (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1MvQXCBJtC34yI16QS276ZjWKY1.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I58BNSmKMiWnGwC/SaatPxkVFfBlkce/xj7zUvr1IX2E8=",
+    "name": "Saltburn (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/zGTfMwG112BC66mpaveVxoWPOaB-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9LT+KnRbry6v6NQ7moD6cfnppBFj13YIur+A86ABB7TQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Mansión encantada (Haunted Mansion) (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3EuVUPGihWXfwTt3myKVKOydPVW.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I58JlCg2gMmQaY03YKCqBhbKbWVnKFErgjacDS9ll+p4Y=",
+    "name": "Viernes negro (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/Viernes-negro-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/kfWF6FaTIyZ5YGVAC/Ako6Y76FoMfGBuKbva+0Ee2Sw==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },          
+  },
   {
-    "name": "Viernes Negro (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zCR24HZm2RYs6GfgcHPnin6U7vZ.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5xCITkwZnm9Fr0TfIPvAIZH7dqoTJzu3y9V3jCUhNirE=",
+    "name": "Su unico hijo (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/aDbmDOvZTfl2zY3mUaPXbgfRb2Q-212x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+wN3Qa0xqxV8FQ1RetvDw52wRZUh/5FqqE3CBX26wew7JIeYosu7N4H4lC38+YN/k=",
     "drm_scheme": "",
     "drm_license_url": ""
-  },           
+  },
   {
-    "name": "Trolls 3: Todos juntos (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yco6dWR1W3iANUEKxGT0vQRWrJn.jpg",
-    "uri": "X0z9KSCQKlDSxPtiN6s6RcwP3+EIJBxE729TTS+ewnijlwksfEZn5hpZwbK/eVDq",
+    "name": "Maestro (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/aKO2S6KIRgiHcnbii4ApwfnPNGi-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/l4eUC9mVBDgoNdTIJSTShDDRSsU6iZKcPC76g/OiO6g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los juegos del hambre: La balada de pájaros cantores y serpientes (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/Los-juegos-del-hambre-La-balada-de-pajaros-cantores-y-serpientes-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/V0h2IPHgI14m9VPko1j/8tGu4yvnS0w2IT4/2mfV9nVYOAK094DvXQo0S4yYdxbd7Fssvw7NpnFuLu8fDOJboRFQDryDvEDClU481l6NpE8c1n3MUsL2GPZxmQdCUQEI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El bufon (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/jsOaCojcuxktg8w1UQkoFfn1y1g-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/GABQxGHhxh3HkDeNs9tI5l0oUMv+Ktp48VTVWWXZfrQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Finestkind (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/w87pGcT0Hxwjxsr4frgyVj6IZik-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/AvKQ8MVaRZC3ePxhFfSfBUvzxc2X9aapVhKh+3IBDdQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Plan familiar (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/mBiylEUJgWikljJJNB61u7dDPON-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8v1HbAx6yKO0ZTS1fxgp2z803pG/dQVB5MM0XJRZ40sdUpZj/bVONuqhNREE9m22U=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Pollitos en fuga: El origen de los nuggets (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/Pollitos-en-fuga-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8obUwhXzPyDLmWZqsjczwpT36pNGTkBdthnPq57vD6DuCmlxPqqeYOz73Zp7S+jKvuqntrPMZtneWXZ60q2bYi",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "The lesson (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/ktB7bt09HRQT701hVS8C23tkN6N-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9WvT8LRBqOA9LGlnaRh+8MPPltR8lkla+OaLrHnP20jg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Tu navidad o la mia 2 (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/j0n68v05DPaCcjl0AnEQmTQB154-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+W2gaJbrGtMuMUkB+D8CkfPfoxnoabCd92nWQjWVh7YWzRd4+C4HS4xfD93vLEnJU95QTpO4zBL8XaPSrqaV08",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Dejar el mundo atras (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/zis5MIAGwYYmxb46oTUDgRPKA7u-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9Vev/eGsU8amIszN2XhA4uiRbhsvLSxMSaXpxyKrn7hcrt/MHOjdxdsYTJrNuRbvI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los archies (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/Los-Archies-225x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/12+u006JPJ82Y1nW/JJGoqbUVAYcKINqYPFsnR2Lbxw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La navidad del pequeño batman (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/z2IUfIQ1odE3DfiHszU7KqPiHm0-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8LCrS3JdF5D+d86Lvyc56kOUtDmztmEe3W75FgQj4/EoLu2xgNaVPt+Wxaj/CWIP8=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Mavka guardiana del bosque (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/7y2MqycqOzK8V8axtRLF6BERWoG-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH81niDfaAPTgT6nBgTGIea4dyjHFYT2phnKvbR4oLLSQOqvh8dGhtVsKk8Sj5J3bZs=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Blackberry (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/Blackberry-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH81yk+WeBa4uSWpvalxJEwmQoRQUKA6EQJLiYK3NxO9aw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los asesinos de la luna (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/aZXHjmhSSGUshLEdgsNCTH9z7Ix-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+tJC0POgXRV4HVrnklQThaXPvoCh2w5aC2OCyn2L8i29HA0bskJRU+Qxi7Zi3NxNHT6H901kALC2zxKsIfotR2",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Trolls 3 (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/yco6dWR1W3iANUEKxGT0vQRWrJn-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/gGxE+0Lv4JwxBq9BM605weuSK8NDnufBcDeSSvhiPoCvI1AiTYUrPqR8+9YIvBtg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "The Shepherd (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/tjnZNP5783TWtuefte7C20bf3lM-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/nRxbsQe547cSeSvexkVtc+SEJEHdIp6Od+gdTcxmJFvjObfdVtVXSzf/hyH7kkGY=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "La calle de la Navidad (2023)",
-    "ico": "https://static.wikia.nocookie.net/doblaje/images/b/b9/La_calle_de_la_Navidad.png/revision/latest?cb=20231201161241&path-prefix=es",
-    "uri": "X0z9KSCQKlDSxPtiN6s6RQ/7+rPo0UsvT8KcGT3s13UUjGpe78gIzu9huDsXuEdk",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/12/La-calle-de-la-Navidad-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/nlr9Y1ngErEm7WcK5vASCFiqpwri0oSR7j9VJFsX/KJjwBXBtvSjDEv5zhxOGrtE=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Blue Beetle (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z5mkvXYNRauSzHdZgxAj6MzrLTY.jpg",
-    "uri": "X0z9KSCQKlDSxPtiN6s6ReDmvtjk5j3CtfpH8DLKE7ndmeoQPcz0h5jqz+M0Uhnv",
+    "name": "Dias Dificiles (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/11/Dias-Dificiles-212x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/BTNBe9BcLBPm98oJ7JflFYWk1+hHO/v2VWIH8VB24Hg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Los Mercenarios 4 (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2jmE7xH0R0dikmc8iplCPCit4MD.jpg",
-    "uri": "X0z9KSCQKlDSxPtiN6s6RVgoRCbPTk6XQleGcj5GJIqYWTTitg+6TM6VvpWKRb6Q",
+    "name": "Familia Revuelta (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/11/xUJJXVugggonJ0hpWtj9Qsxode1-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8tFMbd8vJF++RnwMIjkBomGArc3dGnRsQw3EbmdhVFMq7kJdrwO7Q79jD2+8y0RMg=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "The Creator (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c6otMCRG9bZzI97o9V8hCkOgUvA.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5N2nW2DTtC5CTJZuxDdDqkvKq3IIkMfM6MU1bwB58QfA=",
+    "name": "El arte de matar (2023)",
+    "ico": "https://hackstore.so/wp-content/uploads/2023/11/El-arte-de-matar-203x300.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLEQnD7zqsWpzIFgVfqCXG82DDKL8Yp2KUT/2fymNLIkWvqW1Lhpuwhk8nkjU3Eq+A",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Ninja Turtles: Caos mutante (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mgBXgA8jHext4KRWg84Cux5Y94L.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5eMNxwl5RPmXWrw91/ZCQV13G6Bh30tVt65FOGZ5Opec=",
+    "name": "Sin aire (2023)",
+    "ico": "https://hackstore.so/wp-content/uploads/2023/11/Sin-Aire-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+9sOHE0CW6jdLpp5RoFjg3qf6Y1PzJQknXi2ktVUX3Vg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Contrarreloj (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mhLYcyxuhb82ttYDEU5DM8b3Hy3.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I50cLYJUttkHJMOfz+as9s5jbZq2UZIIR2A1iwR50L+ziDechDul7HkDnZF8BUHgHH",
+    "name": "Genie (2023)",
+    "ico": "https://hackstore.so/wp-content/uploads/2023/11/ykkVuQgvjrVWiEe7TvUQZOrLUgC-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8R3bGIO4rM/bT8RpmW7CczdFVdRItCFpsBvitOX3yOQQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "Rey de asesinos (2023)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/59PHpiaLvVsCriuRzW8aftRoO5D.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5t9Ug4VEygtOCgoPGWwKGaDBx8+33Q1W44lYi0UzyyHgCEAzeoTlNnGax7eHBOJXR",
+    "name": "Leo (2023)",
+    "ico": "https://hackstore.so/wp-content/uploads/2023/11/gSOVog7ydsaF1YpgAqBqnKYFGY-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8A6nFvh4Id5qWUli//GK6kFXCMrFETdjHZ8mpHuhvMmA==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },            
+  },
+  {
+    "name": "Oppenheimer (2023)",
+    "ico": "https://hackstore.so/wp-content/uploads/2023/11/ncKCQVXgk4BcQV6XbvesgZ2zLvZ-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9PHXrY9dA0JJnUzxwF9Oxn2IuGpxnUNCEK2Tsr8Qcqgw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Los indestructibles 4 (2023)",
+    "ico": "https://hackstore.so/wp-content/uploads/2023/11/g6bfq26jmzEGNGMw768Fwu6OmdZ-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/ZbqihxPTGGIFPwu04CtbuO2eC/Lmzm/oizVH/DrvMdA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
     "name": "El exorcista: Creyentes (2023)",
     "ico": "https://hackstore.rs/wp-content/uploads/2023/10/6StdSKn9ej4rwtQjcl1XMk5E0iE-200x300.jpg",
@@ -195,7 +446,7 @@
   {
     "name": "PAW Patrol: La súper película (2023)",
     "ico": "https://hackstore.rs/wp-content/uploads/2023/10/PAW-Patrol-La-super-pelicula-200x300.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH82ojsfDLgFW/vO7DdqGKiemLk0wgYttixX8xG2SAmAc8+NH4Q8urbQ+230ylnupSM=",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8u7vcwPMJawtYMS8Ab1+YrV9uuKEEO2qX7SNBOvHkYOJE/7wp4gHRBupVzrdL/iEEH9AzQ+wGWLM0apDzUGbFz",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -604,20 +855,55 @@
     "uri": "KJUqI+Vv7SeT1BjHKzrm8k32jnrl4QjEOQGzjHsldTfnZ0wu06ZdM0Iw+Y9QEBaI9i8Y6b3gw2pVvt/7lEmygg==",
     "drm_scheme": "",
     "drm_license_url": ""
-  }
-]
+          }
+        ]
     },
     {
         "name": "PELICULAS VARIAS",
         "mode": false,
         "lista": [
   {
-    "name": "Perversa adicción (2014)",
-    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oyxiBAFDXVgy8iUFPLksWwUWtEA.jpg",
-    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I51b121+hDTAtnJXzrFA9Auw==",
+    "name": "El mundo magico de terabithia (2007)",
+    "ico": "https://panelssh.com.ar/ImgPelis/terabithia.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/+V5Cp/w1EIM0gp/eUMyjXBxSNsY2nSuPL4vJKXOxHXMCdYI1UyVFKV5FwnRI1WQk=",
     "drm_scheme": "",
     "drm_license_url": ""
-  },         
+  },
+  {
+    "name": "Casino (1995)",
+    "ico": "https://panelssh.com.ar/ImgPelis/casino.png",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+N/9DNFKKXw+rM/VSw1P3Q+vDDGjiFzA7VqUM6KURvqQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Leyendas de Pasión (1994)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/fZjjcVq8YTOUSN6PYTIS009FsmW-212x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8eEwmIa1fKI7OhB5OkcuEaOpF6TCSm5EABb0spkL3hdJZnwl2+dGywyVkvZ3aFrPU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El Guardaespaldas (1992)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/11/pnGQbumT2SejsZprnszaI2bLA4R-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8pAeuvBgP2zvcOZ4q1O3C60wMKZqIZROeRiQo3BJHKXw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Cara a cara (1997)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/11/kH27W9aZWA3D122gwK2WnKRIwI1-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8dJ8G76ToFAniKlvCj9wMh3oJPUtjtgFz5GMvv6QjRkQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Diamante de sangre (2006)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2021/11/cWp54ohPcYXK3cbNQnCjaZzqMwx-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH96djScfDAwVslnFLRO5j0ljNmBcEDr89est2UEyY0V/o5+nEiaQbC/F5q0xxcyXPU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
     "name": "Los blancos no saben saltar (1992)",
     "ico": "https://www.themoviedb.org/t/p/original/uH3v8ldJKCdy36TDybHb3okgQvy.jpg",
@@ -1401,8 +1687,8 @@
     "uri": "TEVbbY92FVxdqmhGTitBkxvUD+3gIqlgQ7Ra1WW0rfHQK4a1ivwtXsO70tYdqAT/a2n2+GEINJ0xI42H6jk0LG0yzghsu9APiJ9WnOPODdU=",
     "drm_scheme": "",
     "drm_license_url": ""
-  }
-]
+          }
+        ]
     },
     {
         "name": "PELICULAS ARGENTINAS",
@@ -1411,7 +1697,7 @@
   {
     "name": "PAPA SE VOLVIO LOCO",
     "ico": "https://panelssh.com.ar/ImgPelis/papasevolvioloco.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8o/3DFidpwkkmjQ7gPQ9EG1BAjtl5sS25NH4ZF5Pqyr5ihhGDCshSt/R9s3vZVXx7lpQ34wjHhNDVfeL782yw/A=",
+    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLYPI02mWLVVjg1U0KweqmbUIwanmERKzX+rchKqVELter9JImBX2KPF+d5wX4ROzZ",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -1458,16 +1744,9 @@
     "drm_license_url": ""
   },
   {
-    "name": "MISMO AMOR LA MISMA LLUVIA",
-    "ico": "https://m.media-amazon.com/images/I/71q1hNoOXML._SL1211_.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8qPAGKw8oi9Q85GCXVlQwEukXXZrWvqgnEiT1fbC8nP8CRUSR98a2KkA4GaP+v5PWO8Po0dPVaAsDrW+4CQVfBw=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
     "name": "LA CORDILLERA",
     "ico": "https://image.tmdb.org/t/p/w185/bjrdb6VLEtBcdcKGbyhRfNe51eo.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8idurRR5NoJwa/CaOsT1ClegLsTREYXG8LiCWVJgxIZliiMppAygQRKnO+XKTY5dhQ==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/wY/575gUplbskgZ+1InUVxd3mlUhtfVNQo68O8WuTaA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -1481,7 +1760,7 @@
   {
     "name": "TESIS SOBRE UN HOMICIDIO",
     "ico": "https://pelispedia.la/resize/200/storage/16443/lfrLEYmPA6SEa8kKEW6YQYN7b58nmvpJfDmwUYko.jpg",
-    "uri": "rXlLZ7ZLmk5jyxc6bvVnsfelz2tiHKiY6Nfa0cYSejdKy/aopb99hSgXwZDXh8QBuaCk+wEfV3Q3hyTc8K7hww==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9rIVeD6RR0tIbKIEyI7D4F7jW+psIgajUcGSdfmiDJzwKvPf7loVMnSO6eiCkHFU0=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -1502,7 +1781,7 @@
   {
     "name": "EL SECRETO DE SUS OJOS",
     "ico": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f60a6f84a4de51b4c8da33ce71a79dc2aa0ca9307034ad8e2b9fb1b14d1531a7._RI_V_TTW_.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8qtUhzw6SHcJq0+hj1/JLfYyZypzR2sl9o8BOhuveVgKXFJFz8pQB/jUBYZDjGIon5nwEU6JtqqzLHdb+sWGEso=",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/MVmQYsDf0cKIJGghKIRt3W0We+jo9ZMnYOaS4J48rZChC75Ucw0cAqT+fwsbKpLs=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -1883,8 +2162,8 @@
     "uri": "KJUqI+Vv7SeT1BjHKzrm8kWDPUDbv7pxg66sCp5kLY08k2nQzeVaY3vM2b3dsHX0xcR1yKcabRiST4sO21SOO0OTEgHBmUPhfQdRZKmgsoU=",
     "drm_scheme": "",
     "drm_license_url": ""
-  }
-]
+          }
+        ]
     },
     {
         "name": "PELICULAS INFANTILES",
@@ -1970,7 +2249,7 @@
   {
     "name": "PINOCHO DE GUILLERMO DEL TORO",
     "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/11/w1280/hVa3OCfwqFm6K3Sk6IF68cYr7uk.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8swLOALrnbfEnBaaX6swpTwpDQ9OlUe7aO7MEiAh5ulccFMSKHpEcVEHUUl34c7ZbQ==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/mz9IZranqUGrZ26uPcaKlySFk05s1ueboYTis9Zke528ykUtMMkVqOdLyOxKoDu12hTysrVYmlVAsNrZJh+SM",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -2040,7 +2319,7 @@
   {
     "name": "EL GRINCH",
     "ico": "https://es.web.img3.acsta.net/medias/nmedia/18/82/96/91/20085347.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9VL2lVbutf2lrj4jaYof3xAyZwEvuRX6bXnWq80x23wsSO4StW+aTTQvmjJqjs1Vc=",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+3PQvGv89Zr/+iI3V6A05miZ5K4cgu4dtAewrObL9IKlYi5MNAahLky0AcRyFFav+H3ghqmsAm93bT1HHkwzW8",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -2054,21 +2333,21 @@
   {
     "name": "MI VILLANO FAVORITO",
     "ico": "https://es.web.img3.acsta.net/pictures/14/04/30/09/42/037008.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8aR+xI5lKpo9V9CqsAVUmXYvUxsghA7ccBIHN8uqF7CQ==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8aR+xI5lKpo9V9CqsAVUmXVANtDYESoPg9T+OU+uee/A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "MI VILLANO FAVORITO 2",
     "ico": "https://es.web.img2.acsta.net/pictures/210/090/21009000_2013052817374835.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8aR+xI5lKpo9V9CqsAVUmXjZRoXguKTepgSqTEaDduZw==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8aR+xI5lKpo9V9CqsAVUmXFLUflHQk24j+kqtmqUfSbw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "MI VILLANO FAVORITO 3",
     "ico": "https://educacion2.com/wp-content/uploads/2017/06/libro-gru-3-para-colorear.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8aR+xI5lKpo9V9CqsAVUmXTz2yyag+L/X3fn1exwEUnQ==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8aR+xI5lKpo9V9CqsAVUmX1WI4TBW1s4g4o7B9xGmchw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -2082,42 +2361,42 @@
   {
     "name": "HISTORIA SIN FIN",
     "ico": "https://mx.web.img3.acsta.net/pictures/19/08/05/07/05/3012615.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+EqNLkuopAYxDYj5nmHW2/kqdoYjQvxGP4HGrCVH7T73t3B4sx2wIbKa8wxZYZCrY=",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+4sUl3t1ASpirJXH5ojHUw0oaz50oDHZJfO/7V6PDD9P6ILT76czvGz0oQ2ppup34=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "HISTORIA SIN FIN 2",
     "ico": "https://image.tmdb.org/t/p/w185/uUIBSiq6jMdOo7DmC4wXy5agy8G.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+EqNLkuopAYxDYj5nmHW2/04pnaKxA6583g9T99YWuxR+p5OSYvCEvGwtrC7f4UBrKTw7tZX7SjhYUlsOz0BGM",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+4sUl3t1ASpirJXH5ojHUw0oaz50oDHZJfO/7V6PDD9GnLeyHAlLuJ7F9IU6c5nsZpvKI0PXZdVt8sMnQ5S1TFJ1qWsMd1Q2bb1SkcD7QnzA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "LA BELLA Y LA BESTIA",
     "ico": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5Uvo8vzvkBQfR7NRGJp2IwSlD2X8mVv__YyrBgQF5ndRB9NFo",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/3A8XvElyi3MTO1dnFvozzh4LOU5DtVF4A7tFyZ3LpXw==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/gMizGYT5d0vfztJVxUTZzn/HY6BzLX6IDpkz7mF5kEBVgCjszlPxKPRMc+g71C64=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "LAS CRONICAS DE SPIDERWICK",
+    "name": "LAS CRONICAS DE SPIDERWICK (2008)",
     "ico": "https://es.web.img3.acsta.net/medias/nmedia/18/67/28/39/20327697.jpg",
-    "uri": "L/44wikpkpcMYARIiCrM5BV9LO4zhaj5TuVXkIvyvFrkPiBQeZuuU5KTZ7d4enzwzOBSrFXsTIpMSYP9lWC31L2JVFTfstAArUh7Zs+cH0o=",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9OQ9byHuUFNmFWGcqjGzdbco9mhViEpwnlFtvZvUltFr691w6npygTcVgAQwuffNg=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "MALEFICA 2",
+    "name": "Malefica: dueña del mal (2019)",
     "ico": "https://s3-eu-west-1.amazonaws.com/abandomedia/db/poster/db_posters_49051.jpg",
-    "uri": "L/44wikpkpcMYARIiCrM5KUo5SxzYpRznbGo527jApSSc4UplWPL8+oDXiH4/1R7hv0iwKXSHLkEdYT7wAxUTEWJNktJLeeZu/Q/tFTdQO3z+1/RsMyfDU6QMv9wdStj",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/Sz6g5Ww72tiVijnb/+Qc71LkWMQ06P3pFw43TqET9dzHROcB2CBXyOBLu9mfCl2GX3ywsUTRRJwkljpBUgYh0",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "MEGAMENTE",
+    "name": "Megamente (2010)",
     "ico": "https://mx.web.img3.acsta.net/pictures/20/02/18/22/28/3701214.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8n7YTcV884fT+gJZvLiU9h4VQyTDpw7IKrnT5HXv14jBuPsk6Kwooi+e1QikJ2yn1g==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9TJftgcThttJTdLrJyUDUoYORtStSji3/sDJKrAK6WZQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -2143,16 +2422,16 @@
     "drm_license_url": ""
   },
   {
-    "name": "MONSTERS UNIVERSITY",
+    "name": "MONSTERS UNIVERSITY (2013)",
     "ico": "https://es.web.img3.acsta.net/pictures/14/03/10/11/42/227364.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8n7YTcV884fT+gJZvLiU9h4VQyTDpw7IKrnT5HXv14jBHJ3mB/4FFcP5Ml6vgRHYq8oJ0G666Xgt0w+iiy+fWuE=",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9SOnZ+t6SBqVebws+tiSCYwBShjR5S6y5U+/TZ4NAqdQVXyOGW0Maf3+wr2OLekr0=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "MULAN",
+    "name": "MULAN (1998)",
     "ico": "https://mx.web.img3.acsta.net/pictures/18/11/02/05/19/4834960.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8rem879+m1wfEvffvMQBv/cJ9lCQRvM3uUKO5Zehoba4evyoD9DjF8BhtTMQZit4Uw==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/G3tRQo7c9PslLz+Kpwk9eEenHc8LCexhfFc7DN8MvyQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -2164,114 +2443,114 @@
     "drm_license_url": ""
   },
   {
-    "name": "RANGO",
+    "name": "RANGO (2011)",
     "ico": "https://es.web.img3.acsta.net/pictures/14/07/28/12/27/483839.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8qSFBeNH/Yi3/6HVyjlNdxjToSdYoe9mR+HaRPooWqRt",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9yA1jyJw46kbS8vML3MmV5EAJn0o+O5C4oblYDZYgUdA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "RATATOUILLE",
+    "name": "RATATOUILLE (2007)",
     "ico": "https://es.web.img3.acsta.net/medias/nmedia/18/67/30/37/18976643.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8trurXCUOZ9X6G9bIFyJd0n3pKBsmS8Hxf41Wlh7AiOxtHsfuXZhcJuiNIOgCh2N+A==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8PDJygrUqm0lDVbBu7Z04zJmfpopnWXRP9bmgpIYQUHQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "RIO",
+    "name": "RIO (2011)",
     "ico": "https://mx.web.img3.acsta.net/pictures/19/12/06/21/44/1610462.png",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8n7YTcV884fT+gJZvLiU9h7CF54vA7ZGMjFUlX74nPAdW5H+ivx/xPsj6FQJ7ERr6A==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9T0Pq9/T27MPVvua3tjy1P",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "RIO 2",
+    "name": "RIO 2 (2014)",
     "ico": "https://es.web.img2.acsta.net/pictures/13/12/26/09/57/548572.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8n7YTcV884fT+gJZvLiU9h7CF54vA7ZGMjFUlX74nPAd5g84fEEBzmuWkI7AzKmoLg==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH81jWZYPf8wPuG9DQvPlC3BglwT0z34Ul88NDA7WNA60A==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SCOOBY- DOO",
+    "name": "Scooby-Doo (2002)",
     "ico": "https://es.web.img2.acsta.net/medias/nmedia/18/90/04/49/20078191.jpg",
-    "uri": "L/44wikpkpcMYARIiCrM5D1d0cEKjyTpBm+1IHzUTBKPoX7L95s5zFB6Z7oofrFD23y008m9cTEFaSUQSbUkBtQni+jLxcji62z3wShigZ8=",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9v/0OakMBD3wuTg2Y5IJLrsR50kQ3gL1jGO5+2BIycKg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SCOOBY- DOO 2",
+    "name": "Scooby-Doo 2: Monstruos sueltos (2004)",
     "ico": "https://es.web.img2.acsta.net/medias/nmedia/18/89/82/21/20068080.jpg",
-    "uri": "L/44wikpkpcMYARIiCrM5Iw0fSX2e55LRpwIbe0ryriH/0o60xihk0n1iUfW3oFjPp7SN2ld0Axdx+XbNrwtY130VtMIBEGb/2pPOcGVKuQ=",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9v/0OakMBD3wuTg2Y5IJLr2At4ySMv7utWnvLsw7OJql5uYsZh3RrnraNSbnl2AC9pPyKyaUmjNFfFdi4x9Cht",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SHREK",
+    "name": "Shrek (2001)",
     "ico": "https://es.web.img3.acsta.net/pictures/14/03/06/10/13/369709.jpg",
-    "uri": "L/44wikpkpcMYARIiCrM5FnfJdkSxvhccKUiIhdSU9kxU2LIKFXuv2BF+xktdKJ2T9ufayp2Vmp/uZvO6ayIK5oZO7/4KvOZUt3nk8+ygeg1RQXbeNwwVjspVCYeqClk",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8i+6MEOtZc6xZEvRcsxzo6ciRnUOahiypjlzyMQOfkrQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SHREK 2",
+    "name": "Shrek 2 (2004)",
     "ico": "https://es.web.img2.acsta.net/medias/nmedia/18/35/17/28/18381073.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8j6Smp042QoXEdJ4OzI8bqe5pG7rgpHQ2Zsrmy8kCNNpJnxeG0zc+rydWhHbLR5mtBjJUSXi9wRe6mUlm5EVLbs=",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH86zcDHn6QEYIJYN/za2BGEIzWH31Y5Su4moH68k88mzw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SHREK 3",
+    "name": "Shrek tercero (2007)",
     "ico": "https://es.web.img3.acsta.net/medias/nmedia/18/68/23/20/20054548.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8sBlYvKnl2wE7AgYPiqHo0/p/De7tccb4SyB/rjPYZv77p3Lv4smHTCmdb8i6v9CiVtbiMPHhhzBTKJ5icmL280=",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH89qAiwhpbYgfY3KeEKtPme3W1xMOtKMQSdKIcdjv6XLncbtfFanlAJHeOHFKRJgH4=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SHREK 4",
+    "name": "Shrek para siempre (2010)",
     "ico": "https://es.web.img3.acsta.net/medias/nmedia/18/73/49/75/20235509.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8gRURfjPW+K26v2v8uMLvJSC8frBd2xerYrfDQjXwLBBKMawnpPX/9/36dDmiglVsA==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH89sqb+ul9jpf7YHqJ9Da/h2eVHyNBvYK9z3kV7CAUD/XXXfmCvNE4dpGTWa9E2Pv0=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "TOY STORY",
+    "name": "Toy story (1995)",
     "ico": "https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg",
-    "uri": "L/44wikpkpcMYARIiCrM5ExeUXsOi5eMikd8c5KBtcvPOxtfZtCUlpODmYpyiH49TjgV41YtsfuKNXcHZzAZCW6KbvAd/IZcm2lqDIboFFA=",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+GPyrcBjZeX2S7vaaltVRDV9LurNCkLVkg3TOFbUtVnA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "TOY STORY 2",
+    "name": "Toy story 2 (1999)",
     "ico": "https://es.web.img2.acsta.net/pictures/17/08/09/11/26/105383.jpg",
-    "uri": "L/44wikpkpcMYARIiCrM5Lbzlr0B/3ctTPrKNlL1KWvi8kG1+ogBAzP6I2JV28YNCm7RjzD9406tu1gnk8Zcuw==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+GPyrcBjZeX2S7vaaltVRDUDwO7vivesM6+/Ld1djAMw==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "TOY STORY 3",
+    "name": "Toy story 3 (2010)",
     "ico": "https://es.web.img3.acsta.net/medias/nmedia/18/72/55/90/20125635.jpg",
-    "uri": "L/44wikpkpcMYARIiCrM5CPARKhSLKcartkEonLu7kA//FhC+AyVrMq/AQGtJ58ZVRzY2Iy0fPE1xQhfbb09Rg==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+GPyrcBjZeX2S7vaaltVRDqx4rLc9P7+TarTM0R5PiiA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "TOY STORY 4",
+    "name": "Toy story 4 (2019)",
     "ico": "https://static.wikia.nocookie.net/disney/images/5/5c/Toy_Story_4_official_poster_%282%29.jpg/revision/latest?cb=20190627043631&path-prefix=es",
-    "uri": "L/44wikpkpcMYARIiCrM5CNoP2/GAhMpEFXo0QQW5W5i76J8pg91JtuX4mOjSdWkRUSCbcEScvTDfm78ijAHAQ==",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+GPyrcBjZeX2S7vaaltVRDrXrQ7pQCbvumCMZe/6/VnDBDidi3O/0EyeNtICxp6DA=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "LAS LEYENDAS EL ORIGEN",
+    "name": "Las leyendas: el origen (2022)",
     "ico": "http://tuvideo.tv/poster/w200/6672761660354475i.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8k2Ov59xtEEnEa9/BWzfwdA7gGI3uQrPUUCee9J2WXHHbX/BeIMe3QfWQWEtj7UOlk2OMUtBHTBHyAVTaONh9TOUrdgJUAqDxYWpnUxShSFv",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+sKn0AUulrtlh/+mE8fYDFP8O7djJibU0nTr2OSgfR/KmzcNTk589RbM8ti0gwcw0=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
-    "name": "SUPER PETS",
+    "name": "DC Liga de Supermascotas (2022)",
     "ico": "https://static.wikia.nocookie.net/doblaje/images/a/a5/FUVovs8WQAEVMR7.jpeg/revision/latest/scale-to-width-down/1200?cb=20220603164300&path-prefix=es",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8gFsHDCY9I1A/SKadd1ttffMtc8hE0ERupc9n4Az8ICVa1a7EcfsbwhPjfvD72niDsSw6+NBrUxNiTT7ImBSnCc=",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+5cQG1nchjO96p4EJP+bVdtuij2ig604a9ZGGXtwrFm2ZxxADqg3CXuoSjsIjDYaAF77r0dYGYhXLTdaKRltCv",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -2680,8 +2959,8 @@
     "uri": "tU5R9HGx5ClvwDwcSJ6dUvoT0XRNCR1/ZvbfE/Zo6QaRLv6B2L0pa5m5HahHrhfpUhcHkIWtyQUso7i2OFUntq/GgniQUapgm9rAbsKE1aucyhWM04KIKhM9XHv182v8V8WfBPB6OVVYL/igLDWEaA==",
     "drm_scheme": "",
     "drm_license_url": ""
-  }
-]
+        }
+      ]
     },
     {
         "name": "PELICULAS COMEDIA",
@@ -3302,41 +3581,13 @@
     "uri": "KJUqI+Vv7SeT1BjHKzrm8q0vAm6CZAjERbd4ZKEbA+xdkORz3tz8u6OwnWta6cf7/et4EQ7WfF0qgpcv9O2glg==",
     "drm_scheme": "",
     "drm_license_url": ""
-  }
-]
+          }
+        ]
     },
     {
       "name": "PELICULAS ACCION",
       "mode": false,
       "lista": [
-  {
-    "name": "ARMA MORTAL (1987)",
-    "ico": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31536230.jpg",
-    "uri": "6ZvLEwVir4RDu/hYm2LB+khzo+s5gzWKRM6L+pJ0LFEIketho/OU4mj0VpGkZJZfaPLFQBeI/xu0Dc1FaOAqHOVAm5Fn/IZWnFU77k9I8/MhyAiMsC7MiirOSvE5L1MvfHXwoWHoM5hnVl1C8WX5dpnE3xZhOB4byX0kBRMxsOk=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9SSn5S7DwY2/dKsY8WDxkd52aCntG4ycGcdGP1sjH+rR"
-  },
-  {
-    "name": "ARMA MORTAL 2 (1989)",
-    "ico": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31536288.jpg",
-    "uri": "6ZvLEwVir4RDu/hYm2LB+khzo+s5gzWKRM6L+pJ0LFEIketho/OU4mj0VpGkZJZflqEW10k/o9kvh/1rtgTx94zBqUJgm3vlb6LkgE4UmYaSMNYRDoa5Mq6W8RAXfpUfKECRwI9lMKpOkANpD+dtrlp9Bh+N+p2K8I4C43MYBLE=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9SSn5S7DwY2/dKsY8WDxkd6wR4c5tpAs/kpMCbbmnhtUqfZ+2QQ9in+qq0mYsVPsAw=="
-  },
-  {
-    "name": "ARMA MORTAL 3 (1992)",
-    "ico": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31536289.jpg",
-    "uri": "6ZvLEwVir4RDu/hYm2LB+khzo+s5gzWKRM6L+pJ0LFEIketho/OU4mj0VpGkZJZfuPTELBoToLnRWu5sqH6vuCluOjQrMjafUtpC5NKJugYWFH2t6f3seYMQWldw2JI3vPZH7+fzggKR+mL9WDAj5kLJqlo2mlqqRTiyIUrplLI=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9SSn5S7DwY2/dKsY8WDxkd6/+8D7LnAFp3HcNivkT3twI/tLa9OCsFIcLRJBBmxzVA=="
-  },
-  {
-    "name": "ARMA MORTAL 4 (1998)",
-    "ico": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31536483.jpg",
-    "uri": "6ZvLEwVir4RDu/hYm2LB+khzo+s5gzWKRM6L+pJ0LFEIketho/OU4mj0VpGkZJZflLFQW/nNYMejr9tnVg0EU1s0YdrDQDIUo+fRWPnMd0nYhIYRzW6PV7ub5tPdBc8gaNngQuE1Xb7kXlWZkvReT0l62KB5SG+h33yl8/Ls+2U=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9SSn5S7DwY2/dKsY8WDxkd6SdfI3ZqfTbB+PPoQ2o9/VbwEG3PsmsDvE6a1V0Azaww=="
-  },
   {
     "name": "BUSQUEDA IMPLACABLE (2008)",
     "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/2/w1280/dTshd9hjQMWyRijWucqszKPrp5z.jpg",
@@ -4464,12 +4715,103 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-]
+    ]
     },
     {
       "name": "PELICULAS TERROR",
       "mode": false,
       "lista": [
+  {
+    "name": "Las musas del diablo (2017)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/04/kKjinCoWFHkztF64Vx1L2lwcJI3-211x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9FRMu77f35FlIm0rPJVXg1xxNLuyhzVp2KaLvuUTr0Bw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La masacre de texas 3 (1990)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/gCMEnRU8CLiA81FNdx9ToBTrNem-200x300.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLpPDx4Itcq3D2t1hJjlAaE9YYztKo/9mMO5HimlLLgyLBcNfeie6Z8xPqR2WMoOeg",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La masacre de texas 2 (1986)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/l5LDUW8fYdDR5B1yJimZ1bAhqCl-200x300.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLsJtJiMaR/CD2tvuJjC8xSSqlxu2xKINocM/LcQCdmRdPD/dfpLC6KHJtP5tYYRnx",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La masacre de texas (1974)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/04/fOqMcW2TYN0WReTDpds93rkAYpR-200x300.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkL+duruPvAjqYZWRROyFdGbiF0/id6XJrneyXUwDJokGm5ADy5W1QvkDonVd85zm0b",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "IT: Capitulo dos (2019)",
+    "ico": "https://panelssh.com.ar/ImgPelis/it_capitulo_2.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8iaTo6uCDKlcwcSfI2bQ2ZNhXqhB0lzdyWHu3/PKEeoIakc364r5yjZm4OBpDV+Zw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La leyenda del jinete sin cabeza (1999)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/10/sEsDyXI4LTjS0RmlUehHUGI7Xny-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH87dpoa2JE+NuXW19JvKBF87MfQpS7DKFM4wEUEu8MAlc0KOHFRvw2+RItl+G+O5+ppT13hM3dHh/L20NaJdNNk",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Halloween 4: El regreso de Michael Myers (1988)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/10/dajbRAwMb2hLGrTQwOHeCc6ouPR-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+yMHGrDA3tGoe9ruJOFec8e9whYJYBdrsyCPqf6ES/iQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Halloween III: El imperio de las brujas (1982)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/10/e5ljbU8azw2SY8qV19E67wJ2UGv-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+yMHGrDA3tGoe9ruJOFec8wQoNtHwt6TCRhi54a6U36A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Halloween II (1981)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/10/gL3dPbbZInWn4U9jd87uoFGOdot-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+yMHGrDA3tGoe9ruJOFec87OJe0u3xs4jSf1EO4vQwzA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Halloween (1978)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/10/cuXoYbXLUYt1KXxsCnn0zF09rGY-207x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+yMHGrDA3tGoe9ruJOFec86/f3mh2artOKYlrE/V7fsQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Pesadilla en el Infierno (2018)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/10/ma9gY6OikBev8MsMaeA6h2EIdGo-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/nNxrv3j5qcAsX1hjfqHHzGoxutgyz5ZISf15F+fAf/6Pyzsm2Iut2d2Q+lK3GgZw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La morgue (2016)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/11/La-morgue-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+NtsmDigufwJtLCWdoRxy5YGvL+OaL81TC+BukOYDCB86xcbYW/ZVtVWDkcT/+TbI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La masacre de Texas (2022)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/2VnuxwgdMBEgVO7VKvkW6nmYfaM-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/KfqafQYOziSxyuuEX5HXYTkBHcYOXzDsW7Aro3M22gDkqgJI2DVlWJ0UMsQPwBCw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
     "name": "Stephen king ESO",
     "ico": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQBjYoPxdK3DfpCASEFk8eZX-Ko4JzWWdl1AfaV0o70UlqdsGp3",
@@ -4603,7 +4945,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-]
+      ]
     },
     {
       "name": "PELICULAS AÑO 2015",
@@ -5449,7 +5791,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-]
+      ]
     },
     {
       "name": "SAGA DRAGON BALL",
@@ -5582,9 +5924,9 @@
     "drm_license_url": ""
   },
   {
-    "name": "LA BATALLA DE LOS DIOSES [DBZ 2013]",
+    "name": "LA BATALLA DE LOS DIOSES (2013)",
     "ico": "https://2.bp.blogspot.com/-OyiGQ7Qozv0/W-63SOdtkHI/AAAAAAAAGLU/E4FKzDij0MQQsTmTRWw-x6SkdvlDCqmWQCLcBGAs/s200/dragon%2Bball%2BZ%2Bla%2Bbatalla%2Bde%2Blos%2Bdioses%2Bpelicula%2Ben%2Blatino.jpg",
-    "uri": "KJUqI+Vv7SeT1BjHKzrm8vwQ5DrD0ChqL/6cPcV2h1pLleEW3Guy/dYfTaJOG5f4p3jB/F/Bd7Zm3OsLP0EPL0K5LbnuM5+uaZzLkOxsZ/0=",
+    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLE9YwUBEnDw99jB2pEOc8VsBhUfzGHhbUFD3H6C/dVTMm5ss+c2rm7SUGO5DVuXQ7",
     "drm_scheme": "",
     "drm_license_url": ""
   },
@@ -5609,7 +5951,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-]
+      ]
     },
     {
       "name": "SAGA SPIDER-MAN",
@@ -5671,7 +6013,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-]
+      ]
     },
     {
       "name": "SAGA PIRATAS DEL CARIBE",
@@ -5712,7 +6054,7 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-]
+      ]
     },
     {
       "name": "SAGA HARRY POTTER",
@@ -5774,12 +6116,54 @@
     "drm_scheme": "ClearKey",
     "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9ZbNy6Mv3ek/j+F59o2qJzNtXfZhgW94DrQw04aQyxQW"
   }
-]
+      ]
     },
     {
       "name": "SAGA D-C UNIVERSE",
       "mode": false,
       "lista": [
+  {
+    "name": "Aquaman y el reino perdido (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/d9Hv3b37ZErby79f4iqTZ8doaTp-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/bU7ekF5j5wqxTBJ5MmJA1ALyBKfNftGb7rGXn5hnAtlq/9KmFZehmOh3sksh1DJ+sVbzRO5sOHSYTrB/JuY9F",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Blue Beetle (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/09/tf5Mqgoj1fFIeP7Ktfn8KGrYhup-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9arDh73SmqF5i0tyI4RbvcNIuo4nqImA//CDJUkQo/rw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "The Flash (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/07/x9Qc86JEyYkAKsdzjDpS5kbaAB7-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/pkeP04DMv5izeSXLOC7Bb8zH/Q1qbfzmrTd7OM24DuA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "¡Shazam! La furia de los dioses (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/04/rdYEj6wJd6lbMiHpIN4rXTYNGn1-210x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9Z/lVhcCoBI/PaH48du2ywZv5qKZRR+Dfn+60WDyVV0Pv1GImldAb2c5Nqghb1FBHSN7IbTJFJt1PvMn01pQwq",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Black Adam (2022)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/11/3eQMzMd2qsZkAJbk4wekp3Crg54-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH95nTfB5i+WfzXIGaljQyyJrEHiO9R6MCj7rnrlYowGgg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El Escuadrón Suicida (2021)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2021/10/vby2SqiJwJIrqwj75xvuXtUvQpA-203x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+0FR4XuboLGbmVEKnaJ9JdMRbfz8XHzSrqCYZeDIxF2R+qhVUYhESEp6t8v2hsm8s=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
     "name": "SHAZAM",
     "ico": "https://panelssh.com.ar/ImgPelis/shazam.jpg",
@@ -5920,7 +6304,230 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-]
+      ]
+    },
+    {
+      "name": "SAGA MARVEL UNIVERSE",
+      "mode": false,
+      "lista": [
+  {
+    "name": "The Marvels (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2024/01/The-Marvels-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH98QWvW5pmrwzhKzjI86qVw+5+NalU73dMFGiJFT0/emw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Guardianes de la Galaxia volumen 3 (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/07/6GkKzdNosVAL7UGgwTtCHSxLQ67-200x300.jpg",
+    "uri": "TEVbbY92FVxdqmhGTitBk6phdzmYDSgp0BwU/4dw9t3lHHKcIP7yFIWJOvT10urHx4ZGZPH3wLJIm2ODlLXppqL8PN97oi5v/J5i6y/IK0k=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Black Panther: Wakanda Forever (2022)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/11/mYpT2R7639KvKZ668uoQGS2QNFp-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9Lepfa3dPmPNUdkyHOL1AJXWTMNj1fH0/W5USnIWgnzN7jls/1BQiUBDmJhWP6FW2iwhvqQzeLVXzsLEY+BgxW",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Thor: Amor y trueno (2022)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/07/kf9Bib75eduxt0QiVJO4pawfd9p-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+il8cN8JzfnPSKY79iUTesD+tR3dfgyuWmvjpk7iSMkHYkAq0KklY+dxGA8qxmdgk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Doctor Strange en el Multiverso de la Locura (2022)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/06/uOnutpXJdDWyWzUCkApkahPSKuy-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8yTQ2MvpmlQRKtSVYgz1pWTTKiJ2FNHkesBgk6qhfDuZ2fCA2As/x8X57uoKQIF7fysARFDzp3E0hxR8F2GMIIHvFQK1maTSVFuAZVlmYWrg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Eternals (2021)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/01/k21DsNcwVKebrEdpw33GIh2zMnG-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/UFK0X4vA+PJpzUd7AKsDiUQa5FFjtLQdAov5cHkSJFw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Spider-Man: Sin camino a casa (2021)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/03/rkLhaNa37IwzWis8rzWMAYTCdIK-203x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8sWfU/tmbWKNm2KGuUCglL+mX0BxegnOoClcykA+X6VpLPYHboU0D4dXa+B/nZDNE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Spider-Man: Lejos de Casa (2019)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/02/6BgCad0B5MbtAmJuyXVx8q97zVD-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8sWfU/tmbWKNm2KGuUCglLPpUKe8i61sgOyIJ8piRNrdAsrWI7ERSTKhpPQmWBw+ymWLqiJzTTVwKk5r17/M47",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Avengers: Endgame (2019)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2021/10/br6krBFpaYmCSglLBWRuhui7tPc-200x300.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLzDEQvPuXyvLKXOvzB/mYOGePBIh+yK+s5WkgdQMnnnVTj/XNxDTOwF4gmbn/IuTb",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Avengers: Infinity War (2018)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2021/10/ksBQ4oHQDdJwND8H90ay8CbMihU-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9hkGgfWabI9bOtoZSlJ5YFDlvHmob9zcby5hgFFOBaLxTcM+YG0eWRgkcLjEqIbd4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Thor: Ragnarok (2017)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/09/pGtkLdk4rnF2A3Yz2BHiTgRwMU4-210x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8x9aLfWtWSxXhZcdKueQelpdRAC6hnAGiGfuGH5JUzlA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Ant-Man y La Avispa (2018)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/09/lwmCdtTvjnJZK79JKYkzkb0MFOP-200x300.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLEeyKcM08wQ5VkKhW97joyAZSqaAWFvXc14Eqric6wbLYls05ON51v/zrRxBsQi4a",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Spider-Man: De regreso a casa (2017)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/10/yJfPC6pjSJ5VOsVyXhx5PXBe0mR-200x300.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkL4I5HOoXyAdNuMtU3CajpQlp8RD3BpR7F+uurBBK5xJi74WGsHiig9ca6vfP+wVVA",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Doctor Strange (2016)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2021/09/sOsvKTJS0XwtfLsNMO3C0CVWJ4u-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8yTQ2MvpmlQRKtSVYgz1pWPJgSV1j7fCVXdYBZgtHMDg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Pantera Negra (2018)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/09/8TjvIO8ZJPKrMKXEjOVGNSzuO6q-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9Lepfa3dPmPNUdkyHOL1AJTxCSEV0w5/40B0xse/f3CA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Viuda negra (2021)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2021/09/qjAsDcMlHXxJSfNDQGK9hs13US0-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/b0SCWOKddXJoXEZDCowPz9J8ozcfqkoM+NpKZjIDFSA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitán América: Civil War (2016)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/09/jPPy7tCfglppQo6J9nGwU6UmJ8X-213x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/dRhKzJ6JW/QaE8iPndMSpKuD280+c+NKVRbwoVRHsXHQVT+p9SI9NiiYsG+VwEnM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Ant-Man: El hombre hormiga (2015)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/09/zwuE28gSXlLFLgueqMe9b7xKy1f-200x300.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLSmYOBCAWKR6+3SxFaNWywwiGbLGjI2sKG8eAl4JjRlyTHKic6/wMtvSuDWinR+Xb",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Avengers: era de Ultrón (2015)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2021/10/71wSx6MQm8EbMNDi3vVaD8nD9SL-210x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9hkGgfWabI9bOtoZSlJ5YFrPmghSfxJ3RkNP/TANh3b4IFBV+oxjPhi/HaVJmutSk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Guardianes de la Galaxia Vol. 2 (2017)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2022/09/kdg6Y06jfq9FV7qknWNcKLYtBJn-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/YVTwY1Fq6KBMXFX+5yEPIn0Z+5RoxRiIO03A+RWOXzqSgaxK1YYnkZvT3Y9nufN8K8PXxKsh2NKTGcIuTgoXU",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Guardianes de la Galaxia (2014)",
+    "ico": "https://panelssh.com.ar/ImgPelis/marvel11.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/YVTwY1Fq6KBMXFX+5yEPIn0Z+5RoxRiIO03A+RWOXzjz35nTaKrIqkdnS1nkboyY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitán America: The winter soldier (2014)",
+    "ico": "https://panelssh.com.ar/ImgPelis/marvel10.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br58mjrmbY4LFSz25THjNiQJ98pm3RTkzQCQbhPJDg5lkLlnSc1SLiM+7x5FWfJe5lZWNvh+eu4aBD5AYESXD3MHQZhJ6eVFbEtA4hT5JlPk0S",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Thor: un mundo oscuro (2013)",
+    "ico": "https://panelssh.com.ar/ImgPelis/marvel9.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8jNp3Lq7NwIrkrEsNdPPUudOZ+uLjiFP0JgJ/hJHOVGPMzM278Xv4ZGZk6gr/AnkI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Iron Man 3 (2013)",
+    "ico": "https://panelssh.com.ar/ImgPelis/marvel8.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH86OImhkiYRd6Ob1Lq6Kt3FG3AwZGl4wWzybuwOFHyLpw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "The Avengers (2012)",
+    "ico": "https://panelssh.com.ar/ImgPelis/marvel7.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8dh9mNtnTn4nUj43oAchPQoW6yWuMI1pvujPG5C8A+vQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Thor (2011)",
+    "ico": "https://panelssh.com.ar/ImgPelis/marvel6.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+LLUb/+wja2RXJvELTGl+0",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Iron Man 2 (2010)",
+    "ico": "https://panelssh.com.ar/ImgPelis/marvel5.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH86OImhkiYRd6Ob1Lq6Kt3F6BV+yl0PRqbc8XiK6eqG+A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "El increíble Hulk (2008)",
+    "ico": "https://panelssh.com.ar/ImgPelis/marvel4.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8mtMJFm57aEmcRS6vutCvpqItoN4l47/uK93AX2l8Yup0ygCG6Fd1NvYUlnDU+r5s=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Iron Man: el hombre de hierro (2008)",
+    "ico": "https://panelssh.com.ar/ImgPelis/marvel3.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH86OImhkiYRd6Ob1Lq6Kt3F7U4ojQKHX21PbIELrSdU7w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitana Marvel (2019)",
+    "ico": "https://panelssh.com.ar/ImgPelis/marvel2.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/dRhKzJ6JW/QaE8iPndMSpifpJyS+6FDCraI85EFhhdYHnZHzj3B7yvp2QaZdVt7s=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Capitán América: el primer vengador (2011)",
+    "ico": "https://panelssh.com.ar/ImgPelis/marvel1.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/dRhKzJ6JW/QaE8iPndMSpoeAswpJoK2qf1ktPk7Tlh37r8zBeBj5PAjFxI307zwJsKwP3P1hy0jskLTFAnMAs",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+      ]
     },
     {
       "name": "PELICULAS 4K",
@@ -6010,6 +6617,6 @@
     "drm_scheme": "",
     "drm_license_url": ""
   }
-]
+      ]
     }
 ]
