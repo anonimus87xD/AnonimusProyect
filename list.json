@@ -492,11 +492,11 @@
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZUNofxImG7j0519OLgcCU2v5xcehZDgRxF2dk6f4KdN"
       },
       {
-        "name": "VTV PLUS",
-        "ico": "https://panelssh.com.ar/Img/vtvplus.png",
-        "uri": "32pktkCP6KOV9mv/x2nKI548swP/YIhyM/76E34dMTA=",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGZUNofxImG7j0519OLgcCU04AebQlg1uKANJAYcGUGBh"
+    "name": "VTV PLUS",
+    "ico": "https://panelssh.com.ar/Img/vtv_plus.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgw7a49YO3Cxl5eJDONlphOyoyJhtxjU7K4C65zp6E4n8ZERl5jHWrs93kSoQX4t0xT8vLztynUIHuxR+hU6SWDn",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGZUNofxImG7j0519OLgcCU04AebQlg1uKANJAYcGUGBh"
       },
       {
         "name": "EL GARAGE",
@@ -609,6 +609,13 @@
     "name": "CANALES INFANTILES",
     "mode": false,
     "lista": [
+	  {
+    "name": "PLIM PLIM TV",
+    "ico": "https://panelssh.com.ar/Img/plimplim_tv.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy1EWU7YkrC/4JbE+EIK0WajAbZ+kelybsHWJWIZFvw/ML3FSmzxuy4mkTiqmguvxAg3qsQ8dkOC8LYdOyQHS+F",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGT7ezrKO+XJbFCUxG+JO3DjxAwhACe5pdDDMe7mDFAix"
+      },
       {
         "name": "DREAMWORKS",
         "ico": "https://panelssh.com.ar/Img/newdreamworks.png",
@@ -1088,6 +1095,20 @@
     "name": "NOVELAS Y VARIEDADES",
     "mode": false,
     "lista": [
+	  {
+    "name": "ADULT SWIM",
+    "ico": "https://panelssh.com.ar/Img/adult_swim.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxkz4QVkAs7k9SFywA98daGWBFzoDlMfg0S9KKrnA9peMc0KsSnyqqfstnBnXUvfxkQgdP7jsxLHrmmKhmcR33C",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGV7EUNIN2/E4EVXdYhFIimKgwDkdvXVsTCwsacpvRp7R"
+      },
+	  {
+    "name": "KANAL D DRAMA",
+    "ico": "https://panelssh.com.ar/Img/canalddrama.png",
+    "uri": "TgfWAPx8iGggXWI6LpBt+OuwWVxO8mksHXqM9rznpkV/t5YPFHA6vZFQGiooBIS+xsAzcJaI7C9z0ZDAlmjsQ/F5ehl1KLVlxSeUMrqRUB6G6ySXUkKZTga4DVdm7k5vaR/MupiPENz3AnLDsELLoQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+      },
       {
         "name": "TELEVISA",
         "ico": "https://panelssh.com.ar/Img/newtelevisa.png",
@@ -1269,6 +1290,13 @@
     "name": "MUSICA",
     "mode": false,
     "lista": [
+	  {
+    "name": "NICK MUSIC",
+    "ico": "https://panelssh.com.ar/Img/nickmusic.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgw48/SpQzHBo2fIrZV5FFtnpeBTTNd3ZU3qh/S2uNg5s7G4AgfiVRvG0jGVFgQjoQrSIuoXb8F26risFgZGJCOt",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGXQEUNfeSEPEmPtMHGcxkMv+AGRzPDgjtnXLD2zUQIta"
+      },
       {
         "name": "QUIERO TV",
         "ico": "https://panelssh.com.ar/Img/QUIERO_TV.png",
