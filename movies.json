@@ -3,6 +3,13 @@
         "name": "PELICULAS ESTRENOS 2024",
         "mode": false,
         "lista": [
+   {
+    "name": "Kunfu Panda 4 (2024)",
+    "ico": "https://www.bizcochito.es/Films/Poster/tt21692408.webp",
+    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr15QaXhHpgCMksjuUuOfRyM26x2xkU3Q6P83o7gX/c7J0w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },           
   {
     "name": "Damsel (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/neil20KXNhdctwdoyZdVFm7Fwq0.jpg",
