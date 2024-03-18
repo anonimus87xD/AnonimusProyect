@@ -5884,6 +5884,82 @@
   }
       ]
     },
+	{
+      "name": "SAGA RAPIDOS Y FURIOSOS",
+      "mode": false,
+      "lista": [
+  {
+    "name": "Rapidos y Furiosos 1 (2001)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/02/rCdEN70nBLJfrzE7NwPtCSxjjrA-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/hcp8AXH5zX/3XmXw6r27u6lClzuinpIUBq3636YF+s/05JnGl0l0FLWdlIJ6sYnw=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Mas rapidos Mas Furiosos 2 (2003)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/02/iZUSbYbUXol5AezpNIJwwENdyE0-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH91tomjBpW1kEH+j6OWDYoLm7zNu/CVjWqQnJcfCQPxONsI9Qn7oK3SD6gF4XLe44g=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rapidos y Furiosos: Reto Tokio 3 (2006)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/02/v9Wu4u2FkGFgT0K9pxUX4IH8UYh-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/BMSTRw8l/19lAg7PJGO1ZLmIJtBSzAhHbM28N7+VxlcutcvKA8RVrYXQB9nalxlY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rapidos y Furiosos 4 (2009)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/02/vvewollXh3k2G8ruTYhhBTqZH19-200x300.jpg",
+    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr157m4R8mIxsva3gWgcYj11u2upfhIjKRBBbALcy1SZ+0Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rapidos y Furiosos: 5in Control (2011)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/02/d7OwxVxXdkfUOwh5VvW6JpY0Ot9-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/iOQhJ/l1H2qpD1F4omtyD7VAsf/uxOAY9OxNxmaB11A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rapidos y furiosos 6 (2013)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/02/6zUkjB5OtiFhN2DiqdT1IllNJTa-200x300.jpg",
+    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr157m4R8mIxsva3gWgcYj11uhAq9Sjnpx5PMKAQlSIasgg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rapidos y Furiosos 7 (2015)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/02/yWG5W4tKCQweHEdnKV4YEvqOBGx-200x300.jpg",
+    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr157m4R8mIxsva3gWgcYj11um6GjnSaofnvtyYhCkElEhw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rapidos y furiosos 8 (2017)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/02/5b1zDwWxoDG8p8aHoRYfzOd7Lvy-200x300.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/Nwc1fSjQ/hi0YTaogp0OwjJCPgMLYX515jYgL09fB/WAUGJYbNWYMbsfK7SLsTNk=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rapidos y furiosos 9 (2021)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2021/09/TX1T3c3CDBN0y8iDNvlQbtiA5Z-202x300.jpg",
+    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr157m4R8mIxsva3gWgcYj11uZMc7uxZnsp1yCpEzAQQzvw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rápidos y furiosos X (2023)",
+    "ico": "https://hackstore.rs/wp-content/uploads/2023/06/rapidos-y-furiosso-X-200x300.jpg",
+    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr157m4R8mIxsva3gWgcYj11uvfHojRF7iq5GPxHZvAgyJQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }
+      ]
+    },
     {
       "name": "SAGA DRAGON BALL",
       "mode": false,
