@@ -3,6 +3,13 @@
         "name": "PELICULAS ESTRENOS 2024",
         "mode": false,
         "lista": [
+  {
+    "name": "Bob Marley: One Love (2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ayaApnFGwc6hHJHry59GjfWuTSK.jpg",
+    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr16Wvq77p19IkQH31/tVvmXP5PQcbVYBAjGWbD1G9tk1CA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },		
    {
     "name": "Kunfu Panda 4 (2024)",
     "ico": "https://www.bizcochito.es/Films/Poster/tt21692408.webp",
@@ -3680,6 +3687,13 @@
       "mode": false,
       "lista": [
   {
+    "name": "Leon Peleador sin ley (1990)",
+    "ico": "https://image.tmdb.org/t/p/original/byCPUHQHonZZHkd0vqe8f5fot5i.jpg",
+    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr14zcB0fhRPGbqrYveNsgeU5jnzheYOSM4oJjBuWGceyJHCb46hID0m54Rd1ginTBSI=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },  
+  {
     "name": "BUSQUEDA IMPLACABLE (2008)",
     "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/2/w1280/dTshd9hjQMWyRijWucqszKPrp5z.jpg",
     "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8dGK018ziTuwLy913xkkTH3/Wt0Zf1Q7M4FDInDRD0DQ==",
@@ -5947,7 +5961,7 @@
   {
     "name": "Rápidos Y Furiosos: Hobbs & Shaw (2019)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3KHGWvWDfMa8enQqezGim3aMBQw.jpg",
-    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr15wOCTgRK6bCil1wSuRP7VxxyLdWSjdE8bbmUFhP8rU3nFV4grZSzbaSjssUHLAXEIQBBJf6HAaGJtf9LNdCM5q6upPHCCOFU1hRWHLRUWGVA==",
+    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr16lwP9/7jtK3Yw3vTnbEeo70BtzL26XB1gAeYeXhsAcRnJzveHy3b4nQo3Wkg5ZEz8=",
     "drm_scheme": "",
     "drm_license_url": ""
   },	      
@@ -6516,6 +6530,13 @@
     "name": "Doctor Strange en el Multiverso de la Locura (2022)",
     "ico": "https://hackstore.rs/wp-content/uploads/2022/06/uOnutpXJdDWyWzUCkApkahPSKuy-200x300.jpg",
     "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8yTQ2MvpmlQRKtSVYgz1pWTTKiJ2FNHkesBgk6qhfDuZ2fCA2As/x8X57uoKQIF7fysARFDzp3E0hxR8F2GMIIHvFQK1maTSVFuAZVlmYWrg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Shang-Chi y la leyenda de los Diez Anillos (2021)",
+    "ico": "https://image.tmdb.org/t/p/original/baOzlpQllZbjyNBcTdeXESh9Y0M.jpg",
+    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr15iTp1RYAywbdkbXBSNM27vLaOktHWlX4MPAzWMFuoO+Q==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
