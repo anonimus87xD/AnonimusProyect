@@ -3,6 +3,13 @@
     "name": "ARGENTINA",
     "mode": false,
     "lista": [
+	  {
+    "name": "Vivo Maria Becerra",
+    "ico": "https://ztv.com.ar/Img2/ICO.jpg",
+    "uri": "VMCmuga0JuMTQJdIKOL6rd05xWX6xIAkcw3TVXrVO7GPOMCRwv57nLMkdrPGukjLLtXp3fxIffQalIcRKuT/GqDZ9Ji+LE7kDrdG+2XL3anaOxvPHdJwKFPzlrh6YJqu",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGRoi7x1VBSUQAwYoU9wCdnWvaQwXnJXS2S7eTLggOSX2"
+  },    
       {
         "name": "AMERICA TV",
         "ico": "https://panelssh.com.ar/Img/americatv.png",
