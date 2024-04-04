@@ -410,6 +410,33 @@
       }
     ]
   },
+    {
+    "name": "EVENTOS",
+    "mode": false,
+    "lista": [
+	  {
+    "name": "Flow Music",
+    "ico": "https://ztv.com.ar/Img2/ICO.jpg",
+    "uri": "VMCmuga0JuMTQJdIKOL6rd05xWX6xIAkcw3TVXrVO7GPOMCRwv57nLMkdrPGukjLLtXp3fxIffQalIcRKuT/GqDZ9Ji+LE7kDrdG+2XL3anaOxvPHdJwKFPzlrh6YJqu",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGRoi7x1VBSUQAwYoU9wCdnWvaQwXnJXS2S7eTLggOSX2"
+  },    
+  {
+    "name": "Boca vs Potosi",
+    "ico": "https://elcomercio.pe/resizer/PpAQF8r7C4dxlahRouKZXLyqCGU=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/5ZQB5QPVKVFRLDZQ3L4Y46DFGM.jpg",
+    "uri": "LmpLPUcy5UpqB3FMpoLcFakDrytM5C6lw7/DO8uDDw2yUVyIk3ugxq499+8qTALqs3401nRG9gD0cbm76FwpdQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+      {
+        "name": "DIPUTADOS TV",
+        "ico": "https://panelssh.com.ar/Img/dtv.png",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyiBjYtBiesUtZugId5V7hNSinR1mro4iUiS0bdibhMrgesy687LBfm7dHWYs8m5InZRgVdBjk+HBt75ZjQqCkt",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGQhS8OoV4vZzPXCoEkmGEGA/F46nPPgg4uOT7PuLVJEm"
+      }
+    ]
+  },
   {
     "name": "DEPORTIVOS",
     "mode": false,
