@@ -1643,6 +1643,7 @@
     "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzOJgpTjb1IW333xi5WvVeIOrr3W4NUMqt2EMMiI2uGAn2LhN68TdXSEJz54eVnRRX/aP6+80+Fks1BZyiGSACl",
     "drm_scheme": "ClearKey",
     "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9TL6eEcN7z2sKdKd7p/5kLmS4u4Dsz/y2AnIpuQYD1Di"
+    "prot": "0"
   },
   {
     "name": "SEXTREME",
@@ -1650,6 +1651,7 @@
     "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyN+2BPfj8ZDt3JQs445iCZjK/PGZJwk0F4Mk8hA+Rv2zJQK0sbwIm8pymN0MJcllTXpfAk09R6cqkhlzmqyQZv",
     "drm_scheme": "ClearKey",
     "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9ZF1NG+BChWNGyiK7CnoLYqcNoZ1wIwj1lWauB0NRd3v"
+    "prot": "0"
   },
   {
     "name": "VENUS",
@@ -1657,6 +1659,7 @@
     "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwDHogJpKCcmWJlikf16LAIfhn/4KEhL7vIvR0D+GewMDp+pTCIVFkzoVMFxcETvoY=",
     "drm_scheme": "ClearKey",
     "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9dIhWLCT6ZNCn2se9H9hsF1MnBldclK2DL8MxqEzXYCT"
+    "prot": "0"  
   },
   {
     "name": "XXX",
@@ -1664,6 +1667,7 @@
     "uri": "WEQudIeReW0V4vDEo2eok5JQINY4YynLCMCCbMbovxgoabgkuPcGhqh2WMGz90No",
     "drm_scheme": "",
     "drm_license_url": ""
+    "prot": "0"
   },
   {
     "name": "XXX",
