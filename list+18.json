@@ -414,13 +414,13 @@
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGRoi7x1VBSUQAwYoU9wCdnWvaQwXnJXS2S7eTLggOSX2"
   },    
-  {
-    "name": "Boca vs Potosi",
-    "ico": "https://elcomercio.pe/resizer/PpAQF8r7C4dxlahRouKZXLyqCGU=/580x330/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/5ZQB5QPVKVFRLDZQ3L4Y46DFGM.jpg",
-    "uri": "c9QRtB2xzL/Rwpkg8zvk+iuYl5iaXfFG6rbSBukSH3XlB22TTePe5bVlTUf0aXtZEOQs04NdmY7k5uRByUmoGA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
+      {
+        "name": "Boca vs. Sportivo Trinidense",
+        "ico": "https://ztv.com.ar/Img2/copasud.webp",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxZe6rrm+B1Iu5adAGZoyVMLbkDUuCScsi0ZWVu2fhnlI3ogMR9r1ACiQSYWCBq7xhCuDjdSERdGVQOJ7/6dnRh",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGZz6zJacEAe8zeRxBLWQqS/jXNIkYlgABHz0RqGZSvDg"
+      },
       {
         "name": "DIPUTADOS TV",
         "ico": "https://panelssh.com.ar/Img/dtv.png",
