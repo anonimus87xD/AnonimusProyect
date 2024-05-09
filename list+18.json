@@ -414,13 +414,13 @@
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGRoi7x1VBSUQAwYoU9wCdnWvaQwXnJXS2S7eTLggOSX2"
   },    
-      {
-        "name": "Boca vs. Sportivo Trinidense",
-        "ico": "https://ztv.com.ar/Img2/copasud.webp",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxZe6rrm+B1Iu5adAGZoyVMLbkDUuCScsi0ZWVu2fhnlI3ogMR9r1ACiQSYWCBq7xhCuDjdSERdGVQOJ7/6dnRh",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGZz6zJacEAe8zeRxBLWQqS/jXNIkYlgABHz0RqGZSvDg"
-      },
+  {
+    "name": "Boca vs. Sportivo Trinidense",
+    "ico": "https://i.ibb.co/6bvjxGP/espn-5B.png",
+    "uri": "4mC8qGfIssW1H3hXvd9WkTuraGaeVE2pbPh0m9uoLYL/ln4anOH61ujUUKkUn+c1BxCkAzDIfkXTkLjc7OMACNf5u1VV7yF/mtb3g5/+l6M=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "KHEjVAU/xrrJiZDOA6JIocm+dNYvfW9hQ0zA5GeWK2Bvswh6nTBSNKt3yfAzBZrt2pm74z/qUZjJuMEz+4N+c3EgmmDlN9WWK/dX/M2aPW68dJxGtRcqc2Jd9/OfdaZUj+mPSKC8HCuNqpkrnYi1MP6bQWZI4XJcVS/RVxoYOYG4TZDSMvK9PC9Z05HisqWqlnTUqdp6D5b6UY6Dn5Qp8Q=="
+  },
       {
         "name": "DIPUTADOS TV",
         "ico": "https://panelssh.com.ar/Img/dtv.png",
