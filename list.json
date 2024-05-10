@@ -1115,6 +1115,41 @@
     "name": "NOVELAS Y VARIEDADES",
     "mode": false,
     "lista": [
+	      {
+    "name": "NOVELAS TURCAS",
+    "ico": "https://panelssh.com.ar/Img/novelas_turcas.png",
+    "uri": "kEhB69X+6WsP6ReWlBfEGjSgsQBGzzGnIAWlyHQTN/DwdjatuTuAGlV4ZIZO0gPb6EAYX8J1w+3GR4B5P6V80g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "TODO NOVELAS",
+    "ico": "https://panelssh.com.ar/Img/todo_novelas.png",
+    "uri": "LoPGyIgoQZYiFL5s/yeLh2J7hbHupBDSjBO0fPDZWnYPCtvxlqqGBkWbcESMA3t1wbP95tCS+yQAarD7kHsij4eIDXrFyLzVztLo0DfjbFKTgrAzkU2XwV4Va2BVauFIR0feM6QzTtQ6IQepl+OVgW9Lfled+V9OLxfzan9+bhM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CORAZON TV",
+    "ico": "https://panelssh.com.ar/Img/corazontv.png",
+    "uri": "CWdH40gIWVLk7uph3/3XyVM/8YHtraL5ngqAos13IiuBGhNouhmpiGZhdT/dAYMO2Rsc2LE+TKXWDD7O4E8rnDAPI3cEvDDi64uBmBdjhjNCg59o3TO88sBtrRCLXAN+C6GKwWX0HO1rbCVB6FpJWPKrPoZca01vAvCRT5+koh4=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NOVELAS INOLVIDABLES",
+    "ico": "https://panelssh.com.ar/Img/novelas_inolvidables.png",
+    "uri": "JAeNAmb1CjooyoSeUkBeoZvipU8eBTLH7O4TZtHcY6VhcSHr5qh8vlVLrmQPIzc8W3fNdcWzMUcCrleVf1IC8g==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "CANELA TELENOVELAS",
+    "ico": "https://panelssh.com.ar/Img/canela_telenovelas.png",
+    "uri": "kEhB69X+6WsP6ReWlBfEGjSgsQBGzzGnIAWlyHQTN/DwdjatuTuAGlV4ZIZO0gPbi22pJmUF+SPxo9/sSMu7og==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
 	  {
     "name": "ADULT SWIM",
     "ico": "https://panelssh.com.ar/Img/adult_swim.png",
