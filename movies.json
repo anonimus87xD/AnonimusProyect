@@ -3,6 +3,62 @@
         "name": "PELICULAS ESTRENOS 2024",
         "mode": false,
         "lista": [
+		  {
+    "name": "El pajaro loco se va de campamento (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/dlLyYYKH4q52OnDZsxcDo2uECRl.jpg",
+    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr16+ukQzfQ1GbwRK/F1pM1YL67Dpxkuc1iN0jS4wLDbCo3a04mt96Mzl05olS/3xhE72Pk/rdAa50+LoFZSSqeMS",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rescate imposible (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/syKwepJwzvoYhPLBfUy4YYSrstr.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/OoTO6TOlv/AxfigUHIZdD9i8/Rl04+hiOPSlkO4S7+eVt8rqCCrQ/9VtriD6xVV0=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Baghead: contacto con la muerte (2024)",
+    "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/lbOyeiiRYAE6Nm2e7xiNAAaRwZB.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+njs69ceclZdFMMW+WJug/vYomSeI9EKnbkRGdo3RlcA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Fabricante de lagrimas (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/i91SgC0uQa3fb68foFS3zgaMUuD.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH//Av5f3nAMiAPN5NHLlhKyXJ4y5j0E2tAys602S0Ce/z7hbq0mztXRxh98UDU47iU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Musica (2024)",
+    "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/kUX5ourGUJDG0yvEeS3uooZS0dS.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/kXMbpHZFiK6Cw74C6yGA7iN5/DD9FFW9XutiILAhF+A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Jade (2024)",
+    "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/pqotEkHRbhUPUuX9Gq4U6aJzK55.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+OembMaIgexbAlssUoK9l15+mSaIEue4L8375INVmH0A==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Imaginario: juguete diabolico (2024)",
+    "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9u6HEtZJdZDjPGGJq6YEuhPnoan.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+b5p0VvFzwQdL0jOVTYdmoQlv9gtSLQgxcKHS/b7KiSg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Lisa frankenstein (2024)",
+    "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/7Pm0hYthiHVmTO4MCuP4mWfrJIa.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH95JzlgyIO/IoigKyq+iaxstFj4fPalsjl5A5WExnSnGFIXgm4at14hyevp3qhrneU=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
     "name": "El Duro (2024)",
     "ico": "https://hackstore.rs/wp-content/uploads/2024/03/lXJK3E3EPcT2i7mev2ilHlTIvTR-200x300.jpg",
