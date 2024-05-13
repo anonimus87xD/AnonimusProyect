@@ -4,7 +4,7 @@
     "mode": false,
     "lista": [	    
       {
-        "name": "AMERICA TVv",
+        "name": "AMERICA TV",
         "ico": "https://panelssh.com.ar/Img/americatv.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzTyAkSd4zUa6N2iByiJQ7YBHu0maMEvUwJFzsNdV/jVhO1aXAkWJy5iTlEeRNpFennGXGmgjcTOyiKURs/OVkN",
         "drm_scheme": "ClearKey",
@@ -476,6 +476,34 @@
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZz6zJacEAe8zeRxBLWQqS+qNMLniS83qGWaokoTk20j"
       },
+	  {
+    "name": "ESPN 4",
+    "ico": "https://i.ibb.co/pJK6xQ0/espn-4B.png",
+    "uri": "4mC8qGfIssW1H3hXvd9WkR/fG+6u0xkn9q6KwbCxxAZOr679WMVZobNLxzHCyeN4/paqmZoKvmUuIICUZK2QqNw1I6LYyefUgxvIOYcT3ec=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "KHEjVAU/xrrJiZDOA6JIocm+dNYvfW9hQ0zA5GeWK2Bvswh6nTBSNKt3yfAzBZrt2pm74z/qUZjJuMEz+4N+c3BogUpmMuLyKg+BOtGyr2e5OFpHvuyBUW9jqS73Tgigl8VIoVuSewCY45lM99nUiOAynihCCKP3FUtfkB35DoRVrkiSfoG077JwPW3fqqi0WYb4jBiJj0wcMksyOACdGg=="
+  },
+  {
+    "name": "ESPN 5",
+    "ico": "https://i.ibb.co/6bvjxGP/espn-5B.png",
+    "uri": "4mC8qGfIssW1H3hXvd9WkTuraGaeVE2pbPh0m9uoLYL/ln4anOH61ujUUKkUn+c1BxCkAzDIfkXTkLjc7OMACNf5u1VV7yF/mtb3g5/+l6M=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "KHEjVAU/xrrJiZDOA6JIocm+dNYvfW9hQ0zA5GeWK2Bvswh6nTBSNKt3yfAzBZrt2pm74z/qUZjJuMEz+4N+c3EgmmDlN9WWK/dX/M2aPW68dJxGtRcqc2Jd9/OfdaZUj+mPSKC8HCuNqpkrnYi1MP6bQWZI4XJcVS/RVxoYOYG4TZDSMvK9PC9Z05HisqWqlnTUqdp6D5b6UY6Dn5Qp8Q=="
+  },
+  {
+    "name": "ESPN 6",
+    "ico": "https://i.ibb.co/CsyhPz4/espn-6B.png",
+    "uri": "6ZvLEwVir4RDu/hYm2LB+iiaNXsPp4P2G0RWBd27EKGfdWO0DAA2e71VEuh9f971rw3q70PnrxdkKaLAAvHL2WEL9WER217TTRxRIOE67cUceRmw49Z5OzsPlJaB3r9w",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "KHEjVAU/xrrJiZDOA6JIocm+dNYvfW9hQ0zA5GeWK2Bvswh6nTBSNKt3yfAzBZrt2pm74z/qUZjJuMEz+4N+c4nXvdSsvQI5u4wjehZwzkdU9qnbovHqeXhTBNc6brgMKorA5RIQQ3hJa1hecGB9gCY6AMjVAgLODqCfE2VYwxD44xEx5c1NeNc5wKY9MjZjyk2TLYMuaKYPScUcbnuEzw=="
+  },
+  {
+    "name": "ESPN 7",
+    "ico": "https://i.ibb.co/LSQFzkw/espn-7B.png",
+    "uri": "6ZvLEwVir4RDu/hYm2LB+iiaNXsPp4P2G0RWBd27EKGnqqhXA6Gn2nF2EkBUzt1N1UcG10WgFauH/jgpR3szUbW7GpdzHbb9SusoNDFdHoY+XmZvmBpJbYy/lDXzn+ey",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "KHEjVAU/xrrJiZDOA6JIocm+dNYvfW9hQ0zA5GeWK2Bvswh6nTBSNKt3yfAzBZrt2pm74z/qUZjJuMEz+4N+c4nXvdSsvQI5u4wjehZwzkdU9qnbovHqeXhTBNc6brgMKorA5RIQQ3hJa1hecGB9gCY6AMjVAgLODqCfE2VYwxD44xEx5c1NeNc5wKY9MjZjyk2TLYMuaKYPScUcbnuEzw=="
+  },    
       {
         "name": "ESPN EXTRA",
         "ico": "https://panelssh.com.ar/Img/newespnextra1.png",
@@ -1185,20 +1213,34 @@
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZdyqg48xaVMUGfzovqPCYPSUhRjWibFB9Jh55E1earh"
       },
-     {
-    "name": "UNIVISION TLNOVELAS",
-    "ico": "https://ztv.com.ar/tv/panel/Img/univisiontlnovelas.png",
-    "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9BOUR+R1ojypk3YfXv+vL4GK7MLPPdpYs2G+1ZBB6Oms=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-      },	  
+  {
+    "name": "TLNOVELAS",
+    "ico": "https://i.ibb.co/gy4k3mX/tln.png",
+    "uri": "VMCmuga0JuMTQJdIKOL6rd05xWX6xIAkcw3TVXrVO7EoUGRU5+6BAo+xj91PIz/WKeHCdg/m8fRx3t8AmZKb7CkYTsWfybd0GzJhTtQwmLw8BoMGZ6iR337xMaK65QoA",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "KHEjVAU/xrrJiZDOA6JIocm+dNYvfW9hQ0zA5GeWK2Bvswh6nTBSNKt3yfAzBZrt2pm74z/qUZjJuMEz+4N+c10Wrr2JkX1Gxca8Y4OkL8zDt4ckbW1FaI7WK0iHpMlGxjqAzDA7ghb1db2+sOvsiL355LYo7EuUPrLQ+5sOKIwfCB9DSaSlnN3j40UZNMz1wXN/35kceN0x7X2R5AwHbA=="
+  },
     {
-    "name": "TL NOVELAS",
-    "ico": "https://panelssh.com.ar/Img/tlnovelas.png",
+    "name": "TL NOVELAS opc 2",
+    "ico": "https://i.ibb.co/gy4k3mX/tln.png",
     "uri": "eh2Z4j+Ulh9hNBCt/F3eKztFGJvnK/fEyNcEYs4WIJmeM5NESzJlhn3At8FFLSsNHBhFzqTgMukcXtg3UHc3WsiISvbVQWxUW/JaVvbimvc=",
     "drm_scheme": "",
     "drm_license_url": ""
-     },
+     },	    
+  {
+    "name": "UNIVISIÓN",
+    "ico": "http://78.47.174.211/logos/univision.png",
+    "uri": "eh2Z4j+Ulh9hNBCt/F3eK76SaZ3sb4CBUvuOMmC75Mi+VK7rkyi9A/vrpoauiesGJy4VAAUdN8q1fFkRnkXINBIoljS6QdLblzeWkoeZPIM=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "NOVELÍSIMA",
+    "ico": "https://i.ibb.co/GVvbx2s/NOVELISIMA.png",
+    "uri": "kEhB69X+6WsP6ReWlBfEGjSgsQBGzzGnIAWlyHQTN/DwdjatuTuAGlV4ZIZO0gPbbC1Ia4v4Q7eKIRam37bCjw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },	  
       {
         "name": "TNT NOVELAS",
         "ico": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Logo_TNT_Novelas.png",
