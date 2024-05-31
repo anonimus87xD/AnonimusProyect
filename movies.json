@@ -3,6 +3,13 @@
         "name": "PELICULAS ESTRENOS 2024",
         "mode": false,
         "lista": [
+		  {
+    "name": "Nair",
+    "ico": "https://www.hackstore.to/wp-content/uploads/2024/05/4ztQtJIxWRYkG69RgAP1KojvyUj-200x300.jpg",
+    "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5NmlvYIYZwJwCt5sbexm+uKbRWF3atpxa2l7I3FNu108=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
   {
     "name": "Godzilla y Kong: El nuevo imperio (2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg",
