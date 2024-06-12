@@ -4,6 +4,104 @@
         "mode": false,
         "lista": [
 		  {
+    "name": "Wanted man (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/7AZJjwaK0j4P3Z6S62MMP6zbUTD.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8lfuayMdbqpWad7plho9m7c+IyX89RyKIuMC4iKAPd5Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La madre de la novia (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/5LUy0JxMlCynStB2pCxTInwtjVx.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9gSNSJZhcseffVVFvFdejr/BjkPAtibQQWBzcO9sxTGpjOBH9NMbn4WbAC1apVJiE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Abigail (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/5gKKSoD3iezjoL7YqZONjmyAiRA.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8kQ5pdq8zJPWGHsvtv2H59VVh17uHgNKqJwd5SmhnRgg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Ghostbusters: Apocalipsis fantasma (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/cI5C7NDOdEMWdoaECMX1LChwabd.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9f3lApM/X6QUQsrG9W/WPglx9Odi4h9Xwxpt+A1TXsitoWhARvWVO/VelKSCPKN93YwXGLCqqlUKlmKrB9p4YH",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Angeles inesperados (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/uhmbTYzE6iKQUwuSgQVPnrgyrBi.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8tDh+H0Pz8s4FRc3g1UFCPKq3W2p5N8u7WeDer50WsnPEArcQU5U4dddauApt5ReY=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "La idea de ti (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/gDwozlXGEg1bvszDlfEMbLRvPgR.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8F4QsbkjURd2vodDClyQj5mufe6uJ+m3lTQ7Sql5bZ2bp1PtBZaaoyqWe3SbElu60=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Miller's Girl (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/bqxgqG4C4kOOUiJQwQc6xZOu3A3.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8KNIU2WkjNcn6kBtTJoBcNSLJKNKTc+ct7hhTXn5ham1Qf1vYxo2dmpaEsoaZ8zgE=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "En esa direccion (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/40LmsGBJD7YvuZ2p54cox7kb6H1.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/IObagoDtdKYzLzcq2nPBtm7VlGyVnlYFZGWXas7XQU2Vf9Dlws6Nax/QBnkf2G+Q=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Operacion esperanza: los niños perdidos en el amazonas (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/uBOS7RbRFmEkXQ98drgL9H4jjXc.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+yyZNYNV+7Y68krhfsRmlOpSgbWXMxztdm/6hT6rBo3ihk287sMbYRUQRnoqg2tA4SLpaG6iYKJy2B1Nhx/ir5uoWZuRBZmBSia5740S2Oew==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Atrapados en lo profundo (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH+R8qm6va79Zrll5dmJpbymeO2/kBBc+7CUKx5MB+j+AA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "City Hunter (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg",
+    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr15kJatQn4aM+EVIaoyYiR6tey91rsshWt1mcIsT020vCg==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Liga de la Justicia: Crisis en Tierras Infinitas Parte 2 (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/aOT8n3YOOkInZ5VHJN4FffHrm43.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH/QoFba8wj43GfyJEhGrQOmjv4XK4wJ5yS6TBMJCOdw8US2+2nUqLk3VUGkKR7ZrqGRkTg+x/jZL8ITOyZ3RNQS+b0VKDNQuqECfJ7kvCLccih7srtMJxMxjGwdhnquygA=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Rebel moon parte dos (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/ivhOeG5S2CzKjcKhureKAtfonHg.jpg",
+    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH9M7PYvxQ2MHYWjdmL569GmB5KSj/PQT2D7W04BoLj7/tbmbcairqPfikZcYc245fXM0X0VsQta3I2THGDHM3Lc",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Duna parte dos (2024)",
+    "ico": "https://image.tmdb.org/t/p/original/6o5cJjA4srfvU52UKWaqPUuPPgl.jpg",
+    "uri": "tPsuKAsDBcP6hIG4CYt+Py8aOPhJFa9dVFUpLp/Lr15ztuv6Pm7TpuH1nRL4wTjKtPyGOurQbyAqgBEv6zWlXQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
     "name": "Nair",
     "ico": "https://www.hackstore.to/wp-content/uploads/2024/05/4ztQtJIxWRYkG69RgAP1KojvyUj-200x300.jpg",
     "uri": "hJuigKjFBCcbSxPPb7br57VwGxZg2X24mYBf0a45NrKbsu8b5arMQipF4Bgxb0I5NmlvYIYZwJwCt5sbexm+uKbRWF3atpxa2l7I3FNu108=",
