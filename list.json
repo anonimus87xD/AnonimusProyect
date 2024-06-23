@@ -417,10 +417,52 @@
   {
     "name": "COPA AMERICA",
     "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
-    "uri": "9AIysopbbH2bsQhtdaZOIqkTF/edMPkpSOubHv+zv3W1BPxsjbdP7dFdRF/3VaPMRp/XMieZKkGaoDRYLUs5iQ==",
+    "uri": "5M4AZN2D1ZMHpP2pVxGe09c+b7oV7vDta8HFEG5zH136YzkCa+LOJgJuWCHFPaEz8MSR5vMnRaGV8W47RylFwR0gnVY7+FdVaAjgT5l+pUw+hsZsqkGgcFeiXLSvHoPXn4/IHnYAei/5+XV77Oh5wA==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },	    
+  },
+  {
+    "name": "COPA AMERICA OPC 2",
+    "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
+    "uri": "Ib/r9uuMsNXIT78/OxO/MG4cgHVxj5eEAgBsboK5fvg60UwI5bPspayqBElYKzv6yJ9z3Pdv36YrcbT27HsGSgHY07NChAKinBIyd3Yk4MCvSfGJowU/EX3liC6DtykF7nhkf4KXZkvaZjimtH/lJw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "COPA AMERICA OPC 3",
+    "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
+    "uri": "jdt8nJM9noc2QpeEa3zc99Z56STgAKORe3umFQu7d54zSzgrw36YDVu31ep1eVRyrWqD3DTZfBEaHSDTuhuiYzzHDyihJSZFjSEwIYUFalI5Q3pw2zdY70ZdcujGxPLLEfzC0fotbwUkyH6ZjTJp7Q==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "COPA AMERICA OPC 4",
+    "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
+    "uri": "dzxzQzSvtsIV9PIiqFLyzOwj4MWZ2LsQ/0lLdC3ATA3DZIyYv7oBLOk+hWWKkFyNpNRlLQQY2ogcBfcJCuzYJw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "COPA AMERICA OPC 5",
+    "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
+    "uri": "jdt8nJM9noc2QpeEa3zc9xfuAPDhBHlsCHqY9KRWrMYgqzcefJMrKfeIWWsUIEzqeoHuRvsquKRDcZnpj/+LuA==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "COPA AMERICA OPC 6",
+    "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
+    "uri": "0/I2ca4paBiDOQeY9k2mlHCcml5odQlJIVs8XHLMfTqiIZnBWjCRIruqoalI7XOP+izlBy+HsPimXrqaq9RGKD2yFmj9vRt2/mtYBYxGoBg=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "COPA AMERICA OPC 7",
+    "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
+    "uri": "RLOcVSid27a0W6o/CxinXfmhSgfvxZhpwZT18Cic0AUd8xMlMC9pglovo0oUlajGutRZaCbo0bHq+fiThgNAlasTUwZHNNhF1EQOtTJFC0w=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },    
   {
     "name": "BEIN SPORTS XTRA Ñ",
     "ico": "https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack",
