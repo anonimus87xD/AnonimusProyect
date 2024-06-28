@@ -539,6 +539,20 @@
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYVLmjE5ywCjMrBrnF0QnWuaIlayzwK6jb+9w/+l5bkm"
       },
+	  {
+    "name": "DIRECT TV",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/l/o/logo-directv-sports_4x3_final.png",
+    "uri": "tdIWlqjuXeTDI7mvNqmNi/Ut4bqlqIv2+VHxsQT6CsbGj7V8+lCsqvnBV7KW7jl7TIxOVeoCDXcGvcHtUADp9w==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "DIRECT TV 2",
+    "ico": "https://media.bss-prd.directvgo.com/media/catalog/product/cache/aa8f9b57193b88823014d01a51fb5400/d/i/directv_sports2.png",
+    "uri": "tdIWlqjuXeTDI7mvNqmNi/Ut4bqlqIv2+VHxsQT6CsbGj7V8+lCsqvnBV7KW7jl7JzTb++rvlvvZRpfE9fSMUQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },    
       {
         "name": "VTV",
         "ico": "https://panelssh.com.ar/Img/vtv.png",
