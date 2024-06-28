@@ -415,12 +415,19 @@
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGRoi7x1VBSUQAwYoU9wCdnWvaQwXnJXS2S7eTLggOSX2"
   },
   {
-    "name": "COPA AMERICA",
+    "name": "COPA AMERICA 1",
     "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
     "uri": "tdIWlqjuXeTDI7mvNqmNi/Ut4bqlqIv2+VHxsQT6CsbGj7V8+lCsqvnBV7KW7jl7TIxOVeoCDXcGvcHtUADp9w==",
     "drm_scheme": "",
     "drm_license_url": ""
   }, 
+  {
+    "name": "COPA AMERICA 2",
+    "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
+    "uri": "tdIWlqjuXeTDI7mvNqmNi/Ut4bqlqIv2+VHxsQT6CsbGj7V8+lCsqvnBV7KW7jl7JzTb++rvlvvZRpfE9fSMUQ==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  }, 	    
   {
     "name": "BEIN SPORTS XTRA Ñ",
     "ico": "https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack",
