@@ -407,76 +407,27 @@
     "name": "EVENTOS",
     "mode": false,
     "lista": [
-	  {
+	 {
     "name": "Flow Music",
     "ico": "https://ztv.com.ar/Img2/ICO.jpg",
     "uri": "VMCmuga0JuMTQJdIKOL6rd05xWX6xIAkcw3TVXrVO7GPOMCRwv57nLMkdrPGukjLLtXp3fxIffQalIcRKuT/GqDZ9Ji+LE7kDrdG+2XL3anaOxvPHdJwKFPzlrh6YJqu",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGRoi7x1VBSUQAwYoU9wCdnWvaQwXnJXS2S7eTLggOSX2"
-  }, 
+  },
   {
     "name": "COPA AMERICA",
     "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
-    "uri": "5M4AZN2D1ZMHpP2pVxGe09c+b7oV7vDta8HFEG5zH136YzkCa+LOJgJuWCHFPaEz8MSR5vMnRaGV8W47RylFwR0gnVY7+FdVaAjgT5l+pUw+hsZsqkGgcFeiXLSvHoPXn4/IHnYAei/5+XV77Oh5wA==",
+    "uri": "tdIWlqjuXeTDI7mvNqmNi/Ut4bqlqIv2+VHxsQT6CsbGj7V8+lCsqvnBV7KW7jl7TIxOVeoCDXcGvcHtUADp9w==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-  {
-    "name": "COPA AMERICA OPC 2",
-    "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
-    "uri": "Ib/r9uuMsNXIT78/OxO/MG4cgHVxj5eEAgBsboK5fvg60UwI5bPspayqBElYKzv6yJ9z3Pdv36YrcbT27HsGSgHY07NChAKinBIyd3Yk4MCvSfGJowU/EX3liC6DtykF7nhkf4KXZkvaZjimtH/lJw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "COPA AMERICA OPC 3",
-    "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
-    "uri": "jdt8nJM9noc2QpeEa3zc99Z56STgAKORe3umFQu7d54zSzgrw36YDVu31ep1eVRyrWqD3DTZfBEaHSDTuhuiYzzHDyihJSZFjSEwIYUFalI5Q3pw2zdY70ZdcujGxPLLEfzC0fotbwUkyH6ZjTJp7Q==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "COPA AMERICA OPC 4",
-    "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
-    "uri": "dzxzQzSvtsIV9PIiqFLyzOwj4MWZ2LsQ/0lLdC3ATA3DZIyYv7oBLOk+hWWKkFyNpNRlLQQY2ogcBfcJCuzYJw==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "COPA AMERICA OPC 5",
-    "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
-    "uri": "jdt8nJM9noc2QpeEa3zc9xfuAPDhBHlsCHqY9KRWrMYgqzcefJMrKfeIWWsUIEzqeoHuRvsquKRDcZnpj/+LuA==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "COPA AMERICA OPC 6",
-    "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
-    "uri": "0/I2ca4paBiDOQeY9k2mlHCcml5odQlJIVs8XHLMfTqiIZnBWjCRIruqoalI7XOP+izlBy+HsPimXrqaq9RGKD2yFmj9vRt2/mtYBYxGoBg=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "COPA AMERICA OPC 7",
-    "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
-    "uri": "RLOcVSid27a0W6o/CxinXfmhSgfvxZhpwZT18Cic0AUd8xMlMC9pglovo0oUlajGutRZaCbo0bHq+fiThgNAlasTUwZHNNhF1EQOtTJFC0w=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },    
+  }, 
   {
     "name": "BEIN SPORTS XTRA Ñ",
     "ico": "https://image.xumo.com/v1/channels/channel/99991785/600x600.webp?type=color_onBlack",
     "uri": "IDl2dqIOkRmxZJtwObbVOgybEummcoHyuEzP6rxqt3yq3mvnedImTxOLM0WgnJDETvL6pnf7PSWjnQ/HiyhNx+BEZfYSFzwNVORdR1/OUXWMm53TYeanwgWnrbazT326OHXX7y8UFp7O5y3DzYfAPQ==",
     "drm_scheme": "",
     "drm_license_url": ""
-  },
-      {
-        "name": "DIPUTADOS TV",
-        "ico": "https://panelssh.com.ar/Img/dtv.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyiBjYtBiesUtZugId5V7hNSinR1mro4iUiS0bdibhMrgesy687LBfm7dHWYs8m5InZRgVdBjk+HBt75ZjQqCkt",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "JykWahBk/YZpwXk5dC6hGQhS8OoV4vZzPXCoEkmGEGA/F46nPPgg4uOT7PuLVJEm"
-      }
+  }
     ]
   },
   {
