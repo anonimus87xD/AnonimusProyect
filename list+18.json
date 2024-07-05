@@ -414,13 +414,13 @@
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGRoi7x1VBSUQAwYoU9wCdnWvaQwXnJXS2S7eTLggOSX2"
   },
-  {
-    "name": "ARGENTINA VS ECUADOR",
-    "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
-    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx30JkOngLrr/XSZnLKd6YfmgvRnAKeEvGYiHOIGqESaiYP7YEwyOBhg5FHTWIpJ3chmAUXjMcWCMr/ZNG88iXz",
-    "drm_scheme": "ClearKey",
-    "drm_license_url": "JykWahBk/YZpwXk5dC6hGYVLmjE5ywCjMrBrnF0QnWuaIlayzwK6jb+9w/+l5bkm"
-  },	    
+      {
+        "name": "ESPN",
+        "ico": "https://ztv.com.ar/Img2/euro.webp",
+        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxZe6rrm+B1Iu5adAGZoyVMLbkDUuCScsi0ZWVu2fhnlI3ogMR9r1ACiQSYWCBq7xhCuDjdSERdGVQOJ7/6dnRh",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "JykWahBk/YZpwXk5dC6hGZz6zJacEAe8zeRxBLWQqS/jXNIkYlgABHz0RqGZSvDg"
+      },	    
   {
     "name": "COPA AMERICA 1",
     "ico": "https://www.ole.com.ar/images/2023/07/17/bWadVieu1_1290x760__1.jpg",
