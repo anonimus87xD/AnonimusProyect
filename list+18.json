@@ -775,62 +775,62 @@
     "name": "PACK PREMIUM (HBO - UNIVERSAL+)",
     "mode": false,
     "lista": [
-      {
-        "name": "HBO",
-        "ico": "https://panelssh.com.ar/Img/newhbo.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzoDDIafhB6ag2O08/o6k75okbLqOpktuYTBbJvYCfI4waFTmmdGzzYPJTPGdFyAk0=",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYlwc8sS8/lyrWxu+QDY6J5g"
-      },
-      {
-        "name": "HBO 2",
-        "ico": "https://panelssh.com.ar/Img/hbo2.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxzloUSZPxIavRmPQyR2HzcN59PCPJUXDZtx32FaWNIcWYIcr83PJkkrzcWRJZ169U=",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYkItNhUWqsc/PhUwzRemxlT"
-      },
-      {
-        "name": "HBO PLUS",
-        "ico": "https://panelssh.com.ar/Img/hboplus+.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxzloUSZPxIavRmPQyR2HzclEQ7k3ezN3f9ZshvsLFX8Lwj6EgE2+wylcZVFWMpefstbhcmvtghvVqe1voxWfgt",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYlfLqXLERRRxXfQSmV15NJQ"
-      },
-      {
-        "name": "HBO MUNDI",
-        "ico": "https://panelssh.com.ar/Img/hbomundi2.png",
-        "uri": "6oAXqKvi+CThkdCmTZlazMJCZRqxqnwLu1Hshjuunr74Zv2SFIvvXKtTVJf14qXiUn0DthO7444BH2gI9bbNnGam3rWiTVOYZMxfSVda8XcljebRaL8SCX2VAB1GP7xg",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYlXoWhnBXmQdVyYih9iaj5T"
-      },
-      {
-        "name": "HBO POP",
-        "ico": "https://panelssh.com.ar/Img/hbopop.png",
-        "uri": "6oAXqKvi+CThkdCmTZlazMJCZRqxqnwLu1Hshjuunr41Y61nxWgb1L0t58hWBB4we7QNKRAEn6qPyeKYlHJOebaG7YLlGb/aet6nov/UGV7oZe2emCxj8qpRU66f6cHE",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYns1eDDQELJEr6hDqIce73a"
-      },
-      {
-        "name": "HBO XTREME",
-        "ico": "https://panelssh.com.ar/Img/hboxtreme.png",
-        "uri": "6oAXqKvi+CThkdCmTZlazMJCZRqxqnwLu1Hshjuunr74Zv2SFIvvXKtTVJf14qXit/FFnYT9Sc3R9WM9rTDJ+9rFcU+EfXB4T3ePbkUMdY/4vuc+iae3v8tjyQIec5jd",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYmvgf1pvxguRzOUXmpXmm+o"
-      },
-      {
-        "name": "HBO FAMILY",
-        "ico": "https://panelssh.com.ar/Img/hbofamily.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxzloUSZPxIavRmPQyR2HzcSQvGPLXWP6NdPTDMXpTQOizZIcSyOOWKs1cHzmWy9WB1ZQZzcS1ZyFUWjBED+nEv",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYnUtvAC60o3+j4ASswxFjLEuZPS4SvMg0DAxroheK/v4Q=="
-      },
-      {
-        "name": "HBO SIGNATURE",
-        "ico": "https://panelssh.com.ar/Img/hbosignature.png",
-        "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxzloUSZPxIavRmPQyR2HzcqaDDfHIoo2gz4JEpue5/k7r0B3ifRZ1bFPtUm3Vo6guVSIn5KSAueDVe7+Tig++4",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "g8/r11ZKyiQPtUzbCWyC9YQMc0VrUTPmhrhiQzJOcYla/fOx6yXwhZ1vIojnoa98lv2mSQbjtts6Bo0hAPOEVQ=="
-      },
+  {
+    "name": "HBO",
+    "ico": "https://ztv.com.ar/Img2/newhbo.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzoDDIafhB6ag2O08/o6k75W20RgVq6J+G783jzi0ydyirhjB/SnlW7ESRNmt2+Pbs=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGRk7+gA3pAWp+ZtleSMxsT+ePJcbqJFydUH0LdDcfpqD"
+  },
+  {
+    "name": "HBO 2",
+    "ico": "https://ztv.com.ar/Img2/hbo2.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8Cwgfbl4/D1eLHzj2moyPMmbxwnbuL2i8yMPknqFUvz3S7f9HjmjOxEPZmqd7+Gw=",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGRk7+gA3pAWp+ZtleSMxsT/C1hHZ1j4WNCwcSuCBr7Fn"
+  },
+  {
+    "name": "HBO PLUS",
+    "ico": "https://ztv.com.ar/Img2/hboplus+.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8Cwgfbl4/D1eLHzj2moyPAEgwgG88cBJ/5Kbxua92pCEacaGy/3Z2SwIqDXjcWZKmtXExWEnFVGQo6b1S6bUc",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGRk7+gA3pAWp+ZtleSMxsT9IiiLektcr/x6c/x88OI1G"
+  },
+  {
+    "name": "HBO MUNDI",
+    "ico": "https://ztv.com.ar/Img2/hbomundi2.png",
+    "uri": "VMFcMLbHNADA4HixCJF/11Bv2uDPOvKDg/pY+yyWx/T/8lhX3SV+NXmy2KQ2AB9S8PAJw4/61zJlKq/PzxsAQ4QBxD6qdnKEIlM2Kwu28jMQgMv0VvgX6XuCbF9s3Gis",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGRk7+gA3pAWp+ZtleSMxsT8loOnLpDpc7SsYeTvY9b9l"
+  },
+  {
+    "name": "HBO POP",
+    "ico": "https://ztv.com.ar/Img2/hbopop.png",
+    "uri": "VMFcMLbHNADA4HixCJF/11Bv2uDPOvKDg/pY+yyWx/SACNBxmSJFnRvATsZO4lZ48jmd4/zqPs/OBZha07MNTWemoFlHsHXECHYrwQjLkBtH1jRIKj7edj2HeBakG8Tu",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGRk7+gA3pAWp+ZtleSMxsT+HC+VmAE8hOeAOII568lzn"
+  },
+  {
+    "name": "HBO XTREME",
+    "ico": "https://ztv.com.ar/Img2/hboxtreme.png",
+    "uri": "VMFcMLbHNADA4HixCJF/11Bv2uDPOvKDg/pY+yyWx/T/8lhX3SV+NXmy2KQ2AB9S/vrIrdwh5ACdWj4uouN4+esdrVFPbsmph/LP8Zj/HdQDwsZeqyjtyn/ynIGT9CFM",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGRk7+gA3pAWp+ZtleSMxsT82dPWboQOFinLGPMOnIGWF"
+  },
+  {
+    "name": "HBO FAMILY",
+    "ico": "https://ztv.com.ar/Img2/hbofamily.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8Cwgfbl4/D1eLHzj2moyP3k6FFdAOy/GLmcoq3b7+B771kuRXatISq4vDJ4UWW6jFBrjR7pgBDJFovjbighBo",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGRk7+gA3pAWp+ZtleSMxsT8/Ee3D1io8i8FRRoBj4itfpUkiuZMVDFQ00bAypy37JQ=="
+  },
+  {
+    "name": "HBO SIGNATURE",
+    "ico": "https://ztv.com.ar/Img2/hbosignature.png",
+    "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8Cwgfbl4/D1eLHzj2moyPqnWU4geMF4rkGwS+e+/l3ydYYNCxJ2Fc2nrmJ/0xJfEW8TX8bw031/bUtsOl1w6u",
+    "drm_scheme": "ClearKey",
+    "drm_license_url": "JykWahBk/YZpwXk5dC6hGRk7+gA3pAWp+ZtleSMxsT/WCv7mUkhwPyqTStcVlDIUArUvYyT4tOWqzm4A1D046Q=="
+  },
       {
     "name": "UNIVERSAL CINEMA",
     "ico": "https://panelssh.com.ar/Img/universalcinema.png",
