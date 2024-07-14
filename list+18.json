@@ -5,7 +5,7 @@
     "lista": [	    
       {
         "name": "AMERICA TV",
-        "ico": "https://panelssh.com.ar/Img/americatv.png",
+        "ico": "https://ztv.com.ar/Img2/americatv.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzTyAkSd4zUa6N2iByiJQ7YBHu0maMEvUwJFzsNdV/jVhO1aXAkWJy5iTlEeRNpFennGXGmgjcTOyiKURs/OVkN",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGRT+OuyPBJvXcmGKDj3SJvD7yRlnqWPfw8r7nA/N6E3Q"
@@ -19,105 +19,105 @@
       },
       {
         "name": "TELEFE",
-        "ico": "https://panelssh.com.ar/Img/telefe.png",
+        "ico": "https://ztv.com.ar/Img2/telefe.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxA7hz9GxjT0sxv7gfzMdA3GZglafcA0ntayNS+dDM3+bSU46QR+wQPWCYUR33QaBCAojrONkwS3wIxUEkfqkae",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVo/iHlm867/BtlBXXYX9KGz52pJO40YyUOZI1RePU/h"
       },
       {
         "name": "EL TRECE",
-        "ico": "https://panelssh.com.ar/Img/eltrece.png",
+        "ico": "https://ztv.com.ar/Img2/eltrece.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyuWp1SgRKCc0fuqIT7WPCj75yIOOcA3V5U58Zzz7NOcyVnQynMSIZNcXCaPMX9oXBmipVMCSElyVEMtAQGnG+X",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGXsiSivjPZZ/2rwVgAaw/zEmArTycmVAWSxP/EPt8KL2"
       },
       {
         "name": "TN NOTICIAS",
-        "ico": "https://panelssh.com.ar/Img/tn.png",
+        "ico": "https://ztv.com.ar/Img2/tn.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx4tGl8n+K7oi1PDgK0zim4/gniyeDZqMU8Aq7wQqwJv07W4x0WWjLF8LGgKOKBra+gImKp6OsqBGi0IP8OHUUL",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGUX6/ohf66G32dvO3OCHApmpt6B9hhfFlPHnAWU7H/9Y"
       },
       {
         "name": "A24",
-        "ico": "https://panelssh.com.ar/Img/a24_new.png",
+        "ico": "https://ztv.com.ar/Img2/a24_new.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgybKavjuLQzJ8uWm0whDDoi/iK/psjiyuLbWNoHg9QELcXjRbVJdeubdNJxku2MP9mTvyfzsRJDjzoUkEl/nYDe",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGWQg+KF/uUXaqoh3BM5mu1aOfgd8AXTA57mwYiNjkJcD"
       },
       {
         "name": "C5N",
-        "ico": "https://panelssh.com.ar/Img/c5n_new.png",
+        "ico": "https://ztv.com.ar/Img2/c5n_new.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwYmDDXgMJm8X8S/Vdv/5/VzE0L4Wr6UXUEIHfM/OGLMjzvv+GXTQf/+k2A61djt+8=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGTDJw2/r28WwFsuYFHr5B/aR1n+qDp7KCzHOCIojFI6z"
       },
       {
         "name": "CANAL 26",
-        "ico": "https://panelssh.com.ar/Img/canal26.png",
+        "ico": "https://ztv.com.ar/Img2/canal26.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwFDR0ELk6bNlBgq3ZAM8ezVD/k2js/c6ZBGgw8vQXVmyQF77DeiikM1owhePdYbw2/I21HnCmsh6nxmyo3g3Vb",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wru48LOfEGXoYn6tuS9BikoE"
       },
       {
         "name": "CRONICA TV",
-        "ico": "https://panelssh.com.ar/Img/cronicatv.png",
+        "ico": "https://ztv.com.ar/Img2/cronicatv.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzfTVjXnkKTvv0/ah053NBYTgh+G8uT9D/G8z63+eAh9cJYRp8OaS3RuPqFknVUtAJVeKjN2njdNi15aAvU/FI3",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGcrFhCfpbBi1+p7J7hGWSaxdvlBZUZHowx2s1MMiKx32"
       },
       {
         "name": "LN+",
-        "ico": "https://panelssh.com.ar/Img/ln.png",
+        "ico": "https://ztv.com.ar/Img2/ln.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzyxL2LaXGmC3V/prSCtNpHXY3TbAvqHozWuzwW5w+NH6IikLumaWrbRCPXTY6Od8COTpOrv95c3OS6qjs8UtNP",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGalEPkheD5/n/gUfpPtve2ox/3ILgDZq9P0E/pWJerrN"
       },
       {
         "name": "TV PUBLICA",
-        "ico": "https://panelssh.com.ar/Img/TVP.png",
+        "ico": "https://ztv.com.ar/Img2/TVP.png",
         "uri": "EpaxwvdVHLj6l4C4q+GDcGykTaOtFgWHAYAs7yOlgqYeCbM9rrvn6y0T9Ri21TqyfUIAUPHZsBk1a1DNzJTKGnywB7yxEkAEtllTULMLn9vS4F/zLaBbbyoCokeTge/A",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGUQaoMCqDbBV4N8MsE+HvEh2YSzbf9Mv86e+AE9q+U0x"
       },
       {
         "name": "INFORMACION PERIODISTICA",
-        "ico": "https://panelssh.com.ar/Img/informacionperiodistica.png",
+        "ico": "https://ztv.com.ar/Img2/informacionperiodistica.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxK4PpiupfP/36mvs6T42HwFKapBFKdCkqbq5mMGsXBIMzwvqFzQw6UdvGpWm553FL+/bbhGpVX34e6fCtXmEfNviw/DBKji5jXX/OhTR58Bf0M3wpHVFI4pbnB/5QGdog=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGUToN8I28quOhG024kcPUJdCYWyJ/eu3urCnbONB2e/H"
       },
       {
         "name": "ENCUENTRO",
-        "ico": "https://panelssh.com.ar/Img/ENCUENTRO_NEW.png",
+        "ico": "https://ztv.com.ar/Img2/ENCUENTRO_NEW.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwQfOm0sO/hy+cggdxOeDr5JXPXCh9T1QVAWWH3QwG9asQB0g17MdFqB4quTFNpQRoUzxE8trVclRpdUKejd7dC",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGRs3gsoOQ5yobU+k4WrGr5uECMuYUWcGrUe/E4qkYlM2"
       },
       {
         "name": "CANAL RURAL",
-        "ico": "https://panelssh.com.ar/Img/canalrural.png",
+        "ico": "https://ztv.com.ar/Img2/canalrural.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8gpMZErc85hFGB1jB5G9/5aPxCjDwXD5m2oygHXG2P3aB2KFYL97zzwUfbWvcOdjrX32o+Cr+Ebswbv7V5ees",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wrs+gJAOnYuAaCpWUcg/Gc1q"
       },
       {
         "name": "NET TV",
-        "ico": "https://panelssh.com.ar/Img/nettv.png",
+        "ico": "https://ztv.com.ar/Img2/nettv.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyJAQF3J1MllWIXpa2rcb9vccysPiiur8WD3Y4TjsMPpHtqY+DlghyY3MDo56b843LdTBQlwse/YBfnMssqBE1G",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGcdSJbfpV7FqvV5K05FBG3lji04SjbCQQBQOXzrM9cqT"
       },
       {
         "name": "ARGENTINISIMA SATELITAL",
-        "ico": "https://panelssh.com.ar/Img/argentinisima.png",
+        "ico": "https://ztv.com.ar/Img2/argentinisima.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxbNvYO/9ObKknnf9dnR7KWMN7EPwade0vuvvkilmnq3TjWES3OjcP8L0ALoQ5zsb56Unei+iWU0XZUP3d4ic9j",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGbPBb8bcD2FHD1g0XyzSNTtbkYq2rZzzabmwfTGjh0dK"
       },
       {
         "name": "DIPUTADOS TV",
-        "ico": "https://panelssh.com.ar/Img/dtv.png",
+        "ico": "https://ztv.com.ar/Img2/dtv.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyiBjYtBiesUtZugId5V7hNSinR1mro4iUiS0bdibhMrgesy687LBfm7dHWYs8m5InZRgVdBjk+HBt75ZjQqCkt",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGQhS8OoV4vZzPXCoEkmGEGA/F46nPPgg4uOT7PuLVJEm"
@@ -137,126 +137,126 @@
       },
       {
         "name": "EL OCHO TV TUCUMAN",
-        "ico": "https://panelssh.com.ar/Img/elochotv.png",
+        "ico": "https://ztv.com.ar/Img2/elochotv.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgww91OXTfAcyRmD9osXuF3CGtitjWF58BcpsyGT0c4rM8le2520QNOQP2DMpi5vTSudsEnRLODRhKiMvZGaLOvdvuzqJ4c1vW+8Y9G+bTUsUA==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVo/iHlm867/BtlBXXYX9KEU9pfuk9515aL2jjHqknht"
       },
       {
         "name": "CANAL 10 TUCUMAN",
-        "ico": "https://panelssh.com.ar/Img/canal10tucuman.png",
+        "ico": "https://ztv.com.ar/Img2/canal10tucuman.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgysYWv9TTddAwnaNEvAjhXtwrApk3KLZzb9drKH/q1NWU0DEnR82urqKdN/RfaFdCmUfx1ByYNGDsPRzw/lB21y",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wrvHvU7/cKpR0W1j/aCJZLAQggWGJS7WIN+SzruUpXihzw=="
       },
       {
         "name": "CANAL DOCE MISIONES",
-        "ico": "https://panelssh.com.ar/Img/docemisiones.png",
+        "ico": "https://ztv.com.ar/Img2/docemisiones.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxQg+EdHho1F9fANeZESLSnW091m94d8rNW2c5xXv5yI1B1xps9gPLZnN9ql/AMunItVNF3z1sTQJTkVJHNQdVd",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wruAVVP7GqiYH5UPBfHbxFCkje32VTo8+9WdVdxr8gzxvA=="
       },
       {
         "name": "TELEFE CORDOBA",
-        "ico": "https://panelssh.com.ar/Img/telefecordoba.png",
+        "ico": "https://ztv.com.ar/Img2/telefecordoba.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8gpMZErc85hFGB1jB5G9/U8LeO25Zxfmx8LsV1auwdHjjS5oTx3sladmOshGLHdavfKGxe5zDaJqJ+ZKvdN9d",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVo/iHlm867/BtlBXXYX9KHoygCNY4LlQDoPBpvdsv8c"
       },
       {
         "name": "CANAL 12 CORDOBA",
-        "ico": "https://panelssh.com.ar/Img/eldocecordoba.png",
+        "ico": "https://ztv.com.ar/Img2/eldocecordoba.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8gpMZErc85hFGB1jB5G9/Qh/RTeNjm8I+Iz7nJXWfWqUN5j88eZ1e4hDOTyzCO/Zvj0YjWPQzVgUHAAE5q6sQ",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wrtWRMkYJBHGbUNBo2lcvg5dryouKetwuS2hIYeIsAKYEQ=="
       },
       {
         "name": "CANAL 10 CORDOBA",
-        "ico": "https://panelssh.com.ar/Img/canal10cordoba.png",
+        "ico": "https://ztv.com.ar/Img2/canal10cordoba.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwM2lAAFnUDZ9ZrZEkIzgVzYS/2eAunkrxKpuTOTNk15K02mUyDbimR682UFW7j/2b8hiSTyygaB+BbD5Ezsys4LIL2cXEUj9mtgAWOcAic5Q==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wrvQuvOCguW1ZT91NbbhlWYEwcchaZ2UPy/uCTruSzY3nQ=="
       },
       {
         "name": "CANAL 13 RIO CUARTO",
-        "ico": "https://panelssh.com.ar/Img/canal13riocuarto.png",
+        "ico": "https://ztv.com.ar/Img2/canal13riocuarto.png",
         "uri": "MaShmfWrVRwa9PAd8lz299e4dcy5duri6rBcLz7YwJKAyPGxVXSPuSteficI9aWDPv8V9w3h78jslJ2WXjyY6uLbdNgxWLWaQ7e/bMXn1oI=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TELEFE SANTA FE",
-        "ico": "https://panelssh.com.ar/Img/telefesantafe.png",
+        "ico": "https://ztv.com.ar/Img2/telefesantafe.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8gpMZErc85hFGB1jB5G9/MS88IEDKm5aAA4HRmuqI5n9eR7VVJps1WKYlEblDldgy90ObuKfrcjksdQqfwds7",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVo/iHlm867/BtlBXXYX9KERT9euOccidhcV/hQPRruQ"
       },
       {
         "name": "CANAL 9 LITORAL",
-        "ico": "https://panelssh.com.ar/Img/canal9litoral.png",
+        "ico": "https://ztv.com.ar/Img2/canal9litoral.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8gpMZErc85hFGB1jB5G9/iAg/8gm1XTZP0U30KqQk87SFJUX6hOLe0ibNL9f+mQ7yzRbUDhoFib7qvICWzHj6tld210FCyX+iU/sslTPuLw==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wrv88vU7rqXgfZKycEFr06Vk"
       },
       {
         "name": "TELEFE ROSARIO",
-        "ico": "https://panelssh.com.ar/Img/teleferosario.png",
+        "ico": "https://ztv.com.ar/Img2/teleferosario.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwM2lAAFnUDZ9ZrZEkIzgVz6dH1a39OvVtmEaquPoHHGNYR+taFUR0xCfq5toVNWZXc2PcWdisidy0S8qv+YNjqdjAPitsC0WxY2xAMqS5zXw==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVo/iHlm867/BtlBXXYX9KHvsTZMH/EnKMO5kZt8G19L"
       },
       {
         "name": "CANAL 3 ROSARIO",
-        "ico": "https://panelssh.com.ar/Img/canal3rosario.png",
+        "ico": "https://ztv.com.ar/Img2/canal3rosario.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgynLV1wDr49tz0N0gg/E2YXtDmHUo/MRJu8KXHGPHs5BtbnQ2hdAZaHYyt0RRS7X7rcuHxQ91mak0HhryIyLvgEfcc/WASLMySv3fl0y+LSHw==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wruFcZyXQrUr5nRHNAAuxhpH"
       },
       {
         "name": "TELEFE NEUQUEN",
-        "ico": "https://panelssh.com.ar/Img/telefeneuquen.png",
+        "ico": "https://ztv.com.ar/Img2/telefeneuquen.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwS5InhETz2SlxwIil661sZlzmWZM0pXH00OLa2YiRzmOr3ApCEDENntIkuXpPSE2z5pUOzDs3vZi3CRqoMUar5ROMkvwH7A8TkH2paAG2jNg==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVo/iHlm867/BtlBXXYX9KF3vPE5C6gN59DTWJzecylE"
       },
       {
         "name": "13 MAX TELEVISION",
-        "ico": "https://panelssh.com.ar/Img/13maxhd.png",
+        "ico": "https://ztv.com.ar/Img2/13maxhd.png",
         "uri": "+kbrMJrb+zN0pbVc6/y/z72/X0C3iDvJgTR9Eq2+Lo/M+2CsDTfBDAHJnNzQnwbA+X2+/Ki/7h5i/upcMA67mcmKllH+6XzWfX/+a7XGOxE=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TELEFE BAHIA BLANCA",
-        "ico": "https://panelssh.com.ar/Img/telefebahiablanca.png",
+        "ico": "https://ztv.com.ar/Img2/telefebahiablanca.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgynLV1wDr49tz0N0gg/E2YXbCjxrPSgJeezxXDSnGcIiyc3UKUOpTCMzHTwut2xHT+agbZeo14g355e62R3BDS3wPVYfIndSWqYHHOx5IjfPA==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVo/iHlm867/BtlBXXYX9KFWm86NLBgkvb6Rs0B5pr+M7gp5v9mp1xrRtHoC9swZ8w=="
       },
       {
         "name": "CANAL SIETE BAHIA BLANCA",
-        "ico": "https://panelssh.com.ar/Img/canal7bahiablanca.png",
+        "ico": "https://ztv.com.ar/Img2/canal7bahiablanca.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgynLV1wDr49tz0N0gg/E2YX3m7GIZNrE2ZRFf7Y+PNOgEzAMjM9o/0uqL+Rw1OtOFK4bduEZy0zXSeFXaFFbRAvUXA/NjMuWnxWCJU+SdqeqA==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wrvA5khoYuBTsz3FB+4I1tnJzEtgZD+ch1+pzDT9GKQimw=="
       },
       {
         "name": "TELEFE SALTA",
-        "ico": "https://panelssh.com.ar/Img/telefesalta2.png",
+        "ico": "https://ztv.com.ar/Img2/telefesalta2.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwS5InhETz2SlxwIil661sZEZTsdp9QV/atFhkCnCx6dDhHdDhVlVLzIQ25ZJfX6pwJMxw4RUwYblMd+7QJXw4b",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVo/iHlm867/BtlBXXYX9KEnLHgX8UgPUISelqSNRQi4"
       },
       {
         "name": "CANAL 4 JUJUY",
-        "ico": "https://panelssh.com.ar/Img/canal4jujuy.png",
+        "ico": "https://ztv.com.ar/Img2/canal4jujuy.png",
         "uri": "AWQlc2Osv9RisEd1YTKuFauavYVSFlwoggE6iefLFN4cIl33UDgINr3eYBdg+FiZPLZ5prAGy/gy7XX2+vj7M6MvR+edkxnv3ZTbpY2QkFY=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TIERRA MIA",
-        "ico": "https://panelssh.com.ar/Img/tierramia.png",
+        "ico": "https://ztv.com.ar/Img2/tierramia.png",
         "uri": "oLPhTYQVNDTGKarhGiqn3ceDbkSfoeK/4ZXURcvngsYxwA6A3lFc4zpzUFsL8nmiXP7Vvv1Aok71zur6zk/evyzXO63PL2XqhLgiIgkCnt0=",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -298,7 +298,7 @@
       },
       {
         "name": "CANAL DE LA CIUDAD",
-        "ico": "https://panelssh.com.ar/Img/canaldelaciudad.png",
+        "ico": "https://ztv.com.ar/Img2/canaldelaciudad.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8gpMZErc85hFGB1jB5G9/Sq2pr2c39+iszkdESr1c4riPtnODg3ffclFSMUJuKBg55fDaCQFI2qEXNTssD2PEqDsg3Za/HslDJXlJ6xH/Pg==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wrs4+GuVNSV7dO7E/u4pKm/Ykmbd+zAVOge1mjZw7eKjfQ=="
@@ -443,14 +443,14 @@
     "lista": [
   {
     "name": "ESPN PREMIUM AR",
-    "ico": "https://panelssh.com.ar/Img/espnpremium.png",
+    "ico": "https://ztv.com.ar/Img2/espnpremium.png",
     "uri": "VMCmuga0JuMTQJdIKOL6rd05xWX6xIAkcw3TVXrVO7EQwzZKtsMYbgBlXrXi0UdSE2qil7Djm8e2Z6cASMNNXYlkXfwSR1a1f/LnSJrUwH+Nms0BAd7hGM93vfmN/22YKJNzXF8YYBT8Pc7i6WGX1w==",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGZz6zJacEAe8zeRxBLWQqS+QB5Rdt/urdzPp4/ZjvUwO"
   },
   {
     "name": "OPC 2 ESPN PREMIUM AR",
-    "ico": "https://panelssh.com.ar/Img/espnpremium.png",
+    "ico": "https://ztv.com.ar/Img2/espnpremium.png",
     "uri": "VMCmuga0JuMTQJdIKOL6rd05xWX6xIAkcw3TVXrVO7EQwzZKtsMYbgBlXrXi0UdSE2qil7Djm8e2Z6cASMNNXYlkXfwSR1a1f/LnSJrUwH+Nms0BAd7hGM93vfmN/22YKJNzXF8YYBT8Pc7i6WGX1w==",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGZz6zJacEAe8zeRxBLWQqS+QB5Rdt/urdzPp4/ZjvUwO"
@@ -464,21 +464,21 @@
       },
       {
         "name": "ESPN",
-        "ico": "https://panelssh.com.ar/Img/espn.png",
+        "ico": "https://ztv.com.ar/Img2/espn.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxZe6rrm+B1Iu5adAGZoyVMLbkDUuCScsi0ZWVu2fhnlI3ogMR9r1ACiQSYWCBq7xhCuDjdSERdGVQOJ7/6dnRh",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZz6zJacEAe8zeRxBLWQqS/jXNIkYlgABHz0RqGZSvDg"
       },
       {
         "name": "ESPN 2",
-        "ico": "https://panelssh.com.ar/Img/espn2.png",
+        "ico": "https://ztv.com.ar/Img2/espn2.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgz27kJTubEMweqVxSC1MB9Hx+KO8ZblDp/phoja1lhMr0ilOq0a5JaLb7tralgK8Rlcx5CTJgC4Z/AtmTvWXxsx",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZz6zJacEAe8zeRxBLWQqS9b3GUle0hueVl2biiatWoH"
       },
       {
         "name": "ESPN 3",
-        "ico": "https://panelssh.com.ar/Img/espn3.png",
+        "ico": "https://ztv.com.ar/Img2/espn3.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxZe6rrm+B1Iu5adAGZoyVMupXTn0bo1s2tGkN01ZDHRyvPTr6cBJwUAQAN0df/gag=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZz6zJacEAe8zeRxBLWQqS+qNMLniS83qGWaokoTk20j"
@@ -513,35 +513,35 @@
   },    
       {
         "name": "ESPN EXTRA",
-        "ico": "https://panelssh.com.ar/Img/newespnextra1.png",
+        "ico": "https://ztv.com.ar/Img2/newespnextra1.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxZe6rrm+B1Iu5adAGZoyVM9cEFUN1iVbQOQi20ndl9aMtlkNilH+Nbk9haS559gCEFSf7ElbtTB0yreF7E/Akv",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZz6zJacEAe8zeRxBLWQqS9pCijjGiNt/NcrCXk3Rnur"
       },
       {
         "name": "FOX SPORTS",
-        "ico": "https://panelssh.com.ar/Img/pruebafox.png",
+        "ico": "https://ztv.com.ar/Img2/pruebafox.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgz3BNxWdA66ZoYNvyxpA327p/g63ElF8MkuH61ppDLZx+UTZjsmgXxQX0Os/pi/kfVMlA0hbvGFZEzj0XGVc2gg",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGWHjuf9bbfisunkBQVZw/5QsLMJFAlqsrxYbNYvy7IQ9"
       },
       {
         "name": "FOX SPORTS 2",
-        "ico": "https://panelssh.com.ar/Img/foxsports2.png",
+        "ico": "https://ztv.com.ar/Img2/foxsports2.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgz3BNxWdA66ZoYNvyxpA3271V9MOwJKsk2mP8YK1lYu8ny3zNPgLgLsB75/5mppT70mtnY+9i6uu0LqkxZLEgmZ",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGWHjuf9bbfisunkBQVZw/5Tw/l2EPMhTucwNYtZ35xKm"
       },
       {
         "name": "FOX SPORTS 3",
-        "ico": "https://panelssh.com.ar/Img/foxsports3.png",
+        "ico": "https://ztv.com.ar/Img2/foxsports3.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgz3BNxWdA66ZoYNvyxpA327XcP+FZeNR4AxibIGDmeY68DfFRjtm5AcH8YnZ1Hl1F1+TIY7y3yWhXxKIwXURQMM",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGWHjuf9bbfisunkBQVZw/5TFVcC1Xb/YqhFjNy1cVhMe"
       },
       {
         "name": "TYC SPORTS",
-        "ico": "https://panelssh.com.ar/Img/tycsports.png",
+        "ico": "https://ztv.com.ar/Img2/tycsports.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx30JkOngLrr/XSZnLKd6YfmgvRnAKeEvGYiHOIGqESaiYP7YEwyOBhg5FHTWIpJ3chmAUXjMcWCMr/ZNG88iXz",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYVLmjE5ywCjMrBrnF0QnWuaIlayzwK6jb+9w/+l5bkm"
@@ -562,119 +562,119 @@
   },  
       {
         "name": "VTV",
-        "ico": "https://panelssh.com.ar/Img/vtv.png",
+        "ico": "https://ztv.com.ar/Img2/vtv.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgw7a49YO3Cxl5eJDONlphOyAkglcmbpEWbhvXvOEit+u4wqYVfQR9SFLUYJIznlDghoHd96nU9mSL+dk9V29IdN",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZUNofxImG7j0519OLgcCU2v5xcehZDgRxF2dk6f4KdN"
       },
       {
     "name": "VTV PLUS",
-    "ico": "https://panelssh.com.ar/Img/vtv_plus.png",
+    "ico": "https://ztv.com.ar/Img2/vtv_plus.png",
     "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgw7a49YO3Cxl5eJDONlphOyoyJhtxjU7K4C65zp6E4n8ZERl5jHWrs93kSoQX4t0xT8vLztynUIHuxR+hU6SWDn",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGZUNofxImG7j0519OLgcCU04AebQlg1uKANJAYcGUGBh"
       },
       {
         "name": "EL GARAGE",
-        "ico": "https://panelssh.com.ar/Img/elgaragetv.png",
+        "ico": "https://ztv.com.ar/Img2/elgaragetv.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzv3Z7SzL/H0NdY7y6u+1H0CG57yZNYj31PLJvaD75Nj9VthY95smgum8u0v9fPm6cA+PlF2XRilJzGp04bxYUC",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGfjMUoC+B6IgECoKjC021i2zBomwcdGUC5MUvb+9NF/Q"
       },
       {
         "name": "GOLF CHANNEL",
-        "ico": "https://panelssh.com.ar/Img/golfchannel.png",
+        "ico": "https://ztv.com.ar/Img2/golfchannel.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzChjSyrM11pVO7Yc30PCEEfkCRerIE55Gq4VcFu5utEJvIMe7NesHpVs31yD7KACn0W27SPzgCj6z/CTOr0ONP",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGaOr8XhLDLLmSteIKbjyVJy7/59haIurkVbg/48I6Ou4"
       },
       {
         "name": "NBA TV",
-        "ico": "https://panelssh.com.ar/Img/nbatv.png",
+        "ico": "https://ztv.com.ar/Img2/nbatv.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzeGPfZf1VGK6xT1J5IsLOyohdJ7+oCsrwmsgqwagPzYaobdePFkq6ncu+NpdalJx+oW4wRUxq5JyHnXtR9dpgf",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGQurvomfcqAUQJiTgVkJheSkBG1JS4O3MJTI/y8m+je9"
       },
       {
         "name": "AMERICA SPORTS",
-        "ico": "https://panelssh.com.ar/Img/americasports.png",
+        "ico": "https://ztv.com.ar/Img2/americasports.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxDS/B1YTSnueOGD5QWn8M7mzVxSqb90cxKN1UtyI2Czbk6TURNuNPHAZuqsmrstJEpZK9h0T56l99Fun3YyM3l8o3ZH9bo8vCIfhQvHYiQDQ==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGRT+OuyPBJvXcmGKDj3SJvBgBSNcijH8zX5bFsfzv76l"
       },
       {
         "name": "PX SPORTS",
-        "ico": "https://panelssh.com.ar/Img/pxsports.png",
+        "ico": "https://ztv.com.ar/Img2/pxsports.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwRfLf+bf+EHjrCsWGS2oor/m/iJiVOZdt6fK6hObGU+uDl0mOVxFuXn4TtAmPlvLRe6uT5DvUh3bJEVUqoKCHv",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGTaysUPc/dQ4BJ+v03sP5M8FoZeJ5PepAp4k/kJLWDXH"
       },
       {
         "name": "TYC SPORT PLAY 1",
-        "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
+        "ico": "https://ztv.com.ar/Img2/tycsportsplay_new.png",
         "uri": "/JCC887yqxD85cpKBxaPNYqXvbGrnWrFKjbvu0kpHassI0141BQVn+ufFexSOD250vSVneYnD3b5hrhPA49IrK3m0e9bm53kK1H3LuvMBlx5iKbI661Ft+jkNBoAT4hd",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TYC SPORT PLAY 2",
-        "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
+        "ico": "https://ztv.com.ar/Img2/tycsportsplay_new.png",
         "uri": "8WPSTwAkDdHCcUFA6qE9OLIr6gWy8TzmGDojnJruTVvxOSj/X2lEIlL0rCMAHjz+/iaXC0674zT1ApCet87HNUMV9DObeWRFOiEY7jPeyxICeMw8HLVCRuiHwjFSV/q3",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TYC SPORT PLAY 3",
-        "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
+        "ico": "https://ztv.com.ar/Img2/tycsportsplay_new.png",
         "uri": "arAUHj0HM3vXMxbH4UmdQuymPdBLqLk8PcF9m/8ybbZzYQHLdbP0nUIXkOeDPkHxoindLW+QxZNTiqFWqgAzQzfUT5CIwVs9uwUgXviOG9JPin193/cXOox92eh/TtAS",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TYC SPORT PLAY 4",
-        "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
+        "ico": "https://ztv.com.ar/Img2/tycsportsplay_new.png",
         "uri": "LrtvojxryyjNVUrSRxFE10YdLwfJ5rUtvP5yyUM008IVOph46wyROzoN7LqRS9Oy87mnMendVW6AGPiIF8+hU/CTt9OuOLQaK6Sy8r2fQ0Qkzk8nVwZkW6+NqU+8LTTv",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TYC SPORT PLAY 5",
-        "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
+        "ico": "https://ztv.com.ar/Img2/tycsportsplay_new.png",
         "uri": "NN8usKnshqZltVqg3BAtlVHt1m03My7Bnq10vY58Po8GejVDD+c/JA7w1GjEb8T+T8e7hSOzYGe8BIICofGSC3REs4y/oFRLQpWGl/xgJSudedqAzfJsnCVn8Qyi4zJ3",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TYC SPORT PLAY 6",
-        "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
+        "ico": "https://ztv.com.ar/Img2/tycsportsplay_new.png",
         "uri": "01TNp52sBAMaZ+zOrcu/hSNgMrrNF/U1BskLqTRUHs7F5tpnxE8/tyl6oOIEpcDIqYliIQcdzwxABPYuISdKMtbQNBENiiwUbmUSj2ae3xHH6lOc5Emw7uomVwoD6/Bm",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TYC SPORT PLAY 7",
-        "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
+        "ico": "https://ztv.com.ar/Img2/tycsportsplay_new.png",
         "uri": "23QjwRuXYm2u1e3/CsWj06qy1LTq+dZlcnJa1Oi4Cra7370JIA/xIBsGDpl2VAEBGf5c8ka1rx6RNHSB5Wl6Z3n3TyGuAqJnEYfD2SIJ48i+9Pm8Xwn3naI8qICWVRlr",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TYC SPORT PLAY 8",
-        "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
+        "ico": "https://ztv.com.ar/Img2/tycsportsplay_new.png",
         "uri": "Vep883seaGH+LLywgJU3L1Jp9C8uXQwQzasT8fHW7EUV8JTOOFccC1KU3UHaZvhhz7Od9AeXonxbIVXrlriFi5I5CMbDp3InAz7eO/yV9nA0GPA08vEnS/hVYPncAXYs",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TYC SPORT PLAY 9",
-        "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
+        "ico": "https://ztv.com.ar/Img2/tycsportsplay_new.png",
         "uri": "VDxoXc9bSEYUXeQsisED3GDkUazG9WHBEM6au1xHBWVFyBbRvgp8r7TGg57n5w3KEyzApkEozaVT8JWgj287etv9YGsPH0uItuvAnJV/gLrlbMy6BRIj3VnK6VbZIw84",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "TYC SPORT PLAY 10",
-        "ico": "https://panelssh.com.ar/Img/tycsportsplay_new.png",
+        "ico": "https://ztv.com.ar/Img2/tycsportsplay_new.png",
         "uri": "iDdqaEW5pix2kwHxOAmUIQX3OU3Jg1YqKJnFMwaOI+APC/XGy7L+APedaY8/sH3XlBidvrdgqN+O/Kw479Ruz2l8zqFytKpCxNzH3yrRshSO+TJ9yWYk3UC8g/R6qZxu",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -687,35 +687,35 @@
     "lista": [
 	  {
     "name": "PLIM PLIM TV",
-    "ico": "https://panelssh.com.ar/Img/plimplim_tv.png",
+    "ico": "https://ztv.com.ar/Img2/plimplim_tv.png",
     "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy1EWU7YkrC/4JbE+EIK0WajAbZ+kelybsHWJWIZFvw/ML3FSmzxuy4mkTiqmguvxAg3qsQ8dkOC8LYdOyQHS+F",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGT7ezrKO+XJbFCUxG+JO3DjxAwhACe5pdDDMe7mDFAix"
       },
       {
         "name": "DREAMWORKS",
-        "ico": "https://panelssh.com.ar/Img/newdreamworks.png",
+        "ico": "https://ztv.com.ar/Img2/newdreamworks.png",
         "uri": "sK6bz+vQHFWnBcWdEeWQTyUfZGulMSLpE27hZcNZt8pLzG7+b5oia0sUTrl5gc1GZF2oOYvJFa/XAx9uGyLJ4G7P+QuZKX59KqN3QgPSnFAfsjFUvWJ4VjXwoeXWoRAY",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGX1/+KyQWjYFC4uBx86vqSeuZMYI743R9/4SumS9fzw9EEUbLUav0xVHqBSSePaWZg=="
       },
       {
         "name": "CARTOONITO",
-        "ico": "https://panelssh.com.ar/Img/newcartoonito.png",
+        "ico": "https://ztv.com.ar/Img2/newcartoonito.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwhlGqXy5FUM7gesB1EEP65w03AgzuBUGhTtGuR5ICLWH6MYCtIjruLQaSzdhxpls2niFGuvArb7XxNw5ncHR38",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGXbJJ8ocUQobTcjz6IahQ0AbJK9G/I+CsQWLuqq7AGm0"
       },
       {
         "name": "CARTOON NETWORK",
-        "ico": "https://panelssh.com.ar/Img/cartoonnetwork.png",
+        "ico": "https://ztv.com.ar/Img2/cartoonnetwork.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxBZrrKnFEgmDePP2YK019wkPgtHglkp0gzf9Oxk2Zv0wyi4l/r5TYmSDa/yH4H49nllGzEh/NsmXeME2EU3G8YraVp2xMNMpZ4gKRm8pyafg==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGaEMPmXGm1QX98MFCQOmpwTqWO/CtnQTXXH1rznAgovl1QXQRiDJBHEwCnJp1MU6oA=="
       },
       {
         "name": "DISCOVERY KIDS",
-        "ico": "https://panelssh.com.ar/Img/discoverykids.png",
+        "ico": "https://ztv.com.ar/Img2/discoverykids.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy2cELKkfdOqxSSmGjxWp1mDXl1Sy9xXnrOnf948j0s/96f3y4f2VtgRq7wWt5H82nIbUcEUcTQZ1LaANuGfV2B7y2eLEFNA2H9tRZ/EVRq/A==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYn+rkS63RduMAeIEXan6h4albr/BWCEPo3gy3Jfhg9Q"
@@ -736,35 +736,35 @@
       },
       {
         "name": "NICK",
-        "ico": "https://panelssh.com.ar/Img/nick.png",
+        "ico": "https://ztv.com.ar/Img2/nick.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzp5HyG5gk1QIQ6y0p0KfnWvxFHTIf8qJ3AvpkguoJgYM5bAmyCCJUKn5d3KUzPOypt9el8V/952wHgU2XRp0wI",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGXQEUNfeSEPEmPtMHGcxkMuuJFqHdRTci6g3/roIPILX"
       },
       {
         "name": "NICK JR",
-        "ico": "https://panelssh.com.ar/Img/nickjunior.png",
+        "ico": "https://ztv.com.ar/Img2/nickjunior.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgw48/SpQzHBo2fIrZV5FFtndZMURfFsVizPZjNoWkwc70H3kGmTo2vjZqEQpTIyc43Z8Adr8DrfXvSIRRpBfCC0",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGXQEUNfeSEPEmPtMHGcxkMu+WF0zXbHeimnfM478xtQF"
       },
       {
         "name": "BABY TV",
-        "ico": "https://panelssh.com.ar/Img/babytv.png",
+        "ico": "https://ztv.com.ar/Img2/babytv.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwT+uQ5DHNtI/ICeXYc/OmWhLzMVWT4OzazJplXqF5UcsCuk/DRirdSyHAn2JvG2K3h9vrCZTcI2LeWNuJkR8Im",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGTC5ZtNznZyQ4bMwCr+aJpLW/fXz9iSoFpr2C2RwESfy"
       },
       {
         "name": "TOONCAST",
-        "ico": "https://panelssh.com.ar/Img/tooncast.png",
+        "ico": "https://ztv.com.ar/Img2/tooncast.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxm2wu8QAYkwTvb9PFaBDX/3QSjUvU04pOKu5nyWgep44cIzYy6sMR5l9ME/yCPpbD/Cai5aFcSKBTHZvbRhGJH",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGXmaO/6Y8IKMMey6kXLVhWx1FmBY7jtPpVaqSC4ZuoQR"
       },
       {
         "name": "PAKA PAKA",
-        "ico": "https://panelssh.com.ar/Img/pakapaka.png",
+        "ico": "https://ztv.com.ar/Img2/pakapaka.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxdbAEnUVnuG0mhBLK71ASmmUdUD5ay6t8IaNWftsPOl51GIONCzjorYYfpz9FcL6XZUv8Tp2zMSHD4w2oWroTg",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGRquCuZfCQKCaPHlN9/y/+8p2MWuB2Q1VtNQNDRo1gCe"
@@ -833,35 +833,35 @@
   },
       {
     "name": "UNIVERSAL CINEMA",
-    "ico": "https://panelssh.com.ar/Img/universalcinema.png",
+    "ico": "https://ztv.com.ar/Img2/universalcinema.png",
     "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy6esGRazBt06i41CG14kw7XmQj7FDqn2o0O3Yj/7s/AYC++VI0BdzLrVffXY7iFofMzK6CPORy/67cw5rLkzUoHKtLVgT7B2KNtAYopmZpQw==",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbjQkQ2OX7wZsCU1jbaFL4ls"
       },
       {
     "name": "UNIVERSAL COMEDY",
-    "ico": "https://panelssh.com.ar/Img/universalcomedy.png",
+    "ico": "https://ztv.com.ar/Img2/universalcomedy.png",
     "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy6esGRazBt06i41CG14kw7Ziv8T/TwkePvuqewfuPAfbT5kotU1Y1brcpBSHORIO6dTOEgIiyQAoTCmgq4aK3jN08S3BuV3hcxoiHiaSZPBA==",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbjh5z6y7kw4kNbaARusiwRu"
       },
       {
     "name": "UNIVERSAL CRIME",
-    "ico": "https://panelssh.com.ar/Img/universalcrime.png",
+    "ico": "https://ztv.com.ar/Img2/universalcrime.png",
     "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgycI8dZi6lA6LtMqRd1rvk6kFjY6JoG+IzaOaZi/E3HXSv4D870LD4VlWOPSXSHKDzuWtnUEwITQFt4zy9hT1F0d+aqUrQbvRf7GmxLzR9cuw==",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbgq1fs8VUCFqPr/4a+S64i0"
       },
       {
     "name": "UNIVERSAL PREMIERE",
-    "ico": "https://panelssh.com.ar/Img/universalpremiere.png",
+    "ico": "https://ztv.com.ar/Img2/universalpremiere.png",
     "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy6esGRazBt06i41CG14kw7NuWHlK7nuetHoedon2xyt45l0uxBMBoF8QKoq9AuTlKMuHk+yn42xImelMm5pbs6HuivENAZKnvyOk2Bo08cWA==",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbhDcbdITz0SVbUHL7+jzU1Q"
       },
       {
     "name": "UNIVERSAL REALITY",
-    "ico": "https://panelssh.com.ar/Img/universalreality.png",
+    "ico": "https://ztv.com.ar/Img2/universalreality.png",
     "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy6esGRazBt06i41CG14kw7D83irwGoR44jVn5iXB6sUKtkXgy+To1PVt/PMsMBF8Wvw277gnkj8hb3EQFy0TvPRWSpUyY0gaFDKs6D+jF6vw==",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbgGEw9Ia2sphMX95b88/RcK"
@@ -874,7 +874,7 @@
     "lista": [
       {
         "name": "CINECANAL",
-        "ico": "https://panelssh.com.ar/Img/cinecanal.png",
+        "ico": "https://ztv.com.ar/Img2/cinecanal.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxONiyLeFsOKoNeCOGMcNHoTc6xW9Ko6VrkaEyY4Fp8Y7u8X5Ylnw14hwp6Q0NXlr5/O8DpBWtl8XiKtMz45BM/",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGTOroPHSkSCvT/7vdoZxcani04GQVyQjmk2vbLVm02MF"
@@ -895,154 +895,154 @@
       },
       {
         "name": "TNT SERIES",
-        "ico": "https://panelssh.com.ar/Img/tntseries.png",
+        "ico": "https://ztv.com.ar/Img2/tntseries.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyQxbEAbO2JKYYMh7DfLCjETyoKbJiWWXx2/PxUk+vDYeWLtrT5P3D5RuzSwKjypb1kC7hdWcutOOZ89M3v97T6",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGbaxLqvi5U3ned/jNBPtMytyKkiGIvwlD7quAXfUwz5f"
       },
       {
         "name": "WARNER CHANNEL",
-        "ico": "https://panelssh.com.ar/Img/warnerchannel.png",
+        "ico": "https://ztv.com.ar/Img2/warnerchannel.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzY/xl/zpUMhWx6qVoRYmxgkpMQplhEf9GmlP28vVWd/X4UPYHgQWPVaXkVPMR+X8NiKL43j2b+MLuCvSrrFjCM",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGXmkHf0A4DShDx5Ep/tSkJPicr4JZJJy1s0hei+zQs63"
       },
       {
         "name": "UNIVERSAL CHANNEL",
-        "ico": "https://panelssh.com.ar/Img/universalchannel.png",
+        "ico": "https://ztv.com.ar/Img2/universalchannel.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy6esGRazBt06i41CG14kw7Io7jnehwnlosJ33ZctqSJ6oCVd4qGI4bHuOqrIJG1gxNlpH6oQOa3Y0i8SIiNdb1UwRQ2Repd5Lz9MdBAb+cTg==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGa8JUNGEaYHjeLHXbKuZHbi+Zt8Se/hXCzIUuGcIJIgnGljrPG+2kjRVdAjZ4PZctg=="
       },
       {
         "name": "AXN",
-        "ico": "https://panelssh.com.ar/Img/axn.png",
+        "ico": "https://ztv.com.ar/Img2/axn.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxuCFA5oLwjcAuCYsCJvOhUV04IW2PoXQZU+IQ1nJTA6zE+g761JZATampC3SZ868s=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVw6xm9erBQ5+cNHzUSx3zQ5pZpjVB9nESHKBAmltXIL"
       },
       {
         "name": "SONY MOVIES",
-        "ico": "https://panelssh.com.ar/Img/sonymovies.png",
+        "ico": "https://ztv.com.ar/Img2/sonymovies.png",
         "uri": "sK6bz+vQHFWnBcWdEeWQTyUfZGulMSLpE27hZcNZt8pLzG7+b5oia0sUTrl5gc1GITzvGsZmsLc8dgWtUbPFoFulltEDuImVz7aazC191utDez+N4meAEmBPajvQrKBf",
         "drm_scheme": "clearkey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVZez10Q8R7SN+xgXIC1uB1BH/On7QuXHtRn+sP90eCj"
       },
       {
         "name": "CINE AR",
-        "ico": "https://panelssh.com.ar/Img/cinear.png",
+        "ico": "https://ztv.com.ar/Img2/cinear.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgynCDC80nYn/YYZGUEOwR+7/xIs7DsePx85j1AAG9W+I3U+XMHzCYfomdxZnjq5VWKU3i9yqRfFpCz5L9n+s3Qr",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGTOroPHSkSCvT/7vdoZxcakTq18eiD3cbYJ9I/cJCX60"
       },
       {
         "name": "CINEMAX",
-        "ico": "https://panelssh.com.ar/Img/cinemax.png",
+        "ico": "https://ztv.com.ar/Img2/cinemax.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzsYWvn7B+cLwR56mf629cAjj3XFaMAO9CCGiQL+iU3I6GzJxs78bY1Mpa6OEezNjq7qDzU5jMIzxSejaxMVPPo",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGTOroPHSkSCvT/7vdoZxcamHbqEk8XfWUpxehHB6YvCO"
       },
       {
         "name": "VOLVER",
-        "ico": "https://panelssh.com.ar/Img/volver_new.png",
+        "ico": "https://ztv.com.ar/Img2/volver_new.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy7lLsggU7PLRgS+vmhRsa8s68nzEekFQIzNTJbooei/PycU+rZkyhkJJQNZsSlfcuUvwA9kd2uOFiHUZPGg2u2",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGSG3zbAT7/hXYbZLOmDfk9d4ZVmXDeD7eQ31jWSUsvLa"
       },
       {
         "name": "GOLDEN PLUS HD",
-        "ico": "https://panelssh.com.ar/Img/newgoldenplus.png",
+        "ico": "https://ztv.com.ar/Img2/newgoldenplus.png",
         "uri": "eh2Z4j+Ulh9hNBCt/F3eK7uwbXXOn3lORfoNd4+wjHt6bqAaQqseXvcUH1oiSgx1huhcMvyUu1weeUuXg6glZqtWFRRVPltSqOEf3G+ApZc=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "FX",
-        "ico": "https://panelssh.com.ar/Img/fx.png",
+        "ico": "https://ztv.com.ar/Img2/fx.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyBLrEURSwND6M4PJ4KltBI6Gj79VsLlvS6JM2/i1v74IRmjzv5l3ETaRXBJX8jIw4=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGR+NqTLnGR/luDSSStKo2BaCqonWrRbIIYIgac0d66IG"
       },
       {
         "name": "STAR CHANNEL",
-        "ico": "https://panelssh.com.ar/Img/starchannel.png",
+        "ico": "https://ztv.com.ar/Img2/starchannel.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyszR9JZ3BHvtg7wsKhVjfaGIg0wpk1YtvuxniyAaZ2GAqFMb5OugLaK1NrAVkc1aA=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGckLcjg0HOxRaa2LXUnuyM2jrmqcOpu/fGpBdscyb5QQ"
       },
       {
         "name": "SONY CHANNEL",
-        "ico": "https://panelssh.com.ar/Img/sonychannel.png",
+        "ico": "https://ztv.com.ar/Img2/sonychannel.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy6Z34zdQWPTCWKDWw6uBfUX5U9uS5iv51NPevDKsmwEvtmDaqF/lpjPkfP3tIqSpdP0A64dMWdY4RWig0/YMoG",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVZez10Q8R7SN+xgXIC1uB17xsCe2Qwb74focLwrCyyv"
       },
       {
         "name": "TCM",
-        "ico": "https://panelssh.com.ar/Img/tcm.png",
+        "ico": "https://ztv.com.ar/Img2/tcm.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwbVkc4Fx5BiNUsy27EC06EhvpCp5SJEKnOUrM/tDVpEIcCiERNoxiA6weSQFaiCck=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGfCiveerm6hNv/plCOejbPe3C8ymyfVbbHgzGWsputaf"
       },
       {
         "name": "EUROPA EUROPA",
-        "ico": "https://panelssh.com.ar/Img/europaeuropa.png",
+        "ico": "https://ztv.com.ar/Img2/europaeuropa.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwy7SWSQNmO6bdpEEgvGSE6zgv9JkqrQ3b1raADghbm78Eh91HFKnyYvnnOAsZtO8iotrhtmYMltRo0C0IU6OHC",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGXDTerxnZV0lkfQbVsj/Xb19SkjEVqmzwJWt8IR83u1R"
       },
       {
         "name": "STUDIO UNIVERSAL",
-        "ico": "https://panelssh.com.ar/Img/studiouniversal.png",
+        "ico": "https://ztv.com.ar/Img2/studiouniversal.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwa6+TVZJUVxWNU+Dt2aSVCLyXHM/0EBJ6eQ2VSZM9XEvdS4RkwsTyImtMngcsGFq9qPA7Ee29SSPD1Ffb8NqlOD0BjrIjA4US+kozDdYi5ZA==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZf35mZeWXlhyYWWFDYDCzgbDDyatQFOc+aRRbAtm8E5vPAVs9HlWqpG27giFoqFmA=="
       },
       {
         "name": "A&E",
-        "ico": "https://panelssh.com.ar/Img/a&e.png",
+        "ico": "https://ztv.com.ar/Img2/a&e.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgz1+Ewgm0ScHCM5A58KT70THnbG2CiSDIqdC0xjwkLOhxrhUI2nx8YUQegE0cz51+o=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGXrxh0t6iDZCmSULo2BoguEaCjE7FHaLOCmX2dvK7aBI"
       },
       {
         "name": "AMC",
-        "ico": "https://panelssh.com.ar/Img/newamc.png",
+        "ico": "https://ztv.com.ar/Img2/newamc.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyhzMVlUz5eqoTj9u1uLLkzGiCurSAqmnTlzU+tBaNjR6ra+k0BMeWM/lj43A2s7rs=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGUYs691h0UrgKqw7MT2q1PSEHLOOS+H9R/+vmqt71k9J"
       },
       {
         "name": "A3 SERIES",
-        "ico": "https://panelssh.com.ar/Img/a3series.png",
+        "ico": "https://ztv.com.ar/Img2/a3series.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxSpRil1oHMxQQZB1mEz8Q8N82vs6HwdQX0kFvd7+N4j50nZq8bUaH0s29TYTtXuZL+1iG8SwkH2lM0pKsTUpF+",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGQn9Y55PNcqQSsKRl7EiMC5HSVnS2W6Rn/WIuEpWgPaw"
       },
       {
         "name": "COMEDY CENTRAL",
-        "ico": "https://panelssh.com.ar/Img/comedycentral.png",
+        "ico": "https://ztv.com.ar/Img2/comedycentral.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx21qavXtZuCRQEgwWSUnGnZBDw9+VBByR3IWMD3vAcEHJoQ8vaEh5XTNFCDEmf18TTlyNOqPkHRrSNXNwje1zS",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGft+GKSVgbpgXTIEij/r22UBN3GJIe0XpSPyM8AXGrqS"
       },
       {
         "name": "PARAMOUNT",
-        "ico": "https://panelssh.com.ar/Img/paramount.png",
+        "ico": "https://ztv.com.ar/Img2/paramount.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzQoFTioWxNjaY+CN/ff/+WZyjpXNCxwjRT0fESBg2djIj66lygR8ciT0HEOgBgodFRhVVez5lUCcCa9h5GOKWR",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYBqbK6+yP1os6nfkR8dxP6SHewLETiRdSi3vaz5Toz2"
       },
       {
         "name": "A3 CINE",
-        "ico": "https://panelssh.com.ar/Img/a3cine.png",
+        "ico": "https://ztv.com.ar/Img2/a3cine.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwJs4eH2o7pItGNLJ8aAJYCyvNZYX1RPPyClkcbv99LcnH1Lw5sIKStmPOZ9dgsDNVMePxCkvizbiGqBNw0bBJH",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGdEIGq3Wq08+cH9BRp5dm9uC1mhE4TOCY26ajo4se1W4"
       },
       {
         "name": "FILM & ARTS",
-        "ico": "https://panelssh.com.ar/Img/filmyarts.png",
+        "ico": "https://ztv.com.ar/Img2/filmyarts.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxu3sCNaxT0ShnzDAQICmeo4etPiv+TG35XQbED+PFoTWCH+IYOqjG463TE05Kye1NOWsWxBeoDkMjU5jSwvvyf",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGdsksP0PjZIZlMxcWm7yLjjj++S2ZiNPvyR4jRcC+h9b"
@@ -1055,105 +1055,105 @@
     "lista": [
       {
         "name": "HISTORY",
-        "ico": "https://panelssh.com.ar/Img/history.png",
+        "ico": "https://ztv.com.ar/Img2/history.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwb//L17iKRjuFNHV3NtKZ7dM+PYdL4Ri46iQu51C7lelfCLfnZt2es0tYyA7HkubiqYANKCljZZQSODIhSgdGd",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGeAqnPJ7SeSycYvQRWfpWXkYhUZwluCg/bwqptMn8Ve2"
       },
       {
         "name": "HISTORY 2",
-        "ico": "https://panelssh.com.ar/Img/history2.png",
+        "ico": "https://ztv.com.ar/Img2/history2.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwwWtN5jqmaleaDKDpjMZX0cAUPFVjBfMLLClMGVQRHpWyfAHd62mmiI6vBHQECpFHfsZL3E6v3pJ5YiFuElV11",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGeAqnPJ7SeSycYvQRWfpWXmJoFmKttqY2ONe/3QN/TSx"
       },
       {
         "name": "DISCOVERY",
-        "ico": "https://panelssh.com.ar/Img/discovery.png",
+        "ico": "https://ztv.com.ar/Img2/discovery.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy908/mM3q3CtHXlPmDAiWVovlnOWnsFmfxuD9gJsbAOcz6iJaM6YMtXxAP6JLic+ASSYoSgZUMvhraHMF86xBF",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYn+rkS63RduMAeIEXan6h4tvX7Ic15u1Z2zHP4Yn4XB"
       },
       {
         "name": "DISCOVERY HOME HEALTH",
-        "ico": "https://panelssh.com.ar/Img/discoveryhh.png",
+        "ico": "https://ztv.com.ar/Img2/discoveryhh.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy908/mM3q3CtHXlPmDAiWVQ8ZYPG9ucQvsDdjX0eI9qrgXxwMOV36qMEiFOvwXDdbDbhf37s6q8f+fnsFCX4dYxFlIXIEQ1dt9QgGNJTonuQ==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYn+rkS63RduMAeIEXan6h4aKwaEZmZlT/+BqslBxbWS66EbY2kN/jmEBzePqsK/8Q=="
       },
       {
         "name": "DISCOVERY ID",
-        "ico": "https://panelssh.com.ar/Img/discoveryid.png",
+        "ico": "https://ztv.com.ar/Img2/discoveryid.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyDW8IGbZpilDcv5D9EFCAdNWVI/O8EfAe02x3P/yiw0DS7dWc2K30iQ5c8BZw9f7w=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYn+rkS63RduMAeIEXan6h4zo8vy2wMtquqkknmQWwpj"
       },
       {
         "name": "DISCOVERY SCIENCE",
-        "ico": "https://panelssh.com.ar/Img/discoveryscience.png",
+        "ico": "https://ztv.com.ar/Img2/discoveryscience.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy2cELKkfdOqxSSmGjxWp1m9oT3tkqROqEJR87aoxUF0/kf0OSuryvyMsVzwmd1PhgxPTBrzBSViuc9jmaYtyWecSw6hguFe8SFcM2V0ytruw==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYn+rkS63RduMAeIEXan6h51+iIh6BJmclBgvb0EO7ZNKTMp0vPmd5qapMH9FYANTg=="
       },
       {
         "name": "DISCOVERY TURBO",
-        "ico": "https://panelssh.com.ar/Img/discoveryturbo.png",
+        "ico": "https://ztv.com.ar/Img2/discoveryturbo.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxjIl08yQO20IEHowxY4EElLnH8BH+aa/m5pGIVIRMH3PjO6yQIdbYMHvYr62w2XQoDv4S6U3fTuD2wrAXRMtdvv5JUft2Bvwf4Zqh596Aa8A==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYn+rkS63RduMAeIEXan6h4rz/QBJ7+7WUrP386NKUyw+J+QkJiII7lbxASmWYGkFA=="
       },
       {
         "name": "DISCOVERY THEATER",
-        "ico": "https://panelssh.com.ar/Img/DISCOVERY_THEATER.png",
+        "ico": "https://ztv.com.ar/Img2/DISCOVERY_THEATER.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxJS5k8R/lF4hPcJ7KXltDoAGxWmIyU3kImoRg+9pgDj48WwVlO2xjZ6uJbquaG+eE5v7Nme5omo0OITopjhCO/",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYn+rkS63RduMAeIEXan6h6cRdtaTxygDQmUBZZ+l4ArqaKKSM0mLzLAgRw0YheLqw=="
       },
       {
         "name": "DISCOVERY TLC",
-        "ico": "https://panelssh.com.ar/Img/DISCOVERY_TLC.png",
+        "ico": "https://ztv.com.ar/Img2/DISCOVERY_TLC.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgw/P1WX3zwKqhbyhQOsqI9AdENeBpHkTDtPuaAa+Y+U0geUIL7PtCBNfHmW8zr2rhw=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYn+rkS63RduMAeIEXan6h5JSD4c18u1d8WtrnOf7+PX"
       },
       {
         "name": "DISCOVERY WORLD",
-        "ico": "https://panelssh.com.ar/Img/DISCOVERY_WORLD.png",
+        "ico": "https://ztv.com.ar/Img2/DISCOVERY_WORLD.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy2cELKkfdOqxSSmGjxWp1mdvgtBuw71dCq1pysVa7zkHGSgZvH5Bqpdpvw/DVq3Q0RZ6060H2/01B4miXASv/hBdARkYa4h377yX5sH0N0eg==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYn+rkS63RduMAeIEXan6h7a9VyQbecvJUA+qZM+ux6SPg+4rl3fRZFlMPk4oOW33A=="
       },
       {
         "name": "NATGEO",
-        "ico": "https://panelssh.com.ar/Img/newnatgeo.png",
+        "ico": "https://ztv.com.ar/Img2/newnatgeo.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzhEFZUU2C54gI9DsDQ4NGNsnKaqxtP1pTvjR8BALOIxcbX6J8ffc75gjYJH/eWyWnmESarGkDkRObI/txqx7xx",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYE/cFTZWZ3iSy5QCMpDTtXr6N0v7ZjrjVIA1pG2hNiE"
       },
       {
         "name": "ANIMAL PLANET",
-        "ico": "https://panelssh.com.ar/Img/ANIMAL_PLANET.png",
+        "ico": "https://ztv.com.ar/Img2/ANIMAL_PLANET.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwgTuvdgzJH+QfVlvBv2qzSinqxifv25iCXtSEEDJbxwrMapc6xHfCdAXrU2FzjrjZHeSxZlx+vfXo/4f+WQEgL",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVIx/uTPive7UbvdFC1gxLb6K+IMNfQlJRlyd8HSzmMP"
       },
       {
         "name": "HGTV",
-        "ico": "https://panelssh.com.ar/Img/HGTV.png",
+        "ico": "https://ztv.com.ar/Img2/HGTV.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzL5uoWbKRh8oGOcuerfttIN0Rn60iBuJ1gWIHhV1UZiwtnWYcMqm3wHjlHmgk5QT6L/DAZnbRWBe/OqT0ZTLVTs5J5vrBN1mgeR2oph8n7/A==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGf70D8Ct7TtuL3w7/W+6MGZLiIov5bRDId+7BOE9hP6y"
       },
       {
         "name": "SUN CHANNEL",
-        "ico": "https://panelssh.com.ar/Img/SUN_CHANNEL.png",
+        "ico": "https://ztv.com.ar/Img2/SUN_CHANNEL.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgykxPxPJ4KpL+k+vSNz9xfTKE/quGaCKEa04OAFp4BtZeqa6xZpnuFCgeciYOhaBatyBUo/oQAQ1RN/VtRHP7oD",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGRFjZ0RTcMYkktXjL/Sz2WI0i5D8K9X4NAcnut2x+pZp"
       },
       {
         "name": "GOURMET",
-        "ico": "https://panelssh.com.ar/Img/GOURMET.png",
+        "ico": "https://ztv.com.ar/Img2/GOURMET.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwiAxvsspjnyFlu4sgDl7Q7fPsy0d3Z3BzMY5TPU1aqZxuXL6EaiSqG6TeKxT4sANGQOY878dYfcfgFiYzEfP+b",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGUEE34DRcp1VokKm/cec72cZEIhKviATPD4/o3lJgKL/"
@@ -1166,70 +1166,70 @@
     "lista": [
   {
     "name": "NOVELAS TURCAS",
-    "ico": "https://panelssh.com.ar/Img/novelas_turcas.png",
+    "ico": "https://ztv.com.ar/Img2/novelas_turcas.png",
     "uri": "kEhB69X+6WsP6ReWlBfEGjSgsQBGzzGnIAWlyHQTN/DwdjatuTuAGlV4ZIZO0gPb6EAYX8J1w+3GR4B5P6V80g==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "TODO NOVELAS",
-    "ico": "https://panelssh.com.ar/Img/todo_novelas.png",
+    "ico": "https://ztv.com.ar/Img2/todo_novelas.png",
     "uri": "LoPGyIgoQZYiFL5s/yeLh2J7hbHupBDSjBO0fPDZWnYPCtvxlqqGBkWbcESMA3t1wbP95tCS+yQAarD7kHsij4eIDXrFyLzVztLo0DfjbFKTgrAzkU2XwV4Va2BVauFIR0feM6QzTtQ6IQepl+OVgW9Lfled+V9OLxfzan9+bhM=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "CORAZON TV",
-    "ico": "https://panelssh.com.ar/Img/corazontv.png",
+    "ico": "https://ztv.com.ar/Img2/corazontv.png",
     "uri": "CWdH40gIWVLk7uph3/3XyVM/8YHtraL5ngqAos13IiuBGhNouhmpiGZhdT/dAYMO2Rsc2LE+TKXWDD7O4E8rnDAPI3cEvDDi64uBmBdjhjNCg59o3TO88sBtrRCLXAN+C6GKwWX0HO1rbCVB6FpJWPKrPoZca01vAvCRT5+koh4=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "NOVELAS INOLVIDABLES",
-    "ico": "https://panelssh.com.ar/Img/novelas_inolvidables.png",
+    "ico": "https://ztv.com.ar/Img2/novelas_inolvidables.png",
     "uri": "JAeNAmb1CjooyoSeUkBeoZvipU8eBTLH7O4TZtHcY6VhcSHr5qh8vlVLrmQPIzc8W3fNdcWzMUcCrleVf1IC8g==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "CANELA TELENOVELAS",
-    "ico": "https://panelssh.com.ar/Img/canela_telenovelas.png",
+    "ico": "https://ztv.com.ar/Img2/canela_telenovelas.png",
     "uri": "kEhB69X+6WsP6ReWlBfEGjSgsQBGzzGnIAWlyHQTN/DwdjatuTuAGlV4ZIZO0gPbi22pJmUF+SPxo9/sSMu7og==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
 	  {
     "name": "ADULT SWIM",
-    "ico": "https://panelssh.com.ar/Img/adult_swim.png",
+    "ico": "https://ztv.com.ar/Img2/adult_swim.png",
     "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxkz4QVkAs7k9SFywA98daGWBFzoDlMfg0S9KKrnA9peMc0KsSnyqqfstnBnXUvfxkQgdP7jsxLHrmmKhmcR33C",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGV7EUNIN2/E4EVXdYhFIimKgwDkdvXVsTCwsacpvRp7R"
       },
 	  {
     "name": "KANAL D DRAMA",
-    "ico": "https://panelssh.com.ar/Img/canalddrama.png",
+    "ico": "https://ztv.com.ar/Img2/canalddrama.png",
     "uri": "TgfWAPx8iGggXWI6LpBt+OuwWVxO8mksHXqM9rznpkV/t5YPFHA6vZFQGiooBIS+xsAzcJaI7C9z0ZDAlmjsQ/F5ehl1KLVlxSeUMrqRUB6G6ySXUkKZTga4DVdm7k5vaR/MupiPENz3AnLDsELLoQ==",
     "drm_scheme": "",
     "drm_license_url": ""
       },
       {
         "name": "TELEVISA",
-        "ico": "https://panelssh.com.ar/Img/newtelevisa.png",
+        "ico": "https://ztv.com.ar/Img2/newtelevisa.png",
         "uri": "tOM3BHrk9kXjLLMg8Ja7jC0+yHTxQbDedEcX20yglav/VCmaGEH8DrX2AXlw8KGcOKKWtkOX63UNRiD1ojCW8g==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CANAL DE LAS ESTRELLAS",
-        "ico": "https://panelssh.com.ar/Img/canaldelasestrellas.png",
+        "ico": "https://ztv.com.ar/Img2/canaldelasestrellas.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8gpMZErc85hFGB1jB5G9/Q4NV5HJzdrgKkdOzdRCOYOJvmckfJVc8yNEH7vTONZhx30gceesH2ueJTTfFoOYCMf2IBOESkX+/07r8iX93RIxHUp1Sz6dntqEeA5HDGv8=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wruAvvATEJmq9ua9tnqhZ3lf6/szKBKVYEL5fiySjHx2YQ=="
       },
       {
         "name": "PASIONES",
-        "ico": "https://panelssh.com.ar/Img/pasiones.png",
+        "ico": "https://ztv.com.ar/Img2/pasiones.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgw3/j96T3jCCrmPU+qsAtlHpYQxG6ZaYcQyN1yLdOZNUbvhCvoXP82GhcyYDoDjmOrcctTzGZrZ3mGrRwc1grjX",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZdyqg48xaVMUGfzovqPCYPSUhRjWibFB9Jh55E1earh"
@@ -1271,133 +1271,133 @@
       },
       {
         "name": "SONY NOVELAS",
-        "ico": "https://panelssh.com.ar/Img/sonynovelas2.png",
+        "ico": "https://ztv.com.ar/Img2/sonynovelas2.png",
         "uri": "Fihd4SbEWIqJKDS3gk+gZs5YvZ3xu9VR/L2cNjQfH0J8gWv4VT8M780Zg5DKk0i/H3xUmLXyfIzc1UUriNPL3w==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CANAL A",
-        "ico": "https://panelssh.com.ar/Img/canala.png",
+        "ico": "https://ztv.com.ar/Img2/canala.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8gpMZErc85hFGB1jB5G9/PTuBkWun/YVSWs4IevjsD3qn+D6PMFCdqAnM6EHDU8HKmhXx37y/0TvvdA66lxPv",
         "drm_scheme": "clearkey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wruY/XgG4lpcR7t1dH6KTQHr"
       },
       {
         "name": "BRAVO TV",
-        "ico": "https://panelssh.com.ar/Img/newbravotv.png",
+        "ico": "https://ztv.com.ar/Img2/newbravotv.png",
         "uri": "VMCmuga0JuMTQJdIKOL6rd05xWX6xIAkcw3TVXrVO7FynqpGJZUFHKEImWSpKoSDcXL+Yi9zpZK5DNfigph+8J2FCi/lJsGS3YrXcoWRo2s=",
         "drm_scheme": "clearkey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGeIaXLPSiEMvwGiorQKty7mbR4+IKErEiPZKezXqXvl6"
       },
       {
         "name": "SONY COMEDIAS",
-        "ico": "https://panelssh.com.ar/Img/sonycomedias2.png",
+        "ico": "https://ztv.com.ar/Img2/sonycomedias2.png",
         "uri": "TuiEtaRgE1/+HWq/RAIcTK/hufGFjFQYsxPLcZoj63g0W6IhtwNVGeanYz/MVw1QqXZcn6DM+NVHXNWOtT3IXA==",
         "drm_scheme": "",
         "drm_license_url": ""
       },
       {
         "name": "CANAL LUZ",
-        "ico": "https://panelssh.com.ar/Img/canalluz.png",
+        "ico": "https://ztv.com.ar/Img2/canalluz.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzk8GNvawbzleLRoW1CtguwCqBeTNYuo86fXhc4xppTZGpBmHJwu2WrtnDLNDB0qsYqEd84zadQLMJrJ28J9Jlx",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wrtTd7kkRwvkAR5Aj+D6MJBL"
       },
       {
         "name": "CIUDAD MAGAZINE",
-        "ico": "https://panelssh.com.ar/Img/ciudadmagazine.png",
+        "ico": "https://ztv.com.ar/Img2/ciudadmagazine.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyMlA2xnxEtJCmE9IbwDaxI6jOBSAIEwBUTlopFLd76BZX4AJgAF9JF5dNZujqTC0Ayq1oU9mvQP1hp7riFdbSb",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGaKvogX/rp0OarqdeJIhO8zvdPLeXT5OEI48rmqn82Famu/iDbEK+pozfsRBuNSjkw=="
       },
       {
         "name": "E!",
-        "ico": "https://panelssh.com.ar/Img/canale.png",
+        "ico": "https://ztv.com.ar/Img2/canale.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzIS7GXQuV3rzSKy3uuW2mlMdGkCKcihQseUUW/OLt/Jtm4FiBW3h8vLXD14Wnk43LhsCbV83Hxudwshe5PXPkdY+usD9rSIXD7OkZIKf4Mph15fTsYWilTpo4W5GZt+2Y=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGfyPfqMs+tf4z7K61Xb+FvzL8tvi582Q2yOEB6FkUzqC"
       },
       {
         "name": "EURO CHANNEL",
-        "ico": "https://panelssh.com.ar/Img/eurochannel.png",
+        "ico": "https://ztv.com.ar/Img2/eurochannel.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwy7SWSQNmO6bdpEEgvGSE6zWphLWu/INewl5AfNF1hbwPj0B17rGIP8EqAvrMIm9Mj/Xb+T++GIfzztloOaq7W",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGXDTerxnZV0lkfQbVsj/Xb3H9qEGprj2cs0BN875yagq"
       },
       {
         "name": "EWTN",
-        "ico": "https://panelssh.com.ar/Img/ewtn.png",
+        "ico": "https://ztv.com.ar/Img2/ewtn.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgy4zDuhFNptoMjvHOFIWquZcN0sILdRC/EqzCAiw0gZRePNPqBcBgLBUv00sQMXcvk=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGbFmnYw4nt4FiAcM2rr2EqT/RHEbxKHBIenyBZST+I8V"
       },
       {
         "name": "FOOD NETWORK",
-        "ico": "https://panelssh.com.ar/Img/foodnetwork.png",
+        "ico": "https://ztv.com.ar/Img2/foodnetwork.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx31BF5fR4P0nmMbeXYuagEaCvWiL13g/nxmVwK8g39cpAvBulN17w3+NlFaxbwWSTK9oyikbEHw8tPE+LxDCLV",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGa2iWOW2U0Tz6nLfVX5mCNWAkvLillUUh3gGnleTlWyK"
       },
       {
         "name": "GLITZ",
-        "ico": "https://panelssh.com.ar/Img/glitz.png",
+        "ico": "https://ztv.com.ar/Img2/glitz.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx/ez2iUxZN+vze3Vtxk6+mTfpQgx+iP7evLaQpVaNhvo3O+nAp2pQZeo0K/mMctm4=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGdeNnBDG75MyI4lA9527mAqpKFcUV9gIJOJTiuW3fHBZ"
       },
       {
         "name": "HOLA TV",
-        "ico": "https://panelssh.com.ar/Img/holatv.png",
+        "ico": "https://ztv.com.ar/Img2/holatv.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzqGn8Xj6ulN3hWknzjFFfmvrXa1DGjSpOSljjIeC8ZNGRbFIu2B7z5ilq1sD8KH1rjtqwDBEYFqZ/qN/B00GWD",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGRdp7Duxu5MGZ/p9EQfAhf0fW6bSinXyJanGvaRdihyw"
       },
       {
         "name": "KZO ENTERTAINMENT",
-        "ico": "https://panelssh.com.ar/Img/kzo.png",
+        "ico": "https://ztv.com.ar/Img2/kzo.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyuqk32Snb0A5dcBD5EI8dswAXKEi+erRNN4iK/Q0hfUjKSUVivGB2B09ftdLR284o=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGepRZlG/eMsYCDNdQlnrPvjwjHsm6xxZPnDvNCyYbuXC"
       },
       {
         "name": "LIFETIME",
-        "ico": "https://panelssh.com.ar/Img/lifetime.png",
+        "ico": "https://ztv.com.ar/Img2/lifetime.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyM+BLvbu+chEwRFOC2YQbuCDlTtNegHjN0KYdrCg01KcBvVf3sZ8aRWyFOmYAD04lgJcUA9QoNHx/uj593XQw5",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGauLGD1IZvC5Irjk4vsHcFMCyOq7nLhw2qmKUjjhy4uN"
       },
       {
         "name": "MAS CHIC",
-        "ico": "https://panelssh.com.ar/Img/maschic.png",
+        "ico": "https://ztv.com.ar/Img2/maschic.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgykzlEDsUrBPUMsH9r6rMb6DkQZDnzfZEOgzUNm8s6ZmZvZAQRu3Cm+Fv/jU3mm2ikcNiTmUgaXtbscBLygUWVn",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGWJ6icFeC0fcynma1tqxWgMPG7EjiW9v0HPY59HTjMeJ"
       },
       {
         "name": "METRO",
-        "ico": "https://panelssh.com.ar/Img/metro.png",
+        "ico": "https://ztv.com.ar/Img2/metro.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxxvhHDTPVTEaYONjmn6UK5VZLehQpTu3SlVuffiHPznQ8PmvbB9rxHdSUsJw08TnM=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGc3F773KpS1fKWEt0M3AiaDiVCuXa3g4D5VaKMB+KWvp"
       },
       {
         "name": "ORBE 21",
-        "ico": "https://panelssh.com.ar/Img/orbe21.png",
+        "ico": "https://ztv.com.ar/Img2/orbe21.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx8gpMZErc85hFGB1jB5G9/1s6KrvRgXKs6qKlHe/Vrc2KC/oxOLnouUAbnFHpEcfnMliX2vdoY6nB2u7dtX0Pb",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGcbU9TUGc4z2hkTV72QZvGPZn4K7AcEQvIdbyTDw3LGx"
       },
       {
         "name": "SANTA MARIA",
-        "ico": "https://panelssh.com.ar/Img/santamaria.png",
+        "ico": "https://ztv.com.ar/Img2/santamaria.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgw9zhE0FVldadfQHznyC3GKewFtBX8L4ujgwyGPBNnwaLlbOja9lBTrn7tByaJwvBbh/R/EUenrQiM0eemkKLpM",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGYjk7ZzpQHXx67outQvL+G4MJVQ0gG3savqwWXBCxsiY"
       },
       {
         "name": "WOBI",
-        "ico": "https://panelssh.com.ar/Img/wobi.png",
+        "ico": "https://ztv.com.ar/Img2/wobi.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyXgPgZq21Tb5eAaD0VAKqfNS3sIo0C8JfCw6KNeNoN3hGK2b41lhnJqC8RX6G5dVY=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGUrVTCebmvLffB0YkSykE57ibY7+acq6aBkXs3QWkODN"
@@ -1410,56 +1410,56 @@
     "lista": [
 	  {
     "name": "NICK MUSIC",
-    "ico": "https://panelssh.com.ar/Img/nickmusic.png",
+    "ico": "https://ztv.com.ar/Img2/nickmusic.png",
     "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgw48/SpQzHBo2fIrZV5FFtnpeBTTNd3ZU3qh/S2uNg5s7G4AgfiVRvG0jGVFgQjoQrSIuoXb8F26risFgZGJCOt",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGXQEUNfeSEPEmPtMHGcxkMv+AGRzPDgjtnXLD2zUQIta"
       },
       {
         "name": "QUIERO TV",
-        "ico": "https://panelssh.com.ar/Img/QUIERO_TV.png",
+        "ico": "https://ztv.com.ar/Img2/QUIERO_TV.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxrKGTyvJQQ4vrbkeIvR8W3xZZ2ZmOqN7QjATd2BGdEUuEX4Z3rkcQ0yOs1052jatbnxsM9pmeXtNDd4LfpElKQ",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGV42MH3RAwArfSnx3PBmLKafj+wuQkZFZ0i204W4JbVk"
       },
       {
         "name": "HTV",
-        "ico": "https://panelssh.com.ar/Img/H_TV.png",
+        "ico": "https://ztv.com.ar/Img2/H_TV.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgw/XwLsIXZyMV1oFbf416sf0vIXDGkMWfRA13b9MSgUvL4j94uyKg3bHZ88xaOFDQY=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGWs+R+IOHBK7j2X5XHqrs6gni4drTjcVeBbT5gLAt7S3"
       },
       {
         "name": "MTV",
-        "ico": "https://panelssh.com.ar/Img/MTV.png",
+        "ico": "https://ztv.com.ar/Img2/MTV.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwqsHyzmuuSx/ZrhJQBXzaSb/w3zaOGw6GUWZYTklb2t47+V/mGXxqcojk3ieyD4a9v3om7IL0wznWxDnmD865v",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGbkoEVo88bbgxu5L4DFlXm9fbxfjawpumQrbLizwdXBr"
       },
       {
         "name": "MTV HITS",
-        "ico": "https://panelssh.com.ar/Img/MTV_HITS.png",
+        "ico": "https://ztv.com.ar/Img2/MTV_HITS.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwqsHyzmuuSx/ZrhJQBXzaSfJh9gEvy2jSo3J0PFOwLhJsZ/R/fo46RPO4y5XUHvgVoyZCFuC8AXCSyKwNxbk53",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGbkoEVo88bbgxu5L4DFlXm9Z5+ZXqp1Ojm/avUjubK/y"
       },
       {
         "name": "MTV 00",
-        "ico": "https://panelssh.com.ar/Img/mtv00.png",
+        "ico": "https://ztv.com.ar/Img2/mtv00.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxGe1R+xIk+ZBrgBqX2fEMyc1E2vNvyx8XZlCHQUsO6sb3YXD8JQREz5RCeVdkR3q4=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGbkoEVo88bbgxu5L4DFlXm8ZMPCqGn+rg3XuOr9VyUAM"
       },
       {
         "name": "VORTERIX",
-        "ico": "https://panelssh.com.ar/Img/vorterix.png",
+        "ico": "https://ztv.com.ar/Img2/vorterix.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgw2XQSTo7hyOz5m7p3Eq8DctDPjSs5agWjK6gzTmb2FazhusICbYXdhYSNwwsZRJBricapJcPvVSFIcnVmRXfI4",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGal8TYu5KWPp29cBZlYCPuzueIFJcKYw4idMOQ43M7xE"
       },
       {
         "name": "CM",
-        "ico": "https://panelssh.com.ar/Img/CM_TV.png",
+        "ico": "https://ztv.com.ar/Img2/CM_TV.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzz49xppkznib1GZlJ1qOH4/IXs1cm22S5NG1ft/xJZhE67GpibwbpJxQX7H1qaPcM=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGXIu+mTegnpv/Sfenc9rJoMd9WUjfUjanXXxZmu8scku"
@@ -1473,7 +1473,7 @@
       },
       {
         "name": "MUCH MUSIC",
-        "ico": "https://panelssh.com.ar/Img/MUCH_MUSIC.png",
+        "ico": "https://ztv.com.ar/Img2/MUCH_MUSIC.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwNiCMcLF1nN32hlMEPbxOtrwhVIPxtOn3Tqbm3J7oS6/S5lAkJyQAyQhVTce0lLcnH7Yu0FWxV8feK01LKLnSX",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGQ87o0TBh4P+4Pmnv1Wi8ZuzY1yEgUkhOQmTeNIsYgr8"
@@ -1486,245 +1486,245 @@
     "lista": [
   {
     "name": "RICK Y MORTY",
-    "ico": "https://panelssh.com.ar/Img/24/RYM.webp",
+    "ico": "https://ztv.com.ar/Img2/24/RYM.webp",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ+UkmV0TWyYWgL9o44/m5vk=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "ANIMANIACS",
-    "ico": "https://panelssh.com.ar/Img/24/ANIMA.webp",
+    "ico": "https://ztv.com.ar/Img2/24/ANIMA.webp",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ6pEo/gcpdD97aRgvP4gtyI=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "BOB ESPONJAS",
-    "ico": "https://panelssh.com.ar/Img/24/bob.jpeg",
+    "ico": "https://ztv.com.ar/Img2/24/bob.jpeg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZxQvoY4VigFF4cnPwDs3CKw=",
     "drm_scheme": "ClearKey",
     "drm_license_url": ""
   },
   {
     "name": "BUZZ LIGHTYEAR",
-    "ico": "https://panelssh.com.ar/Img/24/buzz-lightyear-portada.jpg",
+    "ico": "https://ztv.com.ar/Img2/24/buzz-lightyear-portada.jpg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZwFn0olIcxa25vFxJcV8y/c=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "CASTORES CASCARRAVIAS",
-    "ico": "https://panelssh.com.ar/Img/24/castores.jpg",
+    "ico": "https://ztv.com.ar/Img2/24/castores.jpg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ1D+B981n9DYpXvjT7SAGmI=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "PINKY Y CEREBRO",
-    "ico": "https://panelssh.com.ar/Img/24/pinkycere.jpeg",
+    "ico": "https://ztv.com.ar/Img2/24/pinkycere.jpeg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ1uO5taTlOWBAj3cuhkUyuw=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "CAT DOG",
-    "ico": "https://panelssh.com.ar/Img/24/catdog.jpeg",
+    "ico": "https://ztv.com.ar/Img2/24/catdog.jpeg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ6t5oATZQI6jA/IIdwPTDOs=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "CORAJE EL PERRO COBARDE",
-    "ico": "https://panelssh.com.ar/Img/24/coraje.jpg",
+    "ico": "https://ztv.com.ar/Img2/24/coraje.jpg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ0nPo3LfubnjqxRN2HVrki0=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "EL COYOTE Y EL CORRECAMINOS",
-    "ico": "https://panelssh.com.ar/Img/24/cyc.jpeg",
+    "ico": "https://ztv.com.ar/Img2/24/cyc.jpeg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ1IvcKH0NRnq+t+yZ0Hp/c0=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "EL LABORATORIO DE DEXTER",
-    "ico": "https://panelssh.com.ar/Img/24/dexter.jpeg",
+    "ico": "https://ztv.com.ar/Img2/24/dexter.jpeg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ7wlJdk5tCtFRfgfTturG40=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "EL PAJARO LOCO",
-    "ico": "https://panelssh.com.ar/Img/24/pajaroloco.jpeg",
+    "ico": "https://ztv.com.ar/Img2/24/pajaroloco.jpeg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ9CtNZzXNFSOT3oYRqlZbOU=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "EL SHOW DE LOS LOONEY TUNES",
-    "ico": "https://panelssh.com.ar/Img/24/ltshow.jpg",
+    "ico": "https://ztv.com.ar/Img2/24/ltshow.jpg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZwghZ8I0fRAiM2J+TrfoOOc=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "ESCANDALOSOS",
-    "ico": "https://panelssh.com.ar/Img/24/escanda.jpeg",
+    "ico": "https://ztv.com.ar/Img2/24/escanda.jpeg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZwhsgkTgI2sj0oU5f9HiBQM=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "FUTURAMA",
-    "ico": "https://panelssh.com.ar/Img/24/futurama.jpeg",
+    "ico": "https://ztv.com.ar/Img2/24/futurama.jpeg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ3OIGPXEItHIpxQaYmNsmHU=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "JIMMY NEUTRON",
-    "ico": "https://panelssh.com.ar/Img/24/jymy.jpg",
+    "ico": "https://ztv.com.ar/Img2/24/jymy.jpg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ6sY3dQJMJZhgQ1Km/1vq7E=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "JOHNNY BRAVO",
-    "ico": "https://panelssh.com.ar/Img/24/jony.jpeg",
+    "ico": "https://ztv.com.ar/Img2/24/jony.jpeg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ4L3S5l22b1Eu9phl3jZ4OM=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "LA CASA DE MICKEY MOUSE",
-    "ico": "https://panelssh.com.ar/Img/24/lcdmmouse.jpeg",
+    "ico": "https://ztv.com.ar/Img2/24/lcdmmouse.jpeg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ/XB9DkqunJbngr8C84L3Bo=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "LA PANTERA ROSA",
-    "ico": "https://panelssh.com.ar/Img/24/PinkPanther.webp",
+    "ico": "https://ztv.com.ar/Img2/24/PinkPanther.webp",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ6ZfhDl61uqm3hVLg5bqn5A=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "LOS GATOS SAMURAI",
-    "ico": "https://panelssh.com.ar/Img/24/lgsamurai.jpg",
+    "ico": "https://ztv.com.ar/Img2/24/lgsamurai.jpg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ5Dxj6PxP5rs6jntwHVSxYU=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "LOS PICAPIEDRAS",
-    "ico": "https://panelssh.com.ar/Img/24/lospica.webp",
+    "ico": "https://ztv.com.ar/Img2/24/lospica.webp",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ6LBowEUTIMs/eu93P1kltE=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "LOS SIMPSONS",
-    "ico": "https://panelssh.com.ar/Img/24/losimp.jpg",
+    "ico": "https://ztv.com.ar/Img2/24/losimp.jpg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ45XfAq3fYy6U2XYRWqi73E=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "LOS SIMPSONS NEW",
-    "ico": "https://panelssh.com.ar/Img/24/lossimpnew.jpeg",
+    "ico": "https://ztv.com.ar/Img2/24/lossimpnew.jpeg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ2YMOxKCDx2U0AybdI4SMpI=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "LOS THUNDERCATS",
-    "ico": "https://panelssh.com.ar/Img/24/thunder.webp",
+    "ico": "https://ztv.com.ar/Img2/24/thunder.webp",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ4jHDkeLAQrNrNySvH7puKo=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "MASHA Y EL OSO",
-    "ico": "https://panelssh.com.ar/Img/24/mashayeloso.webp",
+    "ico": "https://ztv.com.ar/Img2/24/mashayeloso.webp",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZyDRSF40JZ5ILJSZswMJW+E=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "PEPPA PIG",
-    "ico": "https://panelssh.com.ar/Img/24/pepa.webp",
+    "ico": "https://ztv.com.ar/Img2/24/pepa.webp",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ3W7YomPKXgaPUUixP4rlLk=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "PHINEAS Y FERB",
-    "ico": "https://panelssh.com.ar/Img/24/phineas.webp",
+    "ico": "https://ztv.com.ar/Img2/24/phineas.webp",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ8yIvKx//lUrEKqaBh1zNzE=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "POKEMON",
-    "ico": "https://panelssh.com.ar/Img/24/pokemon.jpg",
+    "ico": "https://ztv.com.ar/Img2/24/pokemon.jpg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ8WAYDuqIuHcgTsqujJVDkg=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "SAILOR MOON CRYSTAL",
-    "ico": "https://panelssh.com.ar/Img/24/saylormoon.jpg",
+    "ico": "https://ztv.com.ar/Img2/24/saylormoon.jpg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZym7f0uxWQAWJNoHbZ6E+G4=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "SHOUT PARK",
-    "ico": "https://panelssh.com.ar/Img/24/shoutpark.jpeg",
+    "ico": "https://ztv.com.ar/Img2/24/shoutpark.jpeg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ5/Eh87QWZ8/1mXCIB7v3Bg=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "TEEN TITANS GO",
-    "ico": "https://panelssh.com.ar/Img/24/teentitan.webp",
+    "ico": "https://ztv.com.ar/Img2/24/teentitan.webp",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ8TebzFFVp0x+LhxHOtD9iI=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "VACA Y POLLITO",
-    "ico": "https://panelssh.com.ar/Img/24/vyp.webp",
+    "ico": "https://ztv.com.ar/Img2/24/vyp.webp",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ1UY99kD8XVNkZ/26bbTqDw=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "YU GI OH",
-    "ico": "https://panelssh.com.ar/Img/24/yigio.webp",
+    "ico": "https://ztv.com.ar/Img2/24/yigio.webp",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ+MAV5FnqDp122bAx+6r9ao=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "SPIDERMAN",
-    "ico": "https://panelssh.com.ar/Img/24/spiderman.jpg",
+    "ico": "https://ztv.com.ar/Img2/24/spiderman.jpg",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ8UguxzZ9bwUlccxyrVU7Sc=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "SUPER CAMPEONES",
-    "ico": "https://panelssh.com.ar/Img/24/supercam.webp",
+    "ico": "https://ztv.com.ar/Img2/24/supercam.webp",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9hZcBENZMThMsCUWND71xZ57MXHQtjLzw6cvzyUshJEg=",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "TOM AND JERRY IN NEW YORK",
-    "ico": "https://panelssh.com.ar/Img/24/tomyjerry.webp",
+    "ico": "https://ztv.com.ar/Img2/24/tomyjerry.webp",
     "uri": "QBmKU8nygcho5kEWo/nbQSeoIw2anjGNwuQ0czPKNRfs4nRU4GIAFVJgbaHaivR9qP2wLtTe6WptHjxuGHJP8jcgdGNpJ0SA9pt06o3AIa4=",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -1737,7 +1737,7 @@
     "lista": [
   {
     "name": "PLAYBOY",
-    "ico": "https://panelssh.com.ar/Img/playboy.png",
+    "ico": "https://ztv.com.ar/Img2/playboy.png",
     "uri": "6ZvLEwVir4RDu/hYm2LB+iiaNXsPp4P2G0RWBd27EKGsYpUxe6TSM8oGoA97UnvhKo98MADoCsUGgg7USTYUpRiv5Nnuleosy78h52NL1EY=",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGVgSgOqIAc+oEvKKprOfdW8rEi6BaQ7FQG2EEl9oJXiE",
@@ -1745,7 +1745,7 @@
   },
   {
     "name": "SEXTREME",
-    "ico": "https://panelssh.com.ar/Img/sextreme.png",
+    "ico": "https://ztv.com.ar/Img2/sextreme.png",
     "uri": "6ZvLEwVir4RDu/hYm2LB+iiaNXsPp4P2G0RWBd27EKGMmwVCbJMhiTBWxDzNEXJq3IKcjQMBvcxCfcNw9FKPx1gqw7ro2yYiQ/Q9ATcDfcM=",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGdzuseDA6d40Q8qGUqujfA3ZxbXOxIW0XVTFs7rCoQjU",
@@ -1753,7 +1753,7 @@
   },
   {
     "name": "VENUS",
-    "ico": "https://panelssh.com.ar/Img/venus.png",
+    "ico": "https://ztv.com.ar/Img2/venus.png",
     "uri": "6ZvLEwVir4RDu/hYm2LB+iiaNXsPp4P2G0RWBd27EKF0xTgYMHhQXBN2WnB3+zlRLL7YGu3xzEqTxdJx3bhR6jXalS4g4/CMg7djqf2RGdo=",
     "drm_scheme": "ClearKey",
     "drm_license_url": "JykWahBk/YZpwXk5dC6hGX2ZAqZI9u65M5/b4lzpq7ATfLa5gFMsArgWzv0LZvkS",
@@ -1966,105 +1966,105 @@
       },
       {
         "name": "TV5 URUGUAY",
-        "ico": "https://panelssh.com.ar/Img/canal5uy.png",
+        "ico": "https://ztv.com.ar/Img2/canal5uy.png",
         "uri": "6ZvLEwVir4RDu/hYm2LB+iiaNXsPp4P2G0RWBd27EKGrQVsepszFchHC44L/zVcPZ8zCL1bU1afLonXSN1NPqSvlmZ559Xb33Uyh7H3cYWVw5f9kR68YkFFgaOFjZ5BW",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wruuCgBXKBfKfsKJXyFihbid"
       },
       {
         "name": "CANAL 4 URUGUAY",
-        "ico": "https://panelssh.com.ar/Img/canal4uy.png",
+        "ico": "https://ztv.com.ar/Img2/canal4uy.png",
         "uri": "6ZvLEwVir4RDu/hYm2LB+iiaNXsPp4P2G0RWBd27EKE5JWLEgSKF9Kza6cZhD8D9e7GeR+Ohwp/27ReUsak7H9EBZBR7P6uQJyPkhrrYjgSKjYkTXPRAdKpgi5cV7A8I",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGZDSEtcuwEyPXBwPMg/9wrvKkCDHViIfQckAqx7a27Hm"
       },
       {
         "name": "CNN EN ESPAÑOL",
-        "ico": "https://panelssh.com.ar/Img/CNN_ESPANOL.png",
+        "ico": "https://ztv.com.ar/Img2/CNN_ESPANOL.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyZ2WN7vPSI/LYEfGErkgHWpMgGav1uVxk0FLqilmO5guJmpuvIQMo/bXYr02baF6PczrKF2houI/e+7+h4Di9q2AYqHPdYMQGUCsqZGr67HQ==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGSqvNTO2e0HheHen0Dg0cD3IScL0qbdHAD0j1vGicc2S"
       },
       {
         "name": "BLOOMBERG",
-        "ico": "https://panelssh.com.ar/Img/BLOOMBERG.png",
+        "ico": "https://ztv.com.ar/Img2/BLOOMBERG.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgzgH2qWl/Mcj6aa/XN1qB5w29po1MqYhaFWSPGeI1uBrJJVhEgCoeISa5uFd72FURBZj3dP6wrQ0ljHl64eCYWP",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGW61vuJt4vaq4+tgGzy0GW+SaN9yN/GatacwEwgcbQzU"
       },
       {
         "name": "RAI ITALIA",
-        "ico": "https://panelssh.com.ar/Img/RAI_ITALIA.png",
+        "ico": "https://ztv.com.ar/Img2/RAI_ITALIA.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgym6iJ1uC1erBxw166oc9VRvRRLKpXjmAbR4fCxt4UAhLTmxksD/SiXdcmBketbe4s=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGWELFzCeGykgzdDIPnYrl/SZNDIKCJvutJfa9PDjQtGV"
       },
       {
         "name": "TV CHILE",
-        "ico": "https://panelssh.com.ar/Img/tvchile2.png",
+        "ico": "https://ztv.com.ar/Img2/tvchile2.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgz5Mk8uDHxhkU57IHv9VwT3+cPnzz5b7JxVUs6jM3WqRRFtpIvH7eKIcr1ObmWHyDDFQ1px2/pRtA/6bY9/GPDe",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGda+O5uUPMWSH8jxLz0KP2IpxjcoBxWxr498fo+UjRRD"
       },
       {
         "name": "TELESUR",
-        "ico": "https://panelssh.com.ar/Img/TELE_SUR.png",
+        "ico": "https://ztv.com.ar/Img2/TELE_SUR.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxA7hz9GxjT0sxv7gfzMdA3BEJ1qrB1xTGCx4tiLMjGGcv/0Hk7Mr4jLbeL7qIt14lOTfAIu6k+MNoP5L274CjE",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVo/iHlm867/BtlBXXYX9KGAXtn/SVvJfh0oZ5wubS7o"
       },
       {
         "name": "CNN INTERNACIONAL",
-        "ico": "https://panelssh.com.ar/Img/CNN_INTERNACIONAL.png",
+        "ico": "https://ztv.com.ar/Img2/CNN_INTERNACIONAL.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyZ2WN7vPSI/LYEfGErkgHWX6YSRZ9Kz7kLcxfOg+vh59YlixGJGJVbNb9dFo45BNM9X9OsIS8EPrwsyK0w/e+ucRnpMh1lcxF7MyweT/Oeew==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGSqvNTO2e0HheHen0Dg0cD3ZySwbPlQ9cbLfkJVvmXysu/TC020ambUS0n1UvSTgcw=="
       },
       {
         "name": "BBC NEWS",
-        "ico": "https://panelssh.com.ar/Img/bbcnews.png",
+        "ico": "https://ztv.com.ar/Img2/bbcnews.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgyyDd/q0+VXSQgFMk6ezsc5khzZCjZKIpEuLqI25/RTOJ+j6gy68y7lKkgvCKfmPwyvemqv30tJFhUlfBNOPdXk5tXHTicR/Khm1h/7dH0U9Q==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGby6LW6BFjdMjSlSgu8rE/OENrcsw/rn75bOqb7kuIl2"
       },
       {
         "name": "EURO NEWS",
-        "ico": "https://panelssh.com.ar/Img/EURO_NEWS.png",
+        "ico": "https://ztv.com.ar/Img2/EURO_NEWS.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwy7SWSQNmO6bdpEEgvGSE6PUKVOu/XJZ75kFZ/RTi265q01ChTR9CluY4KQy/cMYNey9Hv57kWbNcykpkX0a41",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGXDTerxnZV0lkfQbVsj/Xb2KsNlOqoHa1WbiA0f5mhOx"
       },
       {
         "name": "DW",
-        "ico": "https://panelssh.com.ar/Img/DW_CHANNEL.png",
+        "ico": "https://ztv.com.ar/Img2/DW_CHANNEL.png",
         "uri": "EpaxwvdVHLj6l4C4q+GDcMJBsL56TXfjnv06xDJtGK/dyoS34qN6qYyiYw4Jcx6G+28AucHzmMh0ZxaBCsuwGnS7LhlAayMMFTTh9Uzafoc=",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGbonqGUngxehPomO7k5EnzSudKU2jc7I4BrKHgr5/d4r"
       },
       {
         "name": "TV ESPAÑA",
-        "ico": "https://panelssh.com.ar/Img/TV_ESPANA.png",
+        "ico": "https://ztv.com.ar/Img2/TV_ESPANA.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwpUyZHPI/p9FOp8RqLpABiA1d3d9D7my7a5/dBG7f+sRW/UOI+zZ7q5LY+3Mv8bWKht9zrbK++bwMqj1wKXs6w",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVUJqs/82JfeEgyw9pjU9IsPpVk6plUqb3gZ6itoYSyR"
       },
       {
         "name": "TV5 MONDE",
-        "ico": "https://panelssh.com.ar/Img/TV5_MONDE.png",
+        "ico": "https://ztv.com.ar/Img2/TV5_MONDE.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgxnLkga61ezNvkkBPLEpGwFxIsuD+jmlnAt2SeRoEeaH+XHtSm7A2PNgwCJ99xfbmOt/GPJFB7G0D/cnJ6GaPXv",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGThTPcwlU6OIKSSTJgLrUufNHx7mC9TpTyE1PI10CSHr"
       },
       {
         "name": "ANTENA 3",
-        "ico": "https://panelssh.com.ar/Img/ANTENA3.png",
+        "ico": "https://ztv.com.ar/Img2/ANTENA3.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgwHMHYZMg1AqC4hYS3JxounxWTW/5M5EhQjA+mjD8so6D3R5AhuUIz2nGhQ2qhh/UKoxpVFNP5h+DKXeK+Zsy2y",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGfPpME8GyA92/gGmgkSc6JFQAYn4szBTg3j5bWoyNmsT"
       },
       {
         "name": "TELEMUNDO INTERNACIONAL",
-        "ico": "https://panelssh.com.ar/Img/telemundointernacional.png",
+        "ico": "https://ztv.com.ar/Img2/telemundointernacional.png",
         "uri": "o9Yd8hyJCRIVlLOsHZGaapoEC7Erapt9cHIAxLGWlgx/p4T0aEqKDspBNOtugNFjJ4jvkmgEAOGI6n9pS0s52DMxAY6AIWwsyW0106ieiVAK/J2sDdIj3cdVLKS+PQR4",
         "drm_scheme": "ClearKey",
         "drm_license_url": "JykWahBk/YZpwXk5dC6hGVo/iHlm867/BtlBXXYX9KHz/2I5L6N2YmPj9g6c9TeZhFZqRNhF0Hk7NgqCXOVrtA=="
