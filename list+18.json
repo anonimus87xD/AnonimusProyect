@@ -1493,42 +1493,42 @@
     "lista": [
   {
     "name": "BILLY Y MANDY",
-    "ico": "https://ztv.com.ar/Img/billyymandy.png",
+    "ico": "https://ztv.com.ar/Img2/billyymandy.png",
     "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF5Ph93s26Qe7W0XXdWggnDDvBWolEhzQ3sopwnsxX/Cee9bQO+PsHyuA9V+aFiJLza7xawdmeV72YADhXCeW/2ngNe2ZarhA16WwRFGIDPMg==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "ED, EDD Y EDDY",
-    "ico": "https://ztv.com.ar/Img/edyedy.png",
+    "ico": "https://ztv.com.ar/Img2/edyedy.png",
     "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF5Ph93s26Qe7W0XXdWggnDDvBWolEhzQ3sopwnsxX/Cee9bQO+PsHyuA9V+aFiJLza7xawdmeV72YADhXCeW/2J55ikPkfF8isMt4j65jCGQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "LOS CHICOS DEL BARRIO",
-    "ico": "https://ztv.com.ar/Img/loschicosdelbarrio.png",
+    "ico": "https://ztv.com.ar/Img2/loschicosdelbarrio.png",
     "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF5Ph93s26Qe7W0XXdWggnDDvBWolEhzQ3sopwnsxX/Cee9bQO+PsHyuA9V+aFiJLza7xawdmeV72YADhXCeW/2ARvNlFAaqreZURO91PuVkQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "JHONNY BRAVO",
-    "ico": "https://ztv.com.ar/Img/jhonny_bravo.png",
+    "ico": "https://ztv.com.ar/Img2/jhonny_bravo.png",
     "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF5Ph93s26Qe7W0XXdWggnDDvBWolEhzQ3sopwnsxX/Cee9bQO+PsHyuA9V+aFiJLza7xawdmeV72YADhXCeW/21yiv55IRWI38WHDsfDswgA==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "MR. BEAN",
-    "ico": "https://ztv.com.ar/Img/mr_bean.png",
+    "ico": "https://ztv.com.ar/Img2/mr_bean.png",
     "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHcGLnBY8LgqzJkzODyEjNG8tkJwmc108tX66wMTsvQhitIooacxnR3nXixC7LHhjpnnzoNbSew2j51Vykl26E+0hg75o3EpID8mbFI0LePNmQ==",
     "drm_scheme": "",
     "drm_license_url": ""
   },
   {
     "name": "LOS TRES CHIFLADOS",
-    "ico": "https://ztv.com.ar/Img/los_tres_chiflados.png",
+    "ico": "https://ztv.com.ar/Img2/los_tres_chiflados.png",
     "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHcGLnBY8LgqzJkzODyEjNG8tkJwmc108tX66wMTsvQhitIooacxnR3nXixC7LHhjpnnzoNbSew2j51Vykl26E+0+jYggXLhC6GyQtaWy+CW6Q==",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -1591,7 +1591,7 @@
   },
   {
     "name": "TOM Y JERRY",
-    "ico": "https://ztv.com.ar/Img/tom_and_jerry.png",
+    "ico": "https://ztv.com.ar/Img2/tom_and_jerry.png",
     "uri": "9tYmbO6I+owAQ7msURD4YsOUs64o9q0QTtF0wnUhQHcGLnBY8LgqzJkzODyEjNG8tkJwmc108tX66wMTsvQhitIooacxnR3nXixC7LHhjpnnzoNbSew2j51Vykl26E+0QUgJD4LP1OijBi4IcFpE+Q==",
     "drm_scheme": "",
     "drm_license_url": ""
@@ -1600,20 +1600,6 @@
     "name": "CORAJE EL PERRO COBARDE",
     "ico": "https://x.playerlatino.live/coraje.png",
     "uri": "C/xavOLfZhDcdRmBj1+PnTPQAE2BE+ZwjF1naAQE+oF5Ph93s26Qe7W0XXdWggnDDvBWolEhzQ3sopwnsxX/Cee9bQO+PsHyuA9V+aFiJLza7xawdmeV72YADhXCeW/2S84azOJh7Yx1ymiWGz1TlQ==",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "La idea de ti (2024)",
-    "ico": "https://image.tmdb.org/t/p/original/gDwozlXGEg1bvszDlfEMbLRvPgR.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8F4QsbkjURd2vodDClyQj5mufe6uJ+m3lTQ7Sql5bZ2bp1PtBZaaoyqWe3SbElu60=",
-    "drm_scheme": "",
-    "drm_license_url": ""
-  },
-  {
-    "name": "Miller's Girl (2024)",
-    "ico": "https://image.tmdb.org/t/p/original/bqxgqG4C4kOOUiJQwQc6xZOu3A3.jpg",
-    "uri": "3VoTDGpnJS+nm5pH8nDmD0fx1Z8VKYTqsi77l+zXdH8KNIU2WkjNcn6kBtTJoBcNSLJKNKTc+ct7hhTXn5ham1Qf1vYxo2dmpaEsoaZ8zgE=",
     "drm_scheme": "",
     "drm_license_url": ""
   }
