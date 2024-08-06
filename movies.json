@@ -3,8 +3,36 @@
         "name": "PELICULAS ESTRENOS 2024",
         "mode": false,
         "lista": [
+	  {
+    "name": "Amor mentiras y sangre(2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yEQKiZOVzVZquN7R6BRyY4n6JET.jpg",
+    "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXTUp1LczEOR9lp0Qc07cW+KgfB1y9wWH8zDzI1Q9wrHgCY5DDoUia7mpqChvws5b3I=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Un lugar en silencio dia uno(2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6efQJ7pu9GPketUDBAhJtgZLkvD.jpg",
+    "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXRgpdR17aVNpI5zkPx84XFkf9DYbHmcz75F0XkY7Vpx5dRngaM5+R+OuX6D6PC/gqc=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Trampa en alta mar(2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tIbIgFQBYiXj6dRTGwy5rkeMMdc.jpg",
+    "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXQo0vDx3j2XSaiRS3j0+AOlrUv7XfmZ/LlzcBnwa9qbYw==",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },
+  {
+    "name": "Al rescate de Fondo de Bikini: La película de Arenita(2024)",
+    "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q8LdEq7DyeeHRWjhy8USd1CmesU.jpg",
+    "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXQEctz5go0ws5CGzUvScHE/myJ1TR2mFcuZmF18pVHu3FQ2iDpett85ZDx76MdWG98=",
+    "drm_scheme": "",
+    "drm_license_url": ""
+  },	
 		  {
-    "name": "Deadpool y Lobezno (2024)",
+    "name": "Deadpool y Wolverine(2024)",
     "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg",
     "uri": "YU1fXwii63zjwHX/Ys6a/c1PFZIwBefZpkz/GSteWXSGh231lWVJs5ehaqAOheioBBuIZi1beySWMr/6PcBjO/aYTFQvF+qmvhHgOPaY34Q=",
     "drm_scheme": "",
